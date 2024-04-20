@@ -1,0 +1,32 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,100483,60
+
+[1]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,100CF6,09
+
+[2]
+Name=Infinite Health
+0=Off,0,0
+1=P1 On,100CF7,05
+
+[3]
+Name=Infinite Bombs
+0=Off,0,0
+1=P1 On,100CF4,05
+
+[4]
+Name=Invulnerabirity
+0=Off,0,0
+1=P1 On,100C66,FF
+
+[5]
+Name=P1 Power Level
+0=Off,0,0
+1=Power Lv.1,100CF9,00
+2=Power Lv.2,100CF9,01
+3=Power Lv.3,100CF9,02
+4=Ultimate,100CF9,03

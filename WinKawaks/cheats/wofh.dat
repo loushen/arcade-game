@@ -1,0 +1,159 @@
+[0]
+Name=Infinite Time
+0=No,0,0
+1=Yes,FF81B3,3B
+
+[1]
+Name=Infinite Boss Time
+0=No,0,0
+1=Yes,FF81DF,63
+
+[2]
+Name=P1 Inf Lives
+0=No,0,0
+1=Yes,FF7F9A,03
+
+[3]
+Name=P1 Inf Energy
+0=No,0,0
+1=Yes,FFBE9E,68
+
+[4]
+Name=P1 Invincible
+0=No,0,0
+1=Yes,FFBED4,B4
+
+[5]
+Name=P1 Defence Level
+0=Normal,0,0
+1=Normal,FFBEB0,00
+2=Weak,FFBEB0,08
+
+[6]
+Name=P1 Attack Mode
+0=Normal,0,0
+1=Endless,FFBECB,02
+2=Final Blow,FFBECB,01
+
+[7]
+Name=P1 Hold Mode
+0=Normal,0,0
+1=Endless,FFBED5,09
+2=1 Hit,FFBED5,01
+
+[8]
+Name=P1 Char Select
+0=Normal,0,0
+1=Portor,FFBE3C,00
+2=Kassar,FFBE3C,01
+3=Subutai,FFBE3C,02
+4=Kadan,FFBE3C,03
+5=Abaka,FFBE3C,04
+
+[9]
+Name=P2 Inf Lives
+0=No,0,0
+1=Yes,FF7F9D,03
+
+[10]
+Name=P2 Inf Energy
+0=No,0,0
+1=Yes,FFBF7E,68
+
+[11]
+Name=P2 Invincible
+0=No,0,0
+1=Yes,FFBFB4,B4
+
+[12]
+Name=P2 Defence Level
+0=Normal,0,0
+1=Normal,FFBF90,00
+2=Weak,FFBF90,08
+
+[13]
+Name=P2 Attack Mode
+0=Normal,0,0
+1=Endless,FFBFAB,02
+2=Final Blow,FFBFAB,01
+
+[14]
+Name=P2 Hold Mode
+0=Normal,0,0
+1=Endless,FFBFB5,09
+2=1 Hit,FFBFB5,01
+
+[15]
+Name=P2 Char Select
+0=Normal,0,0
+1=Portor,FFBF1C,00
+2=Kassar,FFBF1C,01
+3=Subutai,FFBF1C,02
+4=Kadan,FFBF1C,03
+5=Abaka,FFBF1C,04
+
+[16]
+Name=P3 Inf Lives
+0=No,0,0
+1=Yes,FF7F9C,03
+
+[17]
+Name=P3 Inf Energy
+0=No,0,0
+1=Yes,FFC05E,68
+
+[18]
+Name=P3 Invincible
+0=No,0,0
+1=Yes,FFC094,B4
+
+[19]
+Name=P3 Defence Level
+0=Normal,0,0
+1=Normal,FFC070,00
+2=Weak,FFC070,08
+
+[20]
+Name=P3 Attack Mode
+0=Normal,0,0
+1=Endless,FFC08B,02
+2=Final Blow,FFC08B,01
+
+[21]
+Name=P3 Hold Mode
+0=Normal,0,0
+1=Endless,FFC095,09
+2=1 Hit,FFC095,01
+
+[22]
+Name=P3 Char Select
+0=Normal,0,0
+1=Portor,FFBFFC,00
+2=Kassar,FFBFFC,01
+3=Subutai,FFBFFC,02
+4=Kadan,FFBFFC,03
+5=Abaka,FFBFFC,04
+
+[23]
+Name=Final Boss
+0=Normal,0,0
+1=Kill Final Boss,FF5698,23,FF569B,00,FF6228,05,FF6332,46,FF6334,85
+2=Release Final Boss,FF5698,97,FF569B,FF,FF6228,11,FF6332,D2,FF6334,11
+
+[24]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FF7F89,00
+2=Stage 2,FF7F89,01
+3=Bonus 1,FF7F89,02
+4=Stage 3,FF7F89,03
+5=Boss 4,FF7F89,04
+6=Stage 4,FF7F89,05
+7=Stage 5-1,FF7F89,06
+8=Stage 5-2,FF7F89,07
+9=Stage 6,FF7F89,08
+10=Bonus 2,FF7F89,09
+11=Stage 7,FF7F89,0A
+12=Stage 8,FF7F89,0B
+13=Stage 9,FF7F89,0C
+14=Final Battle,FF7F89,0D

@@ -1,0 +1,202 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF8204,00
+2=USA,FF8204,02
+3=Asia,FF8204,04
+4=Hispanic,FF8204,06
+5=Brazil,FF8204,08
+6=Euro,FF8204,0A
+
+[1]
+Name=Title
+0=Normal,0,0
+1=Vampire Hunter,FF8215,00
+2=Night Warriors,FF8215,01
+
+[2]
+Name=Game Speed
+0=Normal,0,0
+1=Normal,FF8212,00
+2=Turbo,FF8212,01
+
+[3]
+Name=Infinite Time
+0=No,0,0
+1=Yes,FF8E08,99
+
+[4]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF83CA,90
+
+[5]
+Name=P1 Inf Power Level
+0=No,0,0
+1=Yes,FF8564,63
+
+[6]
+Name=P1 Inf Power Gauge
+0=No,0,0
+1=Yes,FF855E,70
+
+[7]
+Name=P1 Inf Auto Guard
+0=No,0,0
+1=Yes,FF850C,01,FF884D,63
+
+[8]
+Name=P1 1 Win Match
+0=No,0,0
+1=Yes,FF8831,02
+
+[9]
+Name=P1 Action Speed Up
+0=No,0,0
+1=Yes,FF8396,01
+
+[10]
+Name=P1 No Hit Stop
+0=No,0,0
+1=Yes,FF83D2,00
+
+[11]
+Name=P1 Attack Level
+0=Normal,0,0
+1=Low,FF83EC,00
+2=Medium,FF83EC,01
+3=High,FF83EC,02
+
+[12]
+Name=P1 Char Select
+0=Normal,0,0
+1=Anakaris,FF8828,06
+2=Aulbath,FF8828,09
+3=Bishamon,FF8828,08
+4=Demitri,FF8828,01
+5=Donovan,FF8828,0E
+6=Felicia,FF8828,07
+7=Gallon,FF8828,02
+8=Lei-Lei,FF8828,0D
+9=Morrigan,FF8828,05
+10=Phobos,FF8828,0B
+11=Pyron,FF8828,0C
+12=Sasquatch,FF8828,0A
+13=Victor,FF8828,03
+14=Zabel,FF8828,04
+
+[13]
+Name=P1 Colour
+0=Normal,0,0
+1=Colour 1,FF882E,00
+2=Colour 2,FF882E,01
+3=Colour 3,FF882E,02
+4=Colour 4,FF882E,03
+5=Colour 5,FF882E,04
+6=Colour 6,FF882E,05
+7=Colour 7,FF882E,06
+8=Colour 8,FF882E,07
+
+[14]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF88CA,90
+
+[15]
+Name=P2 Inf Power Level
+0=No,0,0
+1=Yes,FF8A64,63
+
+[16]
+Name=P2 Inf Power Gauge
+0=No,0,0
+1=Yes,FF8A5E,70
+
+[17]
+Name=P2 Inf Auto Guard
+0=No,0,0
+1=Yes,FF8A0C,01,FF8D4D,63
+
+[18]
+Name=P2 1 Win Match
+0=No,0,0
+1=Yes,FF8D31,02
+
+[19]
+Name=P2 Action Speed Up
+0=No,0,0
+1=Yes,FF8896,01
+
+[20]
+Name=P2 No Hit Stop
+0=No,0,0
+1=Yes,FF88D2,00
+
+[21]
+Name=P2 Attack Level
+0=Normal,0,0
+1=Low,FF88EC,00
+2=Medium,FF88EC,01
+3=High,FF88EC,02
+
+[22]
+Name=P2 Char Select
+0=Normal,0,0
+1=Anakaris,FF8D28,06
+2=Aulbath,FF8D28,09
+3=Bishamon,FF8D28,08
+4=Demitri,FF8D28,01
+5=Donovan,FF8D28,0E
+6=Felicia,FF8D28,07
+7=Gallon,FF8D28,02
+8=Lei-Lei,FF8D28,0D
+9=Morrigan,FF8D28,05
+10=Phobos,FF8D28,0B
+11=Pyron,FF8D28,0C
+12=Sasquatch,FF8D28,0A
+13=Victor,FF8D28,03
+14=Zabel,FF8D28,04
+
+[23]
+Name=P2 Colour
+0=Normal,0,0
+1=Colour 1,FF8D2E,00
+2=Colour 2,FF8D2E,01
+3=Colour 3,FF8D2E,02
+4=Colour 4,FF8D2E,03
+5=Colour 5,FF8D2E,04
+6=Colour 6,FF8D2E,05
+7=Colour 7,FF8D2E,06
+8=Colour 8,FF8D2E,07
+
+[24]
+Name=BackGround Select
+0=Normal,0,0
+1=Anakaris,FF8D88,05
+2=Aulbath,FF8D88,08
+3=Bishamon,FF8D88,07
+4=Demitri,FF8D88,00
+5=Donovan,FF8D88,0D
+6=Felicia,FF8D88,06
+7=Gallon,FF8D88,01
+8=Lei-Lei,FF8D88,0C
+9=Morrigan,FF8D88,04
+10=Phobos,FF8D88,0A
+11=Pyron,FF8D88,0B
+12=Sasquatch,FF8D88,09
+13=Victor,FF8D88,02
+14=Zabel,FF8D88,03
+
+[25]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FF8843,00
+2=Stage 2,FF8843,01
+3=Stage 3,FF8843,02
+4=Stage 4,FF8843,03
+5=Stage 5,FF8843,04
+6=Stage 6,FF8843,05
+7=Stage 7,FF8843,06
+8=Stage 8,FF8843,07
+9=Stage 9,FF8843,08
+10=Stage 10,FF8843,09

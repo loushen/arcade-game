@@ -1,0 +1,41 @@
+[0]
+Name=P1 Character
+0=Off,0,0
+1=JOE,10600D,01
+2=RAYAR,10600D,02
+3=RYU,10600D,03
+
+[1]
+Name=P1 Infinite Health
+0=Off,0,0
+1=On,106030,00,106031,02
+
+[2]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,1000C1,FF
+
+[3]
+Name=P1 Ultimate Shot
+0=Off,0,0
+1=On,10B0CE,14
+
+[4]
+Name=P1 Scroll x2
+0=Off,0,0
+1=On,10600B,02
+
+[5]
+Name=P1 Endless Tranceform
+0=Off,0,0
+1=On,10603C,9F,10603D,01
+
+[6]
+Name=P1 ?? Power
+0=Off,0,0
+1=Endless EX Attack,1016CC,FF,10174C,FF,1017CC,FF,1018CC,FF
+
+[7]
+Name=P1 999 Coins
+0=Off,0,0
+1=On,106020,99,106021,09

@@ -1,0 +1,198 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+
+[1]
+Name=Title
+0=Normal,0,0
+1=Vampire Saviour,FF8088,00
+2=Darkstalkers,FF8088,01
+
+[2]
+Name=Infinite Battle Time
+0=No,0,0
+1=Yes,FF8108,63
+
+[3]
+Name=Sound Test Timer Stop
+0=No,0,0
+1=Yes,FF800A,FF
+
+[4]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF8450,20,FF8452,20
+
+[5]
+Name=P1 Inf Power Level
+0=No,0,0
+1=Yes,FF8508,63
+
+[6]
+Name=P1 Inf Power Gauge
+0=No,0,0
+1=Yes,FF850A,90
+
+[7]
+Name=P1 Soul Keeper
+0=No,0,0
+1=Yes,FF87BD,FF
+
+[8]
+Name=P1 Eternal Dark Force Mode
+0=No,0,0
+1=Yes,FF8576,70
+
+[9]
+Name=P1 Air Moves
+0=No,0,0
+1=Yes,FF8439,0
+
+[10]
+Name=P1 No Shot Limit
+0=No,0,0
+1=Yes,FF8548,0,FF8580,0
+
+[11]
+Name=P1 Action Speed Up
+0=No,0,0
+1=Yes,FF8421,1
+
+[12]
+Name=P1 No Hit Stop
+0=No,0,0
+1=Yes,FF845D,0
+
+[13]
+Name=P1 No Guard Stop
+0=No,0,0
+1=Yes,FF8568,0
+
+[14]
+Name=P1 Controller Mode
+0=Normal,0,0
+1=User Play,FF87B5,0
+2=Computer Play,FF87B5,1
+
+[15]
+Name=P1 Char Select
+0=Normal,0,0
+1=Anarkis,FF8783,06
+2=BabyBonnieHood,FF8783,00
+3=Bishamon,FF8783,08
+4=Dark J.Talbain,FF8783,12
+5=Demetri,FF8783,01
+6=Felicia,FF8783,07
+7=Hsien-Ko,FF8783,0D
+8=J.Talbain,FF8783,02
+9=Jedah,FF8783,0F
+10=L.Rapter,FF8783,04
+11=L.Rapter (Gold)*,FF8783,0B
+12=Lilith,FF8783,0E
+13=Morrigan,FF8783,05
+14=Oboro Bishamon,FF8783,18
+15=Q-Bee,FF8783,0C
+16=Rikuo,FF8783,09
+17=Sasquatch,FF8783,0A
+18=Victor,FF8783,03
+
+[16]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF8850,20,FF8852,20
+
+[17]
+Name=P2 Inf Power Level
+0=No,0,0
+1=Yes,FF8908,63
+
+[18]
+Name=P2 Inf Power Gauge
+0=No,0,0
+1=Yes,FF890A,90
+
+[19]
+Name=P2 Soul Keeper
+0=No,0,0
+1=Yes,FF8BBD,FF
+
+[20]
+Name=P2 Eternal Dark Force Mode
+0=No,0,0
+1=Yes,FF8976,70
+
+[21]
+Name=P2 Air Moves
+0=No,0,0
+1=Yes,FF8839,0
+
+[22]
+Name=P2 No Shot Limit
+0=No,0,0
+1=Yes,FF8948,0,FF8980,0
+
+[23]
+Name=P2 Action Speed Up
+0=No,0,0
+1=Yes,FF8821,1
+
+[24]
+Name=P2 No Hit Stop
+0=No,0,0
+1=Yes,FF885D,0
+
+[25]
+Name=P2 No Guard Stop
+0=No,0,0
+1=Yes,FF8968,0
+
+[26]
+Name=P2 Controller Mode
+0=Normal,0,0
+1=User Play,FF8BB5,0
+2=Computer Play,FF8BB5,1
+
+[27]
+Name=P2 Char Select
+0=Normal,0,0
+1=Anarkis,FF8B83,06
+2=BabyBonnieHood,FF8B83,00
+3=Bishamon,FF8B83,08
+4=Dark J.Talbain,FF8B83,12
+5=Demetri,FF8B83,01
+6=Felicia,FF8B83,07
+7=Hsien-Ko,FF8B83,0D
+8=J.Talbain,FF8B83,02
+9=Jedah,FF8B83,0F
+10=L.Rapter,FF8B83,04
+11=L.Rapter (Gold)*,FF8B83,0B
+12=Lilith,FF8B83,0E
+13=Morrigan,FF8B83,05
+14=Oboro Bishamon,FF8B83,18
+15=Q-Bee,FF8B83,0C
+16=Rikuo,FF8B83,09
+17=Sasquatch,FF8B83,0A
+18=Victor,FF8B83,03
+
+[28]
+Name=BackGround Select
+0=Normal,0,0
+1=Abaraya,FF8100,0A
+2=Concrete Cave,FF8100,02
+3=Deserted Chateau,FF8100,08
+4=Feast of the Damned,FF8100,00
+5=Fetus of God,FF8100,16
+6=Forever Torment,FF8100,10
+7=Green Scream,FF8100,12
+8=Iron Horse - Iron Terror,FF8100,14
+9=Red Thirst,FF8100,06
+10=Tower of Arrogance,FF8100,04
+11=Vanity Paradise,FF8100,0C
+12=War Agony,FF8100,0E

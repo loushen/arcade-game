@@ -1,0 +1,288 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF8110,00
+2=USA,FF8110,02
+3=Hispanic,FF8110,04
+4=Oceania,FF8110,06
+5=Asia,FF8110,08
+6=Euro,FF8110,0A
+7=Brazil,FF8110,0C
+
+[1]
+Name=Infinite Time
+0=No,0,0
+1=Yes,FF8189,99
+
+[2]
+Name=Move Round Announce
+0=No,0,0
+1=Yes,FF818F,00
+
+[3]
+Name=P1 Inf Select Time*
+0=No,0,0
+1=Yes,FF840F,14
+
+[4]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF8440,90
+
+[5]
+Name=P1 Inf Power Level
+0=No,0,0
+1=Yes,FF8595,09
+
+[6]
+Name=P1 Inf Power Gauge
+0=No,0,0
+1=Yes,FF8594,60
+
+[7]
+Name=P1 Air Moves
+0=No,0,0
+1=Yes,FF844E,00
+
+[8]
+Name=P1 No Hit Stop
+0=No,0,0
+1=Yes,FF844D,00
+
+[9]
+Name=P1 No Shot Limit
+0=No,0,0
+1=Yes,FF8571,00
+
+[10]
+Name=P1 Endless Shot Hit
+0=No,0,0
+1=Yes,FF9840,63,FF9940,63
+
+[11]
+Name=P1 Action Speed Up
+0=No,0,0
+1=Yes,FF8418,01
+
+[12]
+Name=P1 Max Red Gem Attack
+0=No,0,0
+1=Yes,FF85A2,60
+
+[13]
+Name=P1 Max Yellow Gem Attack
+0=No,0,0
+1=Yes,FF85A4,60
+
+[14]
+Name=P1 Max Blue Gem Attack
+0=No,0,0
+1=Yes,FF85A6,60
+
+[15]
+Name=P1 Max Guard Crush
+0=No,0,0
+1=Yes,FF8538,3C
+
+[16]
+Name=P1 No Flash Combo
+0=No,0,0
+1=Yes,FF859A,00,FF859B,01,FF859C,00
+
+[17]
+Name=P1 Char Select
+0=Normal,0,0
+1=Chun-Li,FF8402,04,FF8780,02
+2=Dan,FF8402,03,FF8780,0A
+3=Felicia,FF8402,08,FF8780,06
+4=Gouki,FF8402,00,FF8780,0B
+5=Ibuki,FF8402,0B,FF8780,08
+6=Ken,FF8402,02,FF8780,01
+7=Lei-Lei,FF8402,07,FF8780,05
+8=Morrigan,FF8402,06,FF8780,04
+9=Ryu,FF8402,01,FF8780,00
+10=Sakura,FF8402,05,FF8780,03
+11=Tabasa,FF8402,09,FF8780,07
+12=Zangief,FF8402,0A,FF8780,09
+
+[18]
+Name=P1 Gem Slot 1
+0=Normal,0,0
+1=None,FF85F1,FF
+2=Flame,FF85F1,00
+3=Water,FF85F1,01
+4=Lightning,FF85F1,02
+5=Skull,FF85F1,03
+6=Banana,FF85F1,04
+7=Bomb,FF85F1,05
+8=Petrify,FF85F1,06
+
+[19]
+Name=P1 Gem Slot 2
+0=Normal,0,0
+1=None,FF85F0,FF
+2=Flame,FF85F0,00
+3=Water,FF85F0,01
+4=Lightning,FF85F0,02
+5=Skull,FF85F0,03
+6=Banana,FF85F0,04
+7=Bomb,FF85F0,05
+8=Petrify,FF85F0,06
+
+[20]
+Name=P1 Gem Slot 3
+0=Normal,0,0
+1=None,FF85F3,FF
+2=Flame,FF85F3,00
+3=Water,FF85F3,01
+4=Lightning,FF85F3,02
+5=Skull,FF85F3,03
+6=Banana,FF85F3,04
+7=Bomb,FF85F3,05
+8=Petrify,FF85F3,06
+
+[21]
+Name=P2 Inf Select Time*
+0=No,0,0
+1=Yes,FF880F,14
+
+[22]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF8840,90
+
+[23]
+Name=P2 Inf Power Level
+0=No,0,0
+1=Yes,FF8995,09
+
+[24]
+Name=P2 Inf Power Gauge
+0=No,0,0
+1=Yes,FF8994,60
+
+[25]
+Name=P2 Air Moves
+0=No,0,0
+1=Yes,FF884E,00
+
+[26]
+Name=P2 No Hit Stop
+0=No,0,0
+1=Yes,FF884D,00
+
+[27]
+Name=P2 No Shot Limit
+0=No,0,0
+1=Yes,FF8971,00
+
+[28]
+Name=P2 Endless Shot Hit
+0=No,0,0
+1=Yes,FF9440,63,FF9540,63
+
+[29]
+Name=P2 Action Speed Up
+0=No,0,0
+1=Yes,FF8818,01
+
+[30]
+Name=P2 Max Red Gem Attack
+0=No,0,0
+1=Yes,FF89A2,60
+
+[31]
+Name=P2 Max Yellow Gem Attack
+0=No,0,0
+1=Yes,FF89A4,60
+
+[32]
+Name=P2 Max Blue Gem Attack
+0=No,0,0
+1=Yes,FF89A6,60
+
+[33]
+Name=P2 Max Guard Crush
+0=No,0,0
+1=Yes,FF8938,3C
+
+[34]
+Name=P2 No Flash Combo
+0=No,0,0
+1=Yes,FF899A,00,FF899B,01,FF899C,00
+
+[35]
+Name=P2 Char Select
+0=Normal,0,0
+1=Chun-Li,FF8802,04,FF8B80,02
+2=Dan,FF8802,03,FF8B80,0A
+3=Felicia,FF8802,08,FF8B80,06
+4=Gouki,FF8802,00,FF8B80,0B
+5=Ibuki,FF8802,0B,FF8B80,08
+6=Ken,FF8802,02,FF8B80,01
+7=Lei-Lei,FF8802,07,FF8B80,05
+8=Morrigan,FF8802,06,FF8B80,04
+9=Ryu,FF8802,01,FF8B80,00
+10=Sakura,FF8802,05,FF8B80,03
+11=Tabasa,FF8802,09,FF8B80,07
+12=Zangief,FF8802,0A,FF8B80,09
+
+[36]
+Name=P2 Gem Slot 1
+0=Normal,0,0
+1=None,FF89F1,FF
+2=Flame,FF89F1,00
+3=Water,FF89F1,01
+4=Lightning,FF89F1,02
+5=Skull,FF89F1,03
+6=Banana,FF89F1,04
+7=Bomb,FF89F1,05
+8=Petrify,FF89F1,06
+
+[37]
+Name=P2 Gem Slot 2
+0=Normal,0,0
+1=None,FF89F0,FF
+2=Flame,FF89F0,00
+3=Water,FF89F0,01
+4=Lightning,FF89F0,02
+5=Skull,FF89F0,03
+6=Banana,FF89F0,04
+7=Bomb,FF89F0,05
+8=Petrify,FF89F0,06
+
+[38]
+Name=P2 Gem Slot 3
+0=Normal,0,0
+1=None,FF89F3,FF
+2=Flame,FF89F3,00
+3=Water,FF89F3,01
+4=Lightning,FF89F3,02
+5=Skull,FF89F3,03
+6=Banana,FF89F3,04
+7=Bomb,FF89F3,05
+8=Petrify,FF89F3,06
+
+[39]
+Name=BackGround Select
+0=Normal,0,0
+1=BackGround 1,FF8180,00
+2=BackGround 2,FF8180,02
+3=BackGround 3,FF8180,04
+4=BackGround 4,FF8180,06
+5=BackGround 5,FF8180,08
+6=BackGround 6,FF8180,0A
+7=BackGround 7,FF8180,0C
+8=BackGround 8,FF8180,0E
+
+[40]
+Name=Stage Select*
+0=Normal,0,0
+1=Stage 1,FF8192,00
+2=Stage 2,FF8192,01
+3=Stage 3,FF8192,02
+4=Stage 4,FF8192,03
+5=Stage 5,FF8192,04
+6=Stage 6,FF8192,05
+7=Stage 7,FF8192,06
+8=Stage 8,FF8192,07

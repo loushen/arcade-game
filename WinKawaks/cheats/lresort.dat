@@ -1,0 +1,57 @@
+[0]
+Name=Infinite Ships
+0=Off,0,0
+1=On,108031,63
+
+[1]
+Name=Invulnerabirity
+0=Off,0,0
+1=On,104228,FF
+
+[2]
+Name=Shot Level
+0=Off,0,0
+1=Level 1,104264,00
+2=Level 2,104264,01
+3=Level 3,104264,02
+4=Level 4,104264,03
+5=Level 5,104264,04
+
+[3]
+Name=Speed Level
+0=Off,0,0
+1=Level 1,104266,01
+2=Level 2,104266,02
+3=Level 3,104266,03
+4=Level 4,104266,04
+5=Level 5,104266,05
+
+[4]
+Name=Weapon Type
+0=Off,0,0
+1=Nothing,10422B,00
+2=Laser,10422B,26
+3=Homing,10422B,12
+4=Granade,10422B,46
+
+[5]
+Name=Pod Power Gauge
+0=Off,0,0
+1=Nothing,10424B,00
+2=Full,10424B,7F
+
+[6]
+Name=No Shot Count Limit
+0=Off,0,0
+1=On,10425E,00
+
+[7]
+Name=No Weapon Count Limit
+0=Off,0,0
+1=Laser,104258,00,104259,00
+2=Homing,10424C,00,10424D,00
+3=Granade,10425C,00,10425D,00
+4=Laser and Homing,104258,00,104259,00,10424C,00,10424D,00
+5=Laser and Granade,104258,00,104259,00,10425C,00,10425D,00
+6=Homing and Granade,10424C,00,10424D,00,10425C,00,10425D,00
+7=All Weapons,104258,00,104259,00,10424C,00,10424D,00,10425C,00,10425D,00

@@ -1,0 +1,47 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,108F7A,99
+
+[1]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,10905A,05
+
+[2]
+Name=Infinite Health
+0=Off,0,0
+1=P1 On,1001B4,40
+
+[3]
+Name=Infinite Bombs
+0=Off,0,0
+1=P1 On,10901E,63
+
+[4]
+Name=Invulnerabirity
+0=Off,0,0
+1=P1 On,10904B,FF
+
+[5]
+Name=P1 Weapon Level
+0=Off,0,0
+1=Lv.1 + 3Stock,109020,0C
+2=Lv.2 + 3Stock,109020,18
+3=Lv.3 + 3Stock,109020,24
+
+[6]
+Name=P1 Enemy Bonus x8
+0=Off,0,0
+1=P1 On,109022,14
+
+[7]
+Name=Infinite Special Weapon
+0=Off,0,0
+1=P1 On,109017,40
+
+[8]
+Name=Auto Proximity Attack
+0=Off,0,0
+1=P1 On,1002A2,80,1002A3,01
+

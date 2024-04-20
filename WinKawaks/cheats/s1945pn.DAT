@@ -1,0 +1,98 @@
+[0]
+Name=P1更换战斗机
+0=取消,0,0
+1=P38 Lightning,ff00E6,1
+2=F5U FlyingPancake,ff00E6,2
+3=SpitFire Mk.VI,ff00E6,3
+4=Ta152 Focke-wulf,ff00E6,4
+5=Zero Fighter Type52,ff00E6,5
+6=Fiat G-56,ff00E6,6
+7=↓隐藏战机↓
+8=Ascender,ff00E6,7
+[1]
+Name=P2更换战斗机
+0=取消,0,0
+1=P38 Lightning,ff0142,1
+2=F5U FlyingPancake,ff0142,2
+3=SpitFire Mk.VI,ff0142,3
+4=Ta152 Focke-wulf,ff0142,4
+5=Zero Fighter Type52,ff0142,5
+6=Fiat G-56,ff0142,6
+7=↓隐藏战机↓
+8=Ascender,ff0142,7
+[2]
+Name=P1无限储弹
+0=取消,0,0
+1=(2)Zero Fighter Type52,ff00F4,2
+2=(3)F5U FlyingPancake,ff00F4,3
+3=(3)Ta152 Focke-wulf,ff00F4,3
+4=(4)P38 Lightning,ff00F4,4
+5=(5)SpitFire Mk.VI,ff00F4,5
+6=(7)Fiat G-56,ff00F4,7
+7=↓隐藏战机储弹↓
+8=(9)*Ascender,ff00F4,9
+[3]
+Name=P2无限储弹
+0=取消,0,0
+1=(2)Zero Fighter Type52,ff0150,2
+2=(3)F5U FlyingPancake,ff0150,3
+3=(3)Ta152 Focke-wulf,ff0150,3
+4=(4)P38 Lightning,ff0150,4
+5=(5)SpitFire Mk.VI,ff0150,5
+6=(7)Fiat G-56,ff0150,7
+7=↓隐藏战机储弹↓
+8=(9)*Ascender,ff0150,9
+[4]
+Name=P1连续放炸弹
+0=取消,0,0
+1=启动,100108,00
+[5]
+Name=P2连续放炸弹
+0=取消,0,0
+1=启动,100164,00
+[6]
+Name=无限战机
+0=取消,0,0
+1=P1,ff00E8,9
+2=P2,ff0144,9
+3=P1+P2,ff00E8,9,ff0144,9
+[7]
+Name=无限炸弹
+0=取消,0,0
+1=P1,ff00EA,9
+2=P2,ff0146,9
+3=P1+P2,ff00EA,9,ff0146,9
+[8]
+Name=无限弹药
+0=取消,0,0
+1=P1,ff00Ec,4
+2=P2,ff0148,4
+3=P1+P2,ff00Ec,4,ff0148,4
+[9]
+Name=战机无敌
+0=取消,0001,0
+1=P1,FF21E2,F0,FF2176,FF,FF2177,FF,FF2178,FF,FF2179,FF
+2=P2,FF232A,F0,FF22BE,FF,FF22BF,FF,FF22C0,FF,FF22C1,FF
+3=P1+P2,FF21E2,F0,FF2176,FF,FF2177,FF,FF2178,FF,FF2179,FF,FF232A,F0,FF22BE,FF,FF22BF,FF,FF22C0,FF,FF22C1,FF
+[10]
+Name=选择关卡
+0=取消,0001,0
+1=第一关,FF031E,00
+2=第二关,FF031E,01
+3=第三关,FF031E,02
+4=第四关,FF031E,03
+5=第五关,FF031E,04
+6=第六关,FF031E,05
+7=第七关,FF031E,06
+8=第八关,FF031E,07
+[11]
+Name=选择关层
+0=取消,0001,0
+1=第一层,ff02FA,00
+2=第二层,ff02FA,01
+3=第三层,ff02FA,02
+4=第四层,ff02FA,03
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008

@@ -1,0 +1,17 @@
+[0]
+Name=时间无限
+0=取消,0,0
+1=启动,10E32A,61
+[1]
+Name=P1隐藏角色
+0=取消,0,0
+1=Blond Kaede,1046F2,0e
+2=Musashi,1046F2,0c
+3=Kagami,1046F2,0d
+[2]
+Name=P2隐藏角色
+0=取消,0,0
+1=Blond Kaede,1048F2,0e
+2=Musashi,1048F2,0c
+3=Kagami,1048F2,0d
+

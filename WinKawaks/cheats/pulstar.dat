@@ -1,0 +1,35 @@
+[0]
+Name=P1 Infinite Lives
+0=Off,0,0
+1=On,10132B,09
+
+[1]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,1016AC,FF
+
+[2]
+Name=P1 Normal Shot Level
+0=Off,0,0
+1=Default,101699,00
+2=Full Power,101699,FF
+
+[3]
+Name=P1 Charge Shot Level
+0=Off,0,0
+1=Level 0,101697,00
+2=Level 1,101697,3F
+3=Level 2,101697,9F
+4=Level 3,101697,FF
+
+[4]
+Name=P1 Speed Level
+0=Off,0,0
+1=Level 1,1017DF,00
+2=Level 2,1017DF,03
+3=Level 3,1017DF,07
+
+[5]
+Name=P1 Ultimate Weapons
+0=Off,0,0
+1=On,1017E0,FF

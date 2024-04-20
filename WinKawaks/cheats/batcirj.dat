@@ -1,0 +1,241 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=美版,ff58c5,1
+2=日版,ff58c5,0
+3=欧洲,ff58c5,4
+4=亚洲,ff58c5,2
+5=西班牙,ff58c5,3
+6=巴西,ff58c5,5
+Default=0
+[1]
+Name=所有敌人一击必杀
+0=取消,0,0
+1=开启,ffAE2A,0,ffAE2C,0,ffABEA,0,ffABEC,0,ffAD6A,0,ffAD6C,0,ffACAA,0,ffACAC,0,ffAA6A,0,ffAA6C,0,ffAB2A,0,ffAB2C,0,ffA9AA,0,ffA9AC,0,ffA8EA,0,ffA8EC,0,ffA82A,0,ffA82C,0
+Default=0
+[2]
+Name=无限时间
+0=取消,0,0
+1=开启,ff5D56,60
+Default=0
+[3]
+Name=评定等级S级
+0=取消,0,0
+1=开启,ff5d43,0
+Default=0
+[4]
+Name=选择角色时的无限时间
+0=取消,0,0
+1=开启,ff5951,A
+Default=0
+[5]
+Name=P1更换角色
+0=取消,0,0
+1=Cyber Blue,ff826C,0,ff826A,0
+2=Yellow Iris,ff826C,1,ff826A,2
+3=Alien Green,ff826C,2,ff826A,4
+4=Pinkostrich,ff826C,3,ff826A,3
+5=Captain Silver,ff826C,4,ff826A,1
+Default=0
+[6]
+Name=P2更换角色
+0=取消,0,0
+1=Cyber Blue,ff83AC,0,ff83AA,0
+2=Yellow Iris,ff83AC,1,ff83AA,2
+3=Alien Green,ff83AC,2,ff83AA,4
+4=Pinkostrich,ff83AC,3,ff83AA,3
+5=Captain Silver,ff83AC,4,ff83AA,1
+Default=0
+[7]
+Name=P3更换角色
+0=取消,0,0
+1=Cyber Blue,ff84EC,0,ff84EA,0
+2=Yellow Iris,ff84EC,1,ff84EA,2
+3=Alien Green,ff84EC,2,ff84EA,4
+4=Pinkostrich,ff84EC,3,ff84EA,3
+5=Captain Silver,ff84EC,4,ff84EA,1
+Default=0
+[8]
+Name=P4更换角色
+0=取消,0,0
+1=Cyber Blue,ff862C,0,ff862A,0
+2=Yellow Iris,ff862C,1,ff862A,2
+3=Alien Green,ff862C,2,ff862A,4
+4=Pinkostrich,ff862C,3,ff862A,3
+5=Captain Silver,ff862C,4,ff862A,1
+Default=0
+[9]
+Name=P1金钱无限
+0=取消,0,0
+1=开启,ff8328,0F,ff8329,27
+Default=0
+[10]
+Name=P2金钱无限
+0=取消,0,0
+1=开启,ff8469,FF
+Default=0
+[11]
+Name=P3金钱无限
+0=取消,0,0
+1=开启,ff85A9,FF
+Default=0
+[12]
+Name=P4金钱无限
+0=取消,0,0
+1=开启,ff87E9,FF
+Default=0
+[13]
+Name=P1体力无限
+0=取消,0,0
+1=开启,ff82EA,48,ff82EC,48
+Default=0
+[14]
+Name=P2体力无限
+0=取消,0,0
+1=开启,ff842A,35
+Default=0
+[15]
+Name=P3体力无限
+0=取消,0,0
+1=开启,ff856A,35
+Default=0
+[16]
+Name=P4体力无限
+0=取消,0,0
+1=开启,ff86AA,35
+Default=0
+[17]
+Name=P1生命无限
+0=取消,0,0
+1=开启,ff830B,9
+Default=0
+[18]
+Name=P2生命无限
+0=取消,0,0
+1=开启,ff844B,9
+Default=0
+[19]
+Name=P3生命无限
+0=取消,0,0
+1=开启,ff858B,9
+Default=0
+[20]
+Name=P4生命无限
+0=取消,0,0
+1=开启,ff86CB,9
+Default=0
+[21]
+Name=P1所有绝招
+0=取消,0,0
+1=开启,ff833d,3F
+Default=0
+[22]
+Name=P2所有绝招
+0=取消,0,0
+1=开启,ff847D,3F
+Default=0
+[23]
+Name=P3所有绝招
+0=取消,0,0
+1=开启,ff85BD,3F
+Default=0
+[24]
+Name=P4所有绝招
+0=取消,0,0
+1=开启,ff86FD,3F
+Default=0
+[25]
+Name=P1无限保险
+0=取消,0,0
+1=开启,ff833F,5
+Default=0
+[26]
+Name=P2无限保险
+0=取消,0,0
+1=开启,ff847F,5
+Default=0
+[27]
+Name=P3无限保险
+0=取消,0,0
+1=开启,ff85BF,5
+Default=0
+[28]
+Name=P4无限保险
+0=取消,0,0
+1=开启,ff86FF,5
+Default=0
+[29]
+Name=P1无敌
+0=取消,0,0
+1=开启,ff8269,A
+Default=0
+[30]
+Name=P2无敌
+0=取消,0,0
+1=开启,ff83A9,A
+Default=0
+[31]
+Name=P3无敌
+0=取消,0,0
+1=开启,ff84E9,A
+Default=0
+[32]
+Name=P4无敌
+0=取消,0,0
+1=开启,ff8629,A
+Default=0
+[33]
+Name=P1能力
+0=取消,0,0
+1=Normal,ff831B,0
+2=POWER UP,ff831B,1
+3=SPEED UP,ff831B,4
+4=DEATH BLOW,ff831B,8
+5=DEFENCE UP,ff831B,2
+Default=0
+[34]
+Name=P2能力
+0=取消,0,0
+1=Normal,ff845B,0
+2=POWER UP,ff845B,1
+3=SPEED UP,ff845B,4
+4=DEATH BLOW,ff845B,8
+5=DEFENCE UP,ff845B,2
+Default=0
+[35]
+Name=P3能力
+0=取消,0,0
+1=Normal,ff859B,0
+2=POWER UP,ff859B,1
+3=SPEED UP,ff859B,4
+4=DEATH BLOW,ff859B,8
+5=DEFENCE UP,ff859B,2
+Default=0
+[36]
+Name=P4能力
+0=取消,0,0
+1=Normal,ff86DB,0
+2=POWER UP,ff86DB,1
+3=SPEED UP,ff86DB,4
+4=DEATH BLOW,ff86DB,8
+5=DEFENCE UP,ff86DB,2
+Default=0
+[37]
+Name=选择关卡
+0=取消,0,0
+1=第一关,ff5935,0
+2=第二关,ff5935,1
+3=第三关,ff5935,2
+4=第四关,ff5935,3
+5=第五关,ff5935,4
+6=第六关,ff5935,5
+7=第七关,ff5935,6
+8=终首脑,ff5935,7
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008
+Default=0
+
+[Region]
+Default=0

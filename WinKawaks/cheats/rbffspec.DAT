@@ -1,0 +1,96 @@
+[0]
+Name=电脑生命值为零
+0=取消,0,0
+1=P2-ON,ff058A,1
+2=P1-ON,ff048A,1
+[1]
+Name=模式选择
+0=取消,0,0
+1=超级模式,ffE001,01
+2=测试模式,ffE001,91
+[2]
+Name=启用四个旧角色
+0=取消,0,0
+1=Extra P2,ff05D9,81
+2=Extra P1+P2,ff04D9,81,ff05D9,81
+3=Extra P1,ff04D9,81
+[3]
+Name=无限时间
+0=取消,0,0
+1=启动,ff6AB5,60
+[4]
+Name=P1更换角色
+0=取消,0,0
+1=Terry.B,ff2484,1,ff248c,1,ff248e,1,ff3e10,1,ff3e82,1,ff6A24,1,ff0410,1
+2=Andy.B,ff2484,2,ff248c,2,ff248e,2,ff3e10,2,ff3e82,2,ff6A24,2,ff0410,2
+3=Joe.H,ff2484,3,ff248c,3,ff248e,3,ff3e10,3,ff3e82,3,ff6A24,3,ff0410,3
+4=Mai.S,ff2484,4,ff248c,4,ff248e,4,ff3e10,4,ff3e82,4,ff6A24,4,ff0410,4
+5=Sokaku.M,ff2484,6,ff248c,6,ff248e,6,ff3e10,6,ff3e82,6,ff6A24,6,ff0410,6
+6=Bob Wilson,ff2484,7,ff248c,7,ff248e,7,ff3e10,7,ff3e82,7,ff6A24,7,ff0410,7
+7=Hon-Fu,ff2484,8,ff248c,8,ff248e,8,ff3e10,8,ff3e82,8,ff6A24,8,ff0410,8
+8=Bule Mary,ff2484,9,ff248c,9,ff248e,9,ff3e10,9,fff3e82,9,ff6A24,9,ff0410,9
+9=Franco Bash,ff2484,a,ff248c,a,ff248e,a,ff3e10,a,ff3e82,a,ff6A24,A,ff0410,A
+10=R.Yamazaki,ff2484,b,ff248c,b,ff248e,b,ff3e10,b,ff3e82,b,ff6A24,B,ff0410,B
+11=Jin Chonshu,ff2484,c,ff248c,c,ff248e,c,ff3e10,c,ff3e82,c,ff6A24,C,ff0410,C
+12=Jin Chonrei,ff2484,d,ff248c,d,ff248e,d,ff3e10,d,ff3e82,d,ff6A24,D,ff0410,D
+13=Duck King,ff2484,e,ff248c,e,ff248e,e,ff3e10,e,ff3e82,e,ff6A24,E,ff0410,E
+14=Kim Kaphwan,ff2484,f,ff248c,f,ff248e,f,ff3e10,f,ff3e82,f,ff6A24,F,ff0410,F
+15=Billy Kane,ff2484,10,ff248c,10,ff248e,10,ff3e10,10,ff3e82,10,ff6A24,10,ff0410,10
+16=Cheng.S,ff2484,11,ff248c,11,ff248e,11,ff3e10,11,ff3e82,11,ff6A24,11,ff0410,11
+17=Tung Fu Rue,ff2484,12,ff248c,12,ff248e,12,ff3e10,12,ff3e82,12,ff6A24,12,ff0410,12
+18=Laurence.B,ff2484,13,ff248c,13,ff248e,13,ff3e10,13,ff3e82,13,ff6A24,13,ff0410,13
+19=W.Krauser,ff2484,14,ff248c,14,ff248e,14,ff3e10,14,ff3e82,14,ff6A24,14,ff0410,14
+20=↓隐藏人物↓
+21=Geese.H,ff2484,5,ff248c,5,ff248e,5,ff3e10,5,ff3e82,5,ff6A24,5,ff0410,5
+22=EX Andy.B,ff2484,2,ff248c,15,ff04D9,81
+23=EX Bule Mary,ff2484,9,ff248c,16,ff04D9,81
+24=EX Tung Fu Rue,ff2484,12,ff248c,17,ff04D9,81
+25=EX Billy Kane,ff2484,10,ff248c,18,ff04D9,81
+[5]
+Name=P2更换角色
+0=取消,0,0
+1=Terry.B,ff6A26,1,ff0510,1
+2=Andy.B,ff6A26,2,ff0510,2
+3=Joe.H,ff6A26,3,ff0510,3
+4=Mai.S,ff6A26,4,ff0510,4
+5=Sokaku.M,ff6A26,6,ff0510,6
+6=Bob Wilson,ff6A26,7,ff0510,7
+7=Hon-Fu,ff6A26,8,ff0510,8
+8=Bule Mary,ff6A26,9,ff0510,9
+9=Franco Bash,ff6A26,A,ff0510,A
+10=R.Yamazaki,ff6A26,B,ff0510,B
+11=Jin Chonshu,ff6A26,C,ff0510,C
+12=Jin Chonrei,ff6A26,D,ff0510,D
+13=Duck King,ff6A26,E,ff0510,E
+14=Kim Kaphwan,ff6A26,F,ff0510,F
+15=Billy Kane,ff6A26,10,ff0510,10
+16=Cheng.S,ff6A26,11,ff0510,11
+17=Tung Fu Rue,ff6A26,12,ff0510,12
+18=Laurence.B,ff6A26,13,ff0510,13
+19=W.Krauser,ff6A26,14,ff0510,14
+20=↓隐藏人物↓
+21=Geese.H,ff6A26,5,ff0510,5
+22=EX Andy.B,ff1784,2,ff178c,15,ff05D9,81
+23=EX Bule Mary,ff1784,9,ff178c,16,ff05D9,81
+24=EX Tung Fu Rue,ff1784,12,ff178c,17,ff05D9,81
+25=EX Billy Kane,ff1784,10,ff178c,18,ff05D9,81
+[6]
+Name=P1生命无限
+0=取消,0,0
+1=体力不损,ff048A,C0
+2=体力见红,ff048A,60
+[7]
+Name=P2生命无限
+0=取消,0,0
+1=体力不损,ff058A,C0
+2=体力见红,ff058A,60
+[8]
+Name=能源无限
+0=取消,0,0
+1=启动P1,ff04BD,3C
+2=启动P2,ff05BD,3C
+3=启动P1+P2,ff04BD,3C,ff05BD,3C
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

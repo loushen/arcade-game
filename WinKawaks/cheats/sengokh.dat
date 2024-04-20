@@ -1,0 +1,50 @@
+[0]
+Name=P1 Infinite Lives
+0=Off,0,0
+1=On,1000B2,09
+
+
+[1]
+Name=P1 Infinite Health
+0=Off,0,0
+1=On,100304,06
+
+
+[2]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,10037E,6E
+
+
+[3]
+Name=P1 Power Level
+0=Off,0,0
+1=Level 0 (No Weapon),1002F8,00
+2=Level 1,1002F8,01
+3=Level 2,1002F8,02
+4=Level 3,1002F8,03
+5=Level 0 (Extra),1002F8,04
+6=Level 1 (Extra),1002F8,05
+7=Level 2 (Extra),1002F8,06
+8=Level 3 (Extra),1002F8,07
+
+
+[4]
+Name=P1 Helper Stock Select
+0=Off,0,0
+1=Human,100337,01
+2=Ninja,100337,02
+3=Samurai,100337,04
+4=Ninja Dog,100337,08
+
+
+[5]
+Name=P1 Tranceform Timer 99
+0=Off,0,0
+1=On,100366,99
+
+
+[6]
+Name=P1 Infinite Wave Shot
+0=Off,0,0
+1=On,100384,FF,100385,03

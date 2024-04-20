@@ -1,0 +1,22 @@
+[0]
+Name=Stage Select
+0=Off,0,0
+1=Endless Stage1-1,100906,00,100907,00
+2=Endless Stage2-1,100906,01,100907,0A
+3=Endless Stage3-1,100906,02,100907,14
+
+[1]
+Name=P1 Infinite L-Ball
+0=Off,0,0
+1=On,100905,0C
+
+[2]
+Name=P1 L-Ball No Animation
+0=Off,0,0
+1=On,100648,01
+
+[3]
+Name=P1 Blocks' Drop
+0=Off,0,0
+1=No Drop,100673,30
+2=Quick Drop,100673,01

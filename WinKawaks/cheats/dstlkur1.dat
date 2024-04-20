@@ -1,0 +1,117 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF8204,00
+2=USA,FF8204,02
+3=Asia,FF8204,04
+4=Hispanic,FF8204,06
+5=Euro,FF8204,08
+
+[1]
+Name=Title
+0=Normal,0,0
+1=Vampire,FF8215,00
+2=Dalkstalkers,FF8215,01
+
+[2]
+Name=Infinite Time
+0=No,0,0
+1=Yes,FF9408,99
+
+[3]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF83CA,90
+
+[4]
+Name=P1 Inf Power
+0=No,0,0
+1=Yes,FF855C,50,FF855E,50
+
+[5]
+Name=P1 Action Speed Up
+0=No,0,0
+1=Yes,FF8396,01
+
+[6]
+Name=P1 No Hit Stop
+0=No,0,0
+1=Yes,FF83D2,01
+
+[7]
+Name=P1 No Chain Combo Limit
+0=No,0,0
+1=Yes,FF84E2,00
+
+[8]
+Name=P1 Char Select
+0=Normal,0,0
+1=Anakaris,FF8728,06
+2=Bishamon,FF8728,08
+3=Demitri,FF8728,01
+4=Felicia,FF8728,07
+5=Huitzil,FF8728,0B
+6=Jon Talbain,FF8728,02
+7=Lord Raptor,FF8728,04
+8=Morrigan,FF8728,05
+9=Pyron,FF8728,0C
+10=Rikuo,FF8728,09
+11=Sasquatch,FF8728,0A
+12=Victor,FF8728,03
+
+[9]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF87CA,90
+
+[10]
+Name=P2 Inf Power
+0=No,0,0
+1=Yes,FF895C,50,FF895E,50
+
+[11]
+Name=P2 Action Speed Up
+0=No,0,0
+1=Yes,FF8796,01
+
+[12]
+Name=P2 No Hit Stop
+0=No,0,0
+1=Yes,FF87D2,01
+
+[13]
+Name=P2 No Chain Combo Limit
+0=No,0,0
+1=Yes,FF88E2,00
+
+[14]
+Name=P2 Char Select
+0=Normal,0,0
+1=Anakaris,FF8B28,06
+2=Bishamon,FF8B28,08
+3=Demitri,FF8B28,01
+4=Felicia,FF8B28,07
+5=Huitzil,FF8B28,0B
+6=Jon Talbain,FF8B28,02
+7=Lord Raptor,FF8B28,04
+8=Morrigan,FF8B28,05
+9=Pyron,FF8B28,0C
+10=Rikuo,FF8B28,09
+11=Sasquatch,FF8B28,0A
+12=Victor,FF8B28,03
+
+[15]
+Name=BackGround Select
+0=Normal,0,0
+1=Anakaris,FF9388,05
+2=Bishamon,FF9388,07
+3=Demitri,FF9388,00
+4=Felicia,FF9388,06
+5=Huitzil,FF9388,0A
+6=Jon Talbain,FF9388,01
+7=Lord Raptor,FF9388,03
+8=Morrigan,FF9388,04
+9=Pyron,FF9388,0B
+10=Rikuo,FF9388,08
+11=Sasquatch,FF9388,09
+12=Victor,FF9388,02

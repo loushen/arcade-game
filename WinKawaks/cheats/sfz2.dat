@@ -1,0 +1,94 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=美国,FF8090,2
+2=日本,FF8090,0
+3=西班牙,FF8090,4
+4=大洋洲,FF8090,6
+5=亚洲,FF8090,8
+6=欧洲,FF8090,A
+7=巴西,FF8090,C
+
+[1]
+Name=P1 更换角色
+0=取消,0,0
+1=Ryu,ff8483,0
+2=Adon,ff8483,5
+3=Chun-Li,ff8483,4
+4=Guy,ff8483,7
+5=Ken,ff8483,1
+6=Dhalsim,ff8483,f
+7=Gen,ff8483,11
+8=Gen 2,ff8483,13
+9=Sakura,ff8483,d
+10=Rolento,ff8483,e
+11=Zangief,ff8483,10
+12=Charlie,ff8483,3
+13=Birdie,ff8483,8
+14=Rose,ff8483,9
+15=Sodom,ff8483,6
+16=Sagat,ff8483,b
+17=Akuma,ff8483,2
+18=M.Bison,ff8483,a
+19=Dan,ff8483,c
+20=↓隐藏人物↓
+21=Original Chun-Li,ff8483,12
+22=Shin Akuma,ff8483,14
+23=Classic Zangief,ff8483,15
+24=Evil Ryu,ff8483,17
+[2]
+Name=P2 更换角色
+0=取消,0,0
+1=Ryu,ff8883,0
+2=Adon,ff8883,5
+3=Chun-Li,ff8883,4
+4=Guy,ff8883,7
+5=Ken,ff8883,1
+6=Dhalsim,ff8883,f
+7=Gen,ff8883,11
+8=Gen 2,ff8483,13
+9=Sakura,ff8883,d
+10=Rolento,ff8883,e
+11=Zangief,ff8883,10
+12=Charlie,ff8883,3
+13=Birdie,ff8883,8
+14=Rose,ff8883,9
+15=Sodom,ff8883,6
+16=Sagat,ff8883,b
+17=Akuma,ff8883,2
+18=M.Bison,ff8883,a
+19=Dan,ff8883,c
+20=↓隐藏人物↓
+21=Original Chun-Li,ff8883,12
+22=Shin Akuma,ff8883,14
+23=Classic Zangief,ff8883,15
+24=Evil Ryu,ff8883,17
+[3]
+Name=生命无限
+0=取消,0,0
+1=P1,ff8450,90
+2=P2,ff8850,90
+3=P1+P2,ff8450,90,ff8850,90
+[4]
+Name=能源无限
+0=取消,0,0
+1=P1,ff849E,90
+2=P2,ff889E,90
+3=P1+P2,ff849E,90,ff889E,90
+[5]
+Name=控制方式
+0=取消,0,0
+1=P1控制方式
+2=由人手控制,ff84a4,0
+3=由电脑控制,ff84a4,1
+4=P2控制方式
+5=由人手控制,ff88a4,0
+6=由电脑控制,ff88a4,1
+[6]
+Name=无限时间
+0=取消,0,0
+1=启动,ff8108,63
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

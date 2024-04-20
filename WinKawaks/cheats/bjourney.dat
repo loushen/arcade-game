@@ -1,0 +1,70 @@
+[Region]
+Default=0
+
+[0]
+Name=Infinite Time
+0=OFF,0,0
+1=ON,106905,38,106906,40
+Default=0
+
+[1]
+Name=Infinite Shop Time
+0=OFF,0,0
+1=ON,10783E,09
+Default=0
+
+[2]
+Name=Infinite Lives
+0=OFF,0,0
+1=P1,107001,09
+2=P2,107401,09
+3=P1+P2,107001,09,107001,09
+Default=0
+
+[3]
+Name=Invincibility
+0=OFF,0,0
+1=P1,107008,7F
+2=P2,107408,7F
+3=P1+P2,107008,7F,107408,7F
+Default=0
+
+[4]
+Name=Infinite Hearts
+0=OFF,0,0
+1=P1,107010,05,107021,05
+2=P2,107410,05,107421,05
+3=P1+P2,107010,05,107021,05,107410,05,107421,05
+Default=0
+
+[5]
+Name=Get 255 Roses Now!
+0=OFF,0,0
+1=P1,107011,FF
+2=P2,107411,FF
+3=P1+P2,107011,FF,107411,FF
+Default=0
+
+[6]
+Name=P1 Weapon Select
+0=OFF,0,0
+1=Leaf,107013,02,10702A,00,10702D,00
+2=Boomrang,107013,00,10702A,03,10702D,00
+3=Bomb,107013,00,10702A,00,10702D,03
+Default=0
+
+[7]
+Name=P2 Weapon Select
+0=OFF,0,0
+1=Leaf,107413,02,10742A,00,10742D,00
+2=Boomrang,107413,00,10742A,03,10742D,00
+3=Bomb,107413,00,10742A,00,10742D,03
+Default=0
+
+[8]
+Name=Get the lucky ring
+0=OFF,0,0
+1=P1,10701B,01
+2=P2,10741B,01
+3=P1+P2,10701B,01,10741B,01
+Default=0

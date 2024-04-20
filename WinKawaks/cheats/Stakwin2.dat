@@ -1,0 +1,28 @@
+[Region]
+Default=0
+
+[0]
+Name=Infinite Shop Time
+0=OFF,0,0
+1=ON,108942,0A
+Default=0
+
+[1]
+Name=Infinite Money
+0=OFF,0,0
+1=ON,108B5D,FF,108B5E,FF
+Default=0
+
+[2]
+Name=Infinite Power
+0=OFF,0,0
+1=P1,1089E3,EA
+2=P2,108BA1,FF
+3=P1+P2,1089E3,EA,108BA1,FF
+Default=0
+
+[3]
+Name=Always Extra Speed
+0=OFF,0,0
+1=P1,1089C1,23
+Default=0

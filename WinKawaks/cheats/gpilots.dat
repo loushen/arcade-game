@@ -1,0 +1,61 @@
+[0]
+Name=P1 Infinite Lives
+0=Off,0,0
+1=On,103F36,64
+Default=0
+
+[1]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,102527,FF
+Default=0
+
+[2]
+Name=P1 Shot Power Level
+0=Off,0,0
+1=Level 1,103F3C,00
+2=Level 2,103F3C,04
+3=Level 3,103F3C,08
+4=Level 4,103F3C,0C
+5=Level 5,103F3C,10
+6=Level 6,103F3C,14
+7=Level 7,103F3C,18
+8=Level 8,103F3C,1C
+Default=0
+
+[3]
+Name=P1 Infinite Bomber
+0=Off,0,0
+1=On,103F41,09
+Default=0
+
+[4]
+Name=P1 Bomber Select
+0=Off,0,0
+1=Type 1 (Bomb),103F3E,04
+2=Type 2 (Mine),103F3E,08
+3=Type 3 (Naparm),103F3E,0C
+4=Type 4 (Helper),103F3E,10
+Default=0
+
+[5]
+Name=P1 Bomber Effect
+0=Off,0,0
+1=Endless,102E3A,FF,102E3A,FF,102EBA,FF,102F3A,FF,1030BA,FF,10313A,FF
+2=Quick Finish,102E3A,01,102E3A,01,102EBA,01,102F3A,01,1030BA,01,10313A,01
+Default=0
+
+[6]
+Name=99 Stars
+0=Off,0,0
+1=On,103F45,99
+Default=0
+
+[7]
+Name=Force Game Over
+0=Off,0,0
+1=On,103F39,05
+Default=0
+
+[Region]
+Default=0

@@ -1,0 +1,223 @@
+[0]
+Name=Infinite Time*
+0=No,0,0
+1=Yes,FF8ABF,99
+
+[1]
+Name=Turbo Mode
+0=No,0,0
+1=Yes,FF82DC,01
+
+[2]
+Name=P1 Inf Energy*
+0=No,0,0
+1=Yes,FF83E8,90,FF857A,90
+
+[3]
+Name=P1 Invincible
+0=No,0,0
+1=Yes,FF857C,01
+
+[4]
+Name=P1 1 Win Match
+0=No,0,0
+1=Yes,FF864F,02
+
+[5]
+Name=P1 Air Moves
+0=No,0,0
+1=Yes,FF853E,00
+
+[6]
+Name=P1 Low Gravity
+0=No,0,0
+1=Yes,FF8400,20
+
+[7]
+Name=P1 Inf Fireball
+0=No,0,0
+1=Yes,FF8593,00,FF8592,00
+
+[8]
+Name=P1 All Hits Combo
+0=No,0,0
+1=Yes,FF8552,01
+
+[9]
+Name=P1 All Hits Keep You Close
+0=No,0,0
+1=Yes,FF870B,00
+
+[10]
+Name=P1 Quick Shot
+0=Normal,0,0
+1=Quick Shot,FF83DD,01
+2=Quick Shot Guile,FF83DD,00
+
+[11]
+Name=P1 Quick Charge
+0=Normal,0,0
+1=Balrog,FF843E,01,FF8446,01
+2=Blanka,FF843E,01
+3=Chun Li,FF843E,01
+4=E.Honda,FF843E,01
+5=Guile,FF843E,01,FF8444,01
+6=M.Bison,FF843E,01,FF8446,01,FF8451,01
+7=Vega,FF843E,01,FF8446,01
+
+[12]
+Name=P1 Char Select
+0=Normal,0,0
+1=Balrog,FF864E,0A
+2=Balrog (Max Turnpunch),FF864E,0A,FF8475,0F,FF8477,0F
+3=Blanka,FF864E,02
+4=Chun Li,FF864E,05
+5=Dhalsim,FF864E,07
+6=E.Honda,FF864E,01
+7=Guile,FF864E,03
+8=Ken,FF864E,04
+9=M.Bison,FF864E,08
+10=Ryu,FF864E,00
+11=Sagat,FF864E,09
+12=Vega,FF864E,0B
+13=Zangief,FF864E,06
+
+[13]
+Name=P1 Easy Moves
+0=Normal,0,0
+1=Balrog - Dash Straight & Upper,FF843F,06,FF8447,06
+2=Blanka - Rolling Attack,FF843F,06
+3=Chun Li - Spinning Bird Kick,FF843F,06
+4=Dhalsim - Yoga Fire,FF844F,02,FF8450,04
+5=Dhalsim - Yoga Flame,FF8457,02,FF8458,08
+6=E.Honda - Super Zutsuki,FF843F,06
+7=Guile - Sonic Boom & Somersault Kick,FF843F,06,FF8445,06
+8=Ken - Hadouken & Syouryuuken & Tatsumaki,FF844F,04,FF8457,04,FF845F,04
+9=M.Bison - Double Knee & Head Press & Psyco Crusher,FF843F,06,FF8447,06,FF844E,06
+10=Ryu - Hadouken & Syouryuuken & Tatsumaki,FF844F,04,FF8457,04,FF845F,04
+11=Sagat - Ground Tiger & Tiger Shot & Tiger Uppercut,FF844F,02,FF8450,04,FF8457,02,FF8458,04,FF845F,02,FF8460,04
+12=Vega - Flying Barcelona & Rolling Crystal Flash,FF843F,06,FF8447,06
+13=Zangief - Screw Pile Driver,FF843F,06,FF843E,02,FF8441,02
+
+[14]
+Name=P2 Inf Energy*
+0=No,0,0
+1=Yes,FF86E8,90,FF887A,90
+
+[15]
+Name=P2 Invincible
+0=No,0,0
+1=Yes,FF887C,01
+
+[16]
+Name=P2 1 Win Match
+0=No,0,0
+1=Yes,FF894F,02
+
+[17]
+Name=P2 Air Moves
+0=No,0,0
+1=Yes,FF883E,00
+
+[18]
+Name=P2 Low Gravity
+0=No,0,0
+1=Yes,FF8700,20
+
+[19]
+Name=P2 Inf Fireball
+0=No,0,0
+1=Yes,FF8893,00,FF8892,00
+
+[20]
+Name=P2 All Hits Combo
+0=No,0,0
+1=Yes,FF8852,01
+
+[21]
+Name=P2 All Hits Keep You Close
+0=No,0,0
+1=Yes,FF840B,00
+
+[22]
+Name=P2 Quick Shot
+0=Normal,0,0
+1=Quick Shot,FF86DD,01
+2=Quick Shot Guile,FF86DD,00
+
+[23]
+Name=P2 Quick Charge
+0=Normal,0,0
+1=Balrog,FF873E,01,FF8746,01
+2=Blanka,FF873E,01
+3=Chun Li,FF873E,01
+4=E.Honda,FF873E,01
+5=Guile,FF873E,01,FF8744,01
+6=M.Bison,FF873E,01,FF8746,01,FF8751,01
+7=Vega,FF873E,01,FF8746,01
+
+[24]
+Name=P2 Char Select
+0=Normal,0,0
+1=Balrog,FF894E,0A
+2=Balrog (Max Turnpunch),FF894E,0A,FF8775,0F,FF8777,0F
+3=Blanka,FF894E,02
+4=Chun Li,FF894E,05
+5=Dhalsim,FF894E,07
+6=E.Honda,FF894E,01
+7=Guile,FF894E,03
+8=Ken,FF894E,04
+9=M.Bison,FF894E,08
+10=Ryu,FF894E,00
+11=Sagat,FF894E,09
+12=Vega,FF894E,0B
+13=Zangief,FF894E,06
+
+[25]
+Name=P2 Easy Moves
+0=Normal,0,0
+1=Balrog - Dash Straight & Upper,FF873F,06,FF8747,06
+2=Blanka - Rolling Attack,FF873F,06
+3=Chun Li - Spinning Bird Kick,FF873F,06
+4=Dhalsim - Yoga Fire,FF874F,02,FF8750,04
+5=Dhalsim - Yoga Flame,FF8757,02,FF8758,08
+6=E.Honda - Super Zutsuki,FF873F,06
+7=Guile - Sonic Boom & Somersault Kick,FF873F,06,FF8745,06
+8=Ken - Hadouken & Syouryuuken & Tatsumaki,FF874F,04,FF8757,04,FF875F,04
+9=M.Bison - Double Knee & Head Press & Psyco Crusher,FF873F,06,FF8747,06,FF874E,06
+10=Ryu - Hadouken & Syouryuuken & Tatsumaki,FF874F,04,FF8757,04,FF875F,04
+11=Sagat - Ground Tiger & Tiger Shot & Tiger Uppercut,FF874F,02,FF8750,04,FF8757,02,FF8758,04,FF875F,02,FF8760,04
+12=Vega - Flying Barcelona & Rolling Crystal Flash,FF873F,06,FF8747,06
+13=Zangief - Screw Pile Driver,FF873F,06,FF873E,02,FF8741,02
+
+[26]
+Name=BackGround Select
+0=Normal,0,0
+1=Balrog,FFDD5E,0A
+2=Blanka,FFDD5E,02
+3=Chun Li,FFDD5E,05
+4=Dhalsim,FFDD5E,07
+5=E.Honda,FFDD5E,01
+6=Guile,FFDD5E,03
+7=Ken,FFDD5E,04
+8=M.Bison,FFDD5E,08
+9=Ryu,FFDD5E,00
+10=Sagat,FFDD5E,09
+11=Vega,FFDD5E,0B
+12=Zangief,FFDD5E,06
+
+[27]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FF89C0,00
+2=Stage 2,FF89C0,01
+3=Stage 3,FF89C0,02
+4=Stage 4,FF89C0,03
+5=Stage 5,FF89C0,04
+6=Stage 6,FF89C0,05
+7=Stage 7,FF89C0,06
+8=Stage 8,FF89C0,07
+9=Stage 9,FF89C0,08
+10=Stage 10,FF89C0,09
+11=Stage 11,FF89C0,0A
+12=Stage 12,FF89C0,0B

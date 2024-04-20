@@ -1,0 +1,105 @@
+[0]
+Name=电脑生命为零
+0=取消,0,0
+1=启动P2,ff8420,1
+2=启动P1,ff8220,1
+[1]
+Name=无限时间
+0=取消,0,0
+1=启动,ff882E,2F
+[2]
+Name=P1角色更换
+0=取消,0,0
+1=Italy Team=,ff8230,05
+2=Japan Team,ff8230,02
+3=U.S.A Team,ff8230,03
+4=China Team,ff8230,01
+5=Korer Team,ff8230,04
+6=Brazil Team,ff8230,00
+7=England Team,ff8230,07
+8=Mexico Team,ff8230,06
+9=Heidern,ff8170,00,ff8230,00
+10=Ralf,ff8170,01,ff8230,00
+11=Clark,ff8170,02,ff8230,00
+12=Atena Asamiya,ff8170,03,ff8230,01
+13=Sie Kensou,ff8170,04,ff8230,01
+14=Chin Gentsai,ff8170,05,ff8230,01
+15=Kyo Kusanagi,ff8170,06,ff8230,02
+16=Benimaru Nikaidou,ff8170,07,ff8230,02
+17=Goro Daimon,ff8170,08,ff8230,02
+18=Heavy.D!,ff8170,09,ff8230,03
+19=Lucky Glauber,ff8170,0A,ff8230,03
+20=Brian Battler,ff8170,0B,ff8230,03
+21=Kim Kaphwan,ff8170,0C,ff8230,04
+22=Chang Koehan,ff8170,0D,ff8230,04
+23=Choi Bounge,ff8170,0E,ff8230,04
+24=Terry Bogard,ff8170,0F,ff8230,05
+25=Andy Bogard,ff8170,10,ff8230,05
+26=Joe Higashi,ff8170,11,ff8230,05
+27=Ryo Sakazaki,ff8170,12,ff8230,06
+28=Robert Garcia,ff8170,13,ff8230,06
+29=Takuma Sakazaki,ff8170,14,ff8230,06
+30=Yuri Sakazaki,ff8170,15,ff8230,07
+31=Mai Siranui,ff8170,16,ff8230,07
+32=King,ff8170,17,ff8230,07
+33=↓隐藏角色↓
+34=Omega Rugal,ff8170,19,ff8230,08
+35=Rugal Bernstein,ff8170,18,ff8230,08
+[3]
+Name=P2角色更换
+0=取消,0,0
+1=Italy Team=,ff8430,05
+2=Japan Team,ff8430,02
+3=U.S.A Team,ff8430,03
+4=China Team,ff8430,01
+5=Korer Team,ff8430,04
+6=Brazil Team,ff8430,00
+7=England Team,ff8430,07
+8=Mexico Team,ff8430,06
+9=Heidern,ff8370,00,ff8430,00
+10=Ralf,ff8370,01,ff8430,00
+11=Clark,ff8370,02,ff8430,00
+12=Atena Asamiya,ff8370,03,ff8430,01
+13=Sie Kensou,ff8370,04,ff8430,01
+14=Chin Gentsai,ff8370,05,ff8430,01
+15=Kyo Kusanagi,ff8370,06,ff8430,02
+16=Benimaru Nikaidou,ff8370,07,ff8430,02
+17=Goro Daimon,ff8370,08,ff8430,02
+18=Heavy.D!,ff8370,09,ff8430,03
+19=Lucky Glauber,ff8370,0A,ff8430,03
+20=Brian Battler,ff8370,0B,ff8430,03
+21=Kim Kaphwan,ff8370,0C,ff8430,04
+22=Chang Koehan,ff8370,0D,ff8430,04
+23=Choi Bounge,ff8370,0E,ff8430,04
+24=Terry Bogard,ff8370,0F,ff8430,05
+25=Andy Bogard,ff8370,10,ff8430,05
+26=Joe Higashi,ff8370,11,ff8430,05
+27=Ryo Sakazaki,ff8370,12,ff8430,06
+28=Robert Garcia,ff8370,13,ff8430,06
+29=Takuma Sakazaki,ff8370,14,ff8430,06
+30=Yuri Sakazaki,ff8370,15,ff8430,07
+31=Mai Siranui,ff8370,16,ff8430,07
+32=King,ff8370,17,ff8430,07
+33=↓隐藏角色↓
+34=Omega Rugal,ff8370,19,ff8430,08
+35=Rugal Bernstein,ff8370,18,ff8430,08
+[4]
+Name=P1生命值
+0=取消,0,0
+1=体力不损,ff8220,CF
+2=体力见红,ff8220,40
+[5]
+Name=P2生命值
+0=取消,0,0
+1=体力不损,ff8420,CF
+2=体力见红,ff8420,40
+[6]
+Name=能量值
+0=取消,0,0
+1=启动P1,ff8218,7F
+2=启动P2,ff8418,7F
+3=启动P1+P2,ff8218,7F,ff8418,7F
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008

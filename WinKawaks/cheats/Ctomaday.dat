@@ -1,0 +1,73 @@
+[0]
+Name=Infinite Lives
+0=OFF,0,0
+1=P1,10137C,0A
+2=P2,101398,0A
+3=P1+P2,10137C,0A,101398,0A
+Default=0
+
+[1]
+Name=Invincibility
+0=OFF,0,0
+1=P1,10413C,07
+2=P2,10432C,07
+3=P1+P2,10413C,0710432C,07
+Default=0
+
+[2]
+Name=P1 Max Power
+0=OFF,0,0
+1=Right Arm,104200,05
+2=Left Arm,1041AA,05
+3=Both,104200,05,1041AA,05
+Default=0
+
+[3]
+Name=P2 Max Power
+0=OFF,0,0
+1=Right Arm,1043F0,05
+2=Left Arm,10439A,05
+3=Both,1043F0,05,10439A,05
+Default=0
+
+[4]
+Name=P1 Ship Select
+0=OFF,0,0
+1=Original Ship,104134,00
+2=Winged Ship,104134,01
+3=MiniShip,104134,02
+4=Big Ship,104134,03
+5=Carrot Ship,104134,04
+6=Fish Ship,104134,05
+7=Cross Ship,104134,06
+8=Rabbit Ship,104134,07
+9=Blue-Fish Ship,104134,08
+10=Potplant Ship,104134,09
+11=Cat Ship,104134,0A
+12=Monkey Ship,104134,0B
+13=Prawn Ship,104134,0C
+14=Aeroplane Ship,104134,0D
+15=Cupid Ship,104134,0E
+16=Baby Ship,104134,0F
+Default=0
+
+[5]
+Name=P2 Ship Select
+0=OFF,0,0
+1=Original Ship,104324,00
+2=Winged Ship,104324,01
+3=MiniShip,104324,02
+4=Big Ship,104324,03
+5=Carrot Ship,104324,04
+6=Fish Ship,104324,05
+7=Cross Ship,104324,06
+8=Rabbit Ship,104324,07
+9=Blue-Fish Ship,104324,08
+10=Potplant Ship,104324,09
+11=Cat Ship,104324,0A
+12=Monkey Ship,104324,0B
+13=Prawn Ship,104324,0C
+14=Aeroplane Ship,104324,0D
+15=Cupid Ship,104324,0E
+16=Baby Ship,104324,0F
+Default=0

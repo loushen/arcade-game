@@ -1,0 +1,40 @@
+[0]
+Name=P1角色(选人画面)
+0=取消,0,0
+1=Gokuraku,1050B9,01
+2=Kinu,1050B9,07
+3=Kabuki,1050B9,06
+4=Manjimaru,1050B9,00
+5=Ziria,1050B9,05
+6=Yagumo,1050B9,04
+7=Tsunade,1050B9,02
+8=Orochimaru,1050B9,03
+9=↓隐藏人物↓
+10=Manto Ace,1050B9,08
+11=Karakuri,1050B9,09
+12=Jyashinsai,1050B9,A
+13=Lucifeller,1050B9,B
+[1]
+Name=P2角色(选人画面)
+0=取消,0,0
+1=Gokuraku,1050B8,01
+2=Kinu,1050B8,07
+3=Kabuki,1050B8,06
+4=Manjimaru,1050B8,00
+5=Ziria,1050B8,05
+6=Yagumo,1050B8,04
+7=Tsunade,1050B8,02
+8=Orochimaru,1050B8,03
+9=↓隐藏人物↓
+10=Manto Ace,1050B8,08
+11=Karakuri,1050B8,09
+12=Jyashinsai,1050B8,A
+13=Lucifeller,1050B8,B
+[2]
+Name=无限时间
+0=取消,0,0
+1=启动,103817,99,103917,99,103A17,99,103B17,99
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008

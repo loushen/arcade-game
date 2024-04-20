@@ -1,0 +1,71 @@
+[0]
+Name=Inf Time (Solo)
+0=OFF,0,0
+1=ON,107D22,78
+Default=0
+
+[1]
+Name=Help line
+0=OFF,0,0
+1=ON,1020FE,02,107D40,0A
+Default=0
+
+[2]
+Name=P1 Current Ball is
+0=OFF,0,0
+1=Blue,1023B4,01
+2=Red,1023B4,02
+3=Orange,1023B4,03
+4=Green,1023B4,04
+5=Yellow,1023B4,05
+8=Grey,1023B4,06
+9=Purple,1023B4,07
+10=Black,1023B4,08
+11=Star,1023B4,09
+12=Help,1023B4,0A
+13=Bomb,1023B4,0B
+Default=0
+
+[3]
+Name=P1 Next Ball is
+0=OFF,0,0
+1=Blue,10212A,01
+2=Red,10212A,02
+3=Orange,10212A,03
+4=Green,10212A,04
+5=Yellow,10212A,05
+8=Grey,10212A,06
+9=Purple,10212A,07
+10=Black,10212A,08
+11=Star,10212A,09
+12=Help,10212A,0A
+13=Bomb,10212A,0B
+Default=0
+
+[4]
+Name=P2 Current Ball is
+0=OFF,0,0
+1=Blue,104B9C,01
+2=Red,104B9C,02
+3=Orange,104B9C,03
+4=Green,104B9C,04
+5=Yellow,104B9C,05
+8=Grey,104B9C,06
+9=Purple,104B9C,07
+10=Black,104B9C,08
+11=Bomb,104B9C,0B
+Default=0
+
+[5]
+Name=P2 Next Ball is
+0=OFF,0,0
+1=Blue,104912,01
+2=Red,104912,02
+3=Orange,104912,03
+4=Green,104912,04
+5=Yellow,104912,05
+8=Grey,104912,06
+9=Purple,104912,07
+10=Black,104912,08
+11=Bomb,104912,0B
+Default=0

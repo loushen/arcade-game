@@ -1,0 +1,31 @@
+[0]
+Name=总是获得
+0=取消,0,0
+1=Shortcut,FFE966,01
+2=Magic Scroll,FFE966,02
+3=Magic Staff,FFE966,03
+4=Magic Sword,FFE966,04
+[1]
+Name=生命无限
+0=取消,0,0
+1=启动P1,FFE476,05
+2=启动P2,FFE478,05
+3=启动P1+P2,FFE476,05,FFE478,05
+[2]
+Name=选择科目
+0=取消,0,0
+1=随机,FF7FC0,FF
+2=艺术,FF7FC0,00
+3=书本,FF7FC0,01
+4=娱乐,FF7FC0,02
+5=食用,FF7FC0,03
+6=地理,FF7FC0,04
+7=健康,FF7FC0,05
+8=历史,FF7FC0,06
+9=无题,FF7FC0,07
+10=电影,FF7FC0,08
+11=音乐,FF7FC0,09
+12=神论,FF7FC0,0A
+13=科学,FF7FC0,0B
+14=体育,FF7FC0,0C
+15=电视,FF7FC0,0D

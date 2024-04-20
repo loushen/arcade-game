@@ -1,0 +1,45 @@
+[0]
+Name=P1 Infinite Lives
+0=Off,0,0
+1=On,102403,0A
+
+[1]
+Name=P1 Infinite Health
+0=Off,0,0
+1=On,100633,14
+
+[2]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,10261F,FF
+
+[3]
+Name=P1 Power Level
+0=Off,0,0
+1=Level 0,1018C1,00
+2=Level 1,1018C1,01
+3=Level 2,1018C1,02
+
+[4]
+Name=P1 Speed Level
+0=Off,0,0
+1=Level 0,1018C0,00
+2=Level 1,1018C0,01
+3=Level 2,1018C0,02
+
+[5]
+Name=P1 All Partner
+0=Off,0,0
+1=On,101803,0F
+
+[6]
+Name=P1 Character
+0=Off,0,0
+1=JOE,10262F,00
+2=MUSASHI,10262F,01
+3=GENBU,10262F,02
+4=KAGEROU,10262F,03
+5=HAYABUSA,10262F,04
+6=MUSASHI (P2),10262F,05
+7=GENBU (P2),10262F,06
+8=KAGEROU (P2),10262F,07

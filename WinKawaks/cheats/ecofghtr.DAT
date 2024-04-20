@@ -1,0 +1,75 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=英文版,ff03E8,2
+2=日版,ff03E8,0
+3=美版,ff03E8,1
+4=亚洲,ff03E8,4
+5=西班牙,ff03E8,3
+[1]
+Name=P1生命数
+0=取消,0,0
+1=开启,fff5f3,2
+[2]
+Name=P2生命数
+0=取消,0,0
+1=开启,fff5f4,2
+[3]
+Name=P1能量最大
+0=取消,0,0
+1=开启,ff8953,5,ff3953,14
+[4]
+Name=P2能量最大
+0=取消,0,0
+1=开启,ff8f23,5,ff3952,14
+[5]
+Name=P1主力武器
+0=取消,0,0
+1=Regular Shot,ff876D,1
+2=Black Ball,ff876D,2
+3=Laser,ff876D,3
+4=Spiked Ball,ff876D,4
+[6]
+Name=P2主力武器
+0=取消,0,0
+1=Regular Shot,ff8D3D,1
+2=Black Ball,ff8D3D,2
+3=Laser,ff8D3D,3
+4=Spiked Ball,ff8D3D,4
+[7]
+Name=P1附属武器
+0=取消,0,0
+1=None,ff8768,0
+2=Vulcan,ff8768,1
+3=Bomb,ff8768,2
+4=Homing,ff8768,3
+[8]
+Name=P2附属武器
+0=取消,0,0
+1=None,ff8d38,0
+2=Vulcan,ff8d38,1
+3=Bomb,ff8d38,2
+4=Homing,ff8d38,3
+[9]
+Name=P1隐身
+0=取消,0,0
+1=开启,ff877b,8D
+[10]
+Name=P2隐身
+0=取消,0,0
+1=开启,ff8d4b,8D
+[11]
+Name=选择关卡
+0=取消,0,0
+1=第一关,ffF63C,1,ff80A0,1
+2=第二关,ffF63C,2,ff80A0,2
+3=第三关,ffF63C,3,ff80A0,3
+4=第四关,ffF63C,4,ff80A0,4
+5=第五关,ffF63C,5,ff80A0,5
+6=第六关,ffF63C,6,ff80A0,6
+7=最终关,ffF63C,7,ff80A0,7
+8=终结尾,ffF63C,8,ff80A0,8
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008

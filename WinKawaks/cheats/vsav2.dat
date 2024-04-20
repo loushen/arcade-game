@@ -1,0 +1,165 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=Japan,FF8090,0
+2=USA,FF8090,2
+3=Hispanic,FF8090,4
+4=Oceania,FF8090,6
+5=Asia,FF8090,8
+6=Euro,FF8090,A
+7=Brazil,FF8090,C
+[1]
+Name=时间锁定
+0=取消,0,0
+1=启动,FF8108,63
+[2] 
+Name=1P练习模式 
+0=取消,0,0
+1=开启,FF8108,63,FF8508,63,FF850A,90,FF87B5,0,FF8850,20,FF8851,1,FF8852,20,FF8853,1,FF8BB5,0
+[3]
+Name=1P更换人物
+0=取消,0,0
+1=Bulleta,FF8783,0
+2=Demitri,FF8783,1
+3=Victor,FF8783,3
+4=Zabel,FF8783,4
+5=Morrigan,FF8783,5
+6=Anakaris,FF8783,6
+7=Felicia,FF8783,7
+8=Bishamon,FF8783,8
+9=Q-Bee,FF8783,C
+10=Lei-Lei,FF8783,D
+11=Lilith,FF8783,E
+12=Jedah,FF8783,F
+13=Phobos,FF8783,10
+14=Pyron,FF8783,11
+15=Donovan,FF8783,13
+16=↓一代人物↓
+17=Gallon(Dark),FF8783,12
+18=Aulbath,FF8783,9
+19=Sasquatch,FF8783,A
+20=Gallon,FF8783,2
+21=↓隐藏人物↓
+22=Zabel(?),FF8783,14
+23=Morrigan(?),FF8783,15
+24=Anakaris(?),FF8783,16
+25=Felicia(?),FF8783,17
+26=Bishamon(Oboro)(?),FF8783,18
+27=Bishamon(Oboro),FF8783,19
+28=Sasquatch(?)(Hidden),FF8783,1A
+29=Q-Bee(?),FF8783,1C
+30=Lei-Lei(?),FF8783,1D
+31=Lilith(?),FF8783,1E
+32=Jedah(?),FF8783,1F
+[4]
+Name=2P更换人物
+0=取消,0,0
+1=Bulleta,FF8B83,0
+2=Demitri,FF8B83,1
+3=Victor,FF8B83,3
+4=Zabel,FF8B83,4
+5=Morrigan,FF8B83,5
+6=Anakaris,FF8B83,6
+7=Felicia,FF8B83,7
+8=Bishamon,FF8B83,8
+9=Q-Bee,FF8B83,C
+10=Lei-Lei,FF8B83,D
+11=Lilith,FF8B83,E
+12=Jedah,FF8B83,F
+13=Phobos,FF8B83,10
+14=Pyron,FF8B83,11
+15=Donovan,FF8B83,13
+16=↓一代人物↓
+17=Gallon(Dark),FF8B83,12
+18=Aulbath,FF8B83,9
+19=Sasquatch,FF8B83,A
+20=Gallon,FF8B83,2
+21=↓隐藏人物↓
+22=Zabel(?),FF8B83,14
+23=Morrigan(?),FF8B83,15
+24=Anakaris(?),FF8B83,16
+25=Felicia(?),FF8B83,17
+26=Bishamon(Oboro)(?),FF8B83,18
+27=Bishamon(Oboro),FF8B83,19
+28=Sasquatch(?)(Hidden),FF8B83,1A
+29=Q-Bee(?),FF8B83,1C
+30=Lei-Lei(?),FF8B83,1D
+31=Lilith(?),FF8B83,1E
+32=Jedah(?),FF8B83,1F
+[5]
+Name=1P人物颜色
+0=取消,0,0
+1=LP Color,FF87AF,0
+2=MP Color,FF87AF,1
+3=HP Color,FF87AF,2
+4=LK Color,FF87AF,3
+5=MK Color,FF87AF,4
+6=HK Color,FF87AF,5
+7=Special Color 1,FF87AF,6
+8=Special Color 2,FF87AF,7
+9=Special Color 3,FF87AF,8
+10=Special Color 4,FF87AF,9
+[6]
+Name=2P人物颜色
+0=取消,0,0
+1=LP Color,FF8BAF,0
+2=MP Color,FF8BAF,1
+3=HP Color,FF8BAF,2
+4=LK Color,FF8BAF,3
+5=MK Color,FF8BAF,4
+6=HK Color,FF8BAF,5
+7=Special Color 1,FF8BAF,6
+8=Special Color 2,FF8BAF,7
+9=Special Color 3,FF8BAF,8
+10=Special Color 4,FF8BAF,9
+[7]
+Name=血槽锁定
+0=取消,0,0
+1=启动1P,FF8450,20,FF8451,1,FF8452,20,FF8453,1
+2=启动2P,FF8850,20,FF8851,1,FF8852,20,FF8853,1
+3=启动1P+2P,FF8450,20,FF8451,1,FF8452,20,FF8453,1,FF8850,20,FF8851,1,FF8852,20,FF8853,1
+[8]
+Name=能量锁定
+0=取消,0,0
+1=启动1P,FF8508,63,FF850A,90
+2=启动2P,FF8908,63,FF890A,90
+3=启动1P+2P,FF8508,63,FF850A,90,FF8908,63,FF890A,90
+[9]
+Name=控制方式
+0=取消,0,0
+1=P1控制方式
+2=由人手控制,FF87B5,0
+3=由电脑控制,FF87B5,1
+4=P2控制方式
+5=由人手控制,FF8BB5,0
+6=由电脑控制,FF8BB5,1
+[10]
+Name=空中发招
+0=取消,0,0
+1=启动1P,FF8439,0
+2=启动2P,FF8839,0
+3=启动1P+2P,FF8439,0,FF8839,0
+[11]
+Name=背景锁定
+0=取消,0,0
+1=FEAST OF THE DAMNED,FF8100,0
+2=CONCRETE CAVE,FF8100,2
+3=TOWER OF ARROGANCE,FF8100,4
+4=RED THIRST,FF8100,6
+5=DESERTED CHATEAU,FF8100,8
+6=ABARAYA,FF8100,A
+7=VANITY PARADISE,FF8100,C
+8=WAR AGONY,FF8100,E
+9=FOREVER TORMENT,FF8100,10
+10=GREEN SCREAM,FF8100,12
+11=IRON HORSE/IRON TERROR,FF8100,14
+12=FETUS OF GOD,FF8100,16
+13=REVENGER'S ROOST,FF8100,18
+[12] 
+Name=最后一关
+0=取消,0,0
+1=开启,FF8114,7
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

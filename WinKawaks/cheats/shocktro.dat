@@ -1,0 +1,78 @@
+[Region]
+Default=0
+
+[0]
+Name=无限时间
+0=取消,0,0
+1=启动,108D00,99
+Default=0
+
+[1]
+Name=无限生命
+0=取消,0,0
+1=启动P1,1001B4,80
+2=启动P2,1021B4,80
+3=启动P1+P2,1001B4,80,1021B4,80
+Default=0
+
+[2]
+Name=无敌
+0=取消,0,0
+1=启动P1,100126,FF
+2=启动P2,102126,FF
+3=启动P1+P2,100126,FF,102126,FF
+Default=0
+
+[3]
+Name=无限弹药
+0=取消,0,0
+1=启动P1,108DBA,D0
+2=启动P2,108FBA,D0
+3=启动P1+P2,108DBA,D0,108FBA,D0
+Default=0
+
+[4]
+Name=P1选择武器
+0=取消,0,0
+1=Normal Gun,108DB8,00
+2=Heavy Gun,108DB8,04
+3=Vulcan Gun,108DB8,08
+4=3-Way Gun,108DB8,0C
+5=Buster Gun,108DB8,10
+6=Flame Gun,108DB8,14
+7=Rocket Gun,108DB8,18
+8=Missile Gun,108DB8,1C
+9=Hyper Gun,108DB8,20
+Default=0
+
+[5]
+Name=P2选择武器
+0=取消,0,0
+1=Normal Gun,108FB8,00
+2=Heavy Gun,108FB8,04
+3=Vulcan Gun,108FB8,08
+4=3-Way Gun,108FB8,0C
+5=Buster Gun,108FB8,10
+6=Flame Gun,108FB8,14
+7=Rocket Gun,108FB8,18
+8=Missile Gun,108FB8,1C
+9=Hyper Gun,108FB8,20
+Default=0
+
+[6]
+Name=P1无限特殊弹药
+0=取消,0,0
+1=队友 1,108DC2,63
+2=队友 2,108DC6,63
+3=队友 3,108DCA,63
+4=全部队友,108DC2,63,108DC6,63,108DCA,63
+Default=0
+
+[7]
+Name=P2无限特殊弹药
+0=取消,0,0
+1=队友 1,108FC2,63
+2=队友 2,108FC6,63
+3=队友 3,108FCA,63
+4=全部队友,108FC2,63,108FC6,63,108FCA,63
+Default=0

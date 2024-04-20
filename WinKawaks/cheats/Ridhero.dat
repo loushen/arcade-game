@@ -1,0 +1,14 @@
+[Region]
+Default=0
+
+[0]
+Name=Infinite Turbos
+0=OFF,0,0
+1=ON,100F78,04
+Default=0
+
+[1]
+Name=Away be 1st
+0=OFF,0,0
+1=ON,100F88,01
+Default=0

@@ -1,0 +1,264 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF8190,00
+2=USA,FF8190,02
+3=Hispanic,FF8190,04
+4=Asia,FF8190,06
+5=Euro,FF8190,08
+6=Brazil,FF8190,0A
+
+[1]
+Name=Infinite Credits
+0=No,0,0
+1=Yes,FF8171,09
+
+[2]
+Name=Dramatic Battle*
+0=No,0,0
+1=Yes,FF84A3,0,FF88A3,1,FFAE48,1
+
+[3]
+Name=Infinite Battle Time
+0=No,0,0
+1=Yes,FFAE08,63
+
+[4]
+Name=Fight Akuma
+0=No,0,0
+1=Yes,FFAE49,01
+
+[5]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF8440,90
+
+[6]
+Name=P1 Inf Power
+0=No,0,0
+1=Yes,FF84BE,90
+
+[7]
+Name=P1 Inf Taunts
+0=Normal,0,0
+1=Adon,FF85F9,01
+2=Akuma,FF85F0,01
+3=Birdie,FF85F9,00
+4=Charlie,FF85F1,01
+5=Chun-Li,FF85C0,01
+6=Guy,FF85C5,01
+7=Ken,FF85F3,01
+8=M.Bison,FF85FA,01
+9=Rose,FF85E9,01
+10=Ryu,FF85F3,01
+11=Sagat,FF85C1,01
+12=Sodom,FF85FE,01
+
+[8]
+Name=P1 1 Win Match
+0=No,0,0
+1=Yes,FF84C7,01
+
+[9]
+Name=P1 Air Moves
+0=No,0,0
+1=Yes,FF842E,00
+
+[10]
+Name=P1 No Hit Stop
+0=No,0,0
+1=Yes,FF844E,01
+
+[11]
+Name=P1 Endless Hit
+0=No,0,0
+1=Yes,FF884B,00
+
+[12]
+Name=P1 No Alpha Combo Limit
+0=No,0,0
+1=Yes,FF8503,00
+
+[13]
+Name=P1 Ultimate Shot
+0=No,0,0
+1=Yes,FF9040,00
+
+[14]
+Name=P1 Faint
+0=Normal,0,0
+1=Never Faint,FF8536,00
+2=Always Faint,FF853B,00
+
+[15]
+Name=P1 Controller Mode
+0=Normal,0,0
+1=User Play,FF84C4,00
+2=Computer Play,FF84C4,01
+3=Hard Computer Play,FF84C4,01,FF83D9,84
+
+[16]
+Name=P1 Char Select
+0=Normal,0,0
+1=Adon,FF84A3,05
+2=Akuma,FF84A3,02
+3=Birdie,FF84A3,08
+4=Charlie,FF84A3,03
+5=Chun-Li,FF84A3,04
+6=Dan,FF84A3,0C
+7=Guy,FF84A3,07
+8=Ken,FF84A3,01
+9=M.Bison,FF84A3,0A
+10=Rose,FF84A3,09
+11=Ryu,FF84A3,00
+12=Sagat,FF84A3,0B
+13=Sodom,FF84A3,06
+
+[17]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF8840,90
+
+[18]
+Name=P2 Inf Power
+0=No,0,0
+1=Yes,FF88BE,90
+
+[19]
+Name=P2 Inf Taunts
+0=Normal,0,0
+1=Adon,FF89F9,01
+2=Akuma,FF89F0,01
+3=Birdie,FF89F9,00
+4=Charlie,FF89F1,01
+5=Chun-Li,FF89C0,01
+6=Guy,FF89C5,01
+7=Ken,FF89F3,01
+8=M.Bison,FF89FA,01
+9=Rose,FF89E9,01
+10=Ryu,FF89F3,01
+11=Sagat,FF89C1,01
+12=Sodom,FF89FE,01
+
+[20]
+Name=P2 1 Win Match
+0=No,0,0
+1=Yes,FF88C7,01
+
+[21]
+Name=P2 Air Moves
+0=No,0,0
+1=Yes,FF882E,00
+
+[22]
+Name=P2 No Hit Stop
+0=No,0,0
+1=Yes,FF884E,01
+
+[23]
+Name=P2 Endless Hit
+0=No,0,0
+1=Yes,FF844B,00
+
+[24]
+Name=P2 No Alpha Combo Limit
+0=No,0,0
+1=Yes,FF8903,00
+
+[25]
+Name=P2 Ultimate Shot
+0=No,0,0
+1=Yes,FF9440,00
+
+[26]
+Name=P2 Faint
+0=Normal,0,0
+1=Never Faint,FF8936,00
+2=Always Faint,FF893B,00
+
+[27]
+Name=P2 Controller Mode
+0=Normal,0,0
+1=User Play,FF88C4,00
+2=Computer Play,FF88C4,01
+3=Hard Computer Play,FF88C4,01,FF87D9,84
+
+[28]
+Name=P2 Char Select
+0=Normal,0,0
+1=Adon,FF88A3,05
+2=Akuma,FF88A3,02
+3=Birdie,FF88A3,08
+4=Charlie,FF88A3,03
+5=Chun-Li,FF88A3,04
+6=Dan,FF88A3,0C
+7=Guy,FF88A3,07
+8=Ken,FF88A3,01
+9=M.Bison,FF88A3,0A
+10=Rose,FF88A3,09
+11=Ryu,FF88A3,00
+12=Sagat,FF88A3,0B
+13=Sodom,FF88A3,06
+
+[29]
+Name=P3 Inf Health
+0=No,0,0
+1=Yes,FF8C40,90
+
+[30]
+Name=P3 Inf Power
+0=No,0,0
+1=Yes,FF8CBE,90
+
+[31]
+Name=P3 Controller Mode
+0=Normal,0,0
+1=User Play,FF8CC4,00
+2=Computer Play,FF8CC4,01
+3=Hard Computer Play,FF8CC4,01,FF8BD9,84
+
+[32]
+Name=P3 Char Select
+0=Normal,0,0
+1=Adon,FF8CA3,05
+2=Akuma,FF8CA3,02
+3=Birdie,FF8CA3,08
+4=Charlie,FF8CA3,03
+5=Chun-Li,FF8CA3,04
+6=Dan,FF8CA3,0C
+7=Guy,FF8CA3,07
+8=Ken,FF8CA3,01
+9=M.Bison,FF8CA3,0A
+10=Rose,FF8CA3,09
+11=Ryu,FF8CA3,00
+12=Sagat,FF8CA3,0B
+13=Sodom,FF8CA3,06
+
+[33]
+Name=BackGround Select
+0=Normal,0,0
+1=Adon (Thailand),FFAE00,0A
+2=Birdie (Italy),FFAE00,10
+3=Charlie (USA),FFAE00,06
+4=Chun-Li (China),FFAE00,08
+5=Dan (Thailand),FFAE00,18
+6=Guy (Japan),FFAE00,0E
+7=Ken (USA),FFAE00,02
+8=M.Bison (China),FFAE00,04
+9=M.Bison (USA),FFAE00,14
+10=Rose (Italy),FFAE00,12
+11=Ryu (Japan),FFAE00,00
+12=Sagat (Thailand),FFAE00,16
+13=Sodom (USA),FFAE00,0C
+
+[34]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FFAE12,00
+2=Stage 2,FFAE12,01
+3=Stage 3,FFAE12,02
+4=Stage 4,FFAE12,03
+5=Stage 5,FFAE12,04
+6=Stage 6,FFAE12,05
+7=Stage 7,FFAE12,06
+8=Stage 8,FFAE12,07

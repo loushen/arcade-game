@@ -1,0 +1,219 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=美版,ff807A,1,ff807B,1
+2=日版,ff807A,0,ff807B,0
+3=亚洲,ff807A,3,ff807B,3
+4=欧洲英语版,ff807A,4,ff807B,4
+5=欧洲西班牙,ff807A,5,ff807B,5
+6=欧洲法语版,ff807A,6,ff807B,6
+7=欧洲德文版,ff807A,7,ff807B,7
+8=欧洲意文版,ff807A,8,ff807B,8
+9=西班牙,ff807A,2,ff807B,2
+[1]
+Name=P1更换角色
+0=取消,0,0
+1=战士,ff86ca,0
+2=牧师,ff86ca,1
+3=妖精,ff86ca,2
+4=矮人,ff86ca,3
+[2]
+Name=P2更换角色
+0=取消,0,0
+1=战士,ff87ca,0
+2=牧师,ff87ca,1
+3=妖精,ff87ca,2
+4=矮人,ff87ca,3
+[3]
+Name=P3更换角色
+0=取消,0,0
+1=战士,ff88ca,0
+2=牧师,ff88ca,1
+3=妖精,ff88ca,2
+4=矮人,ff88ca,3
+[4]
+Name=P4更换角色
+0=取消,0,0
+1=战士,ff89ca,0
+2=牧师,ff89ca,1
+3=妖精,ff89ca,2
+4=矮人,ff89ca,3
+[5]
+Name=P1生命无限
+0=取消,0,0
+1=开启,ff8718,9F
+[6]
+Name=P2生命无限
+0=取消,0,0
+1=开启,ff8818,9F
+[7]
+Name=P3生命无限
+0=取消,0,0
+1=开启,ff8918,9F
+[8]
+Name=P4生命无限
+0=取消,0,0
+1=开启,ff8A18,9F
+[9]
+Name=P1金钱最多
+0=取消,0,0
+1=开启,ff874E,99,ff874F,99,ff8750,9
+[10]
+Name=P2金钱最多
+0=取消,0,0
+1=开启,ff884E,99,ff884F,99,ff8850,9
+[11]
+Name=P3金钱最多
+0=取消,0,0
+1=开启,ff894E,99,ff894F,99,ff8950,9
+[12]
+Name=P4金钱最多
+0=取消,0,0
+1=开启,ff8A4E,99,ff8A4F,99,ff8A50,9
+[13]
+Name=P1道具更换
+0=取消,0,0
+1=Hammer Inf,ff84a8,A
+2=Dagger Inf,ff84a9,A
+3=Oil Inf,ff84aa,A
+4=Bow Inf,ff84ab,A
+5=Todos Inf,ff84a8,A,ff84a9,A,ff84aa,A,ff84ab,A
+[14]
+Name=P2道具更换
+0=取消,0,0
+1=Hammer Inf,ff84e8,A
+2=Dagger Inf,ff84e9,A
+3=Oil Inf,ff84ea,A
+4=Bow Inf,ff84eb,A
+5=Todos Inf,ff84e8,A,ff84e9,A,ff84ea,A,ff84eb,A
+[15]
+Name=P3道具更换
+0=取消,0,0
+1=Hammer Inf,ff8528,A
+2=Dagger Inf,ff8529,A
+3=Oil Inf,ff852a,A
+4=Bow Inf,ff852b,A
+5=Todos Inf,ff8528,A,ff8529,A,ff852a,A,ff852b,A
+[16]
+Name=P1魔法锁定
+0=取消,0,0
+1=C/W Inf Anillo MM,ff84ad,A
+2=C/W Inf Anillo LB,ff84ae,A
+3=C/W Inf Anillo FB,ff84af,A
+4=C/W Inf Anillo CL,ff84b0,A
+5=C/W Inf Anillo CSW,ff84b3,A
+6=Todos Inf,ff84ad,A,ff84ae,A,ff84af,A,ff84b0,A,ff84b3,A
+[17]
+Name=P2魔法锁定
+0=取消,0,0
+1=C/W Inf Anillo MM,ff84ed,A
+2=C/W Inf Anillo LB,ff84ee,A
+3=C/W Inf Anillo FB,ff84ef,A
+4=C/W Inf Anillo CL,ff84f0,A
+5=C/W Inf Anillo CSW,ff84f3,A
+6=Todos Inf,ff84ed,A,ff84ee,A,ff84ef,A,ff84f0,A,ff84f3,A
+[18]
+Name=P3魔法锁定
+0=取消,0,0
+1=C/W Inf Anillo MM,ff852d,A
+2=C/W Inf Anillo LB,ff852e,A
+3=C/W Inf Anillo FB,ff852f,A
+4=C/W Inf Anillo CL,ff8530,A
+5=C/W Inf Anillo CSW,ff8533,A
+[19]
+Name=P1 Elf魔法
+0=取消,0,0
+1=Invisibility,ff84b8,A
+2=Magic Missile,ff84b9,A
+3=Fire Ball,ff84bb,A
+4=Lightning Bolt,ff84bf,A
+5=Polymorph Other,ff84bc,A
+6=Cloud Kill,ff84bd,A
+7=Ice Storm,ff84ba,A
+8=Todos,ff84b8,A,ff84b9,A,ff84bb,A,ff84bf,A,ff84bc,A,ff84bd,A,ff84ba,A
+[20]
+Name=P2 Elf魔法
+0=取消,0,0
+1=Invisibility,ff84f8,A
+2=Magic Missile,ff84f9,A
+3=Fire Ball,ff84fb,A
+4=Lightning Bolt,ff84ff,A
+5=Polymorph Other,ff84fc,A
+6=Cloud Kill,ff84fd,A
+7=Ice Storm,ff84fa,A
+8=Todos,ff84f8,A,ff84f9,A,ff84fb,A,ff84ff,A,ff84fc,A,ff84fd,A,ff84fa,A
+[21]
+Name=P1 Cleric魔法
+0=取消,0,0
+1=Continual Light,ff84b4,A
+2=Striking,ff84be,A
+3=Hold Person,ff84b5,A
+4=Sticks to Snakes,ff84b7,A
+5=Cure Serious Wounds,ff84b2,A
+6=Todos,ff84b4,A,ff84be,A,ff84b5,A,ff84b7,A,ff84b2,A
+[22]
+Name=P2 Cleric魔法
+0=取消,0,0
+1=Continual Light,ff84f4,A
+2=Striking,ff84fe,A
+3=Hold Person,ff84f5,A
+4=Sticks to Snakes,ff84f7,A
+5=Cure Serious Wounds,ff84f2,A
+6=Todos,ff84f4,A,ff84fe,A,ff84f5,A,ff84f7,A,ff84f2,A
+[23]
+Name=P1 Dinero魔法
+0=取消,0,0
+1=开启,ff874e,99,ff874f,99
+[24]
+Name=P2 Dinero魔法
+0=取消,0,0
+1=开启,ff884e,99,ff884f,99,ff8850,9
+[25]
+Name=P3 Elf&Cleric魔法
+0=取消,0,0
+1=Invisibility,ff8538,A
+2=Magic Missile,ff8539,A
+3=Fire Ball,ff853b,A
+4=Lightning Bolt,ff853f,A
+5=Polymorph Other,ff853c,A
+6=Cloud Kill,ff853d,A
+7=Ice Storm,ff853a,A
+8=Todos Elf,ff8538,A,ff8539,A,ff853b,A,ff853f,A,ff853c,A,ff853d,A,ff853a,A
+9=Continual Light,ff8534,A
+10=Striking,ff853e,A
+11=Hold Person,ff8535,A
+12=Sticks to Snakes,ff8537,A
+13=Cure Serious Wounds,ff8532,A
+14=Todos Cleric,ff8534,A,ff853e,A,ff8535,A,ff8537,A,ff8532,A
+[26]
+Name=选择关卡
+0=取消,0,0
+1=第一关,ff8057,00
+2=第一关线路(A),ff8057,06
+3=第一关首脑(A),ff8057,08
+4=第一关线路(B),ff8057,01
+5=第一关首脑(B),ff8057,04
+6=第二关,ff8057,09
+7=第二关线路(A),ff8057,0b
+8=第二关首脑(A),ff8057,0c
+9=第二关线路(B),ff8057,10
+10=第二关首脑(B),ff8057,0f
+11=第三关,ff8057,16
+12=第三关首脑,ff8057,19
+13=第四关,ff8057,1a
+14=第五关线路(A),ff8057,24
+15=第五关线路(B),ff8057,20
+16=第五关线路(C),ff8057,1b
+17=第六关,ff8057,26
+18=第六关首脑,ff8057,33
+19=第七关线路(A),ff8057,34
+20=第七关线路(B),ff8057,39
+21=第七关首脑,ff8057,3c
+22=第八关,ff8057,3d
+23=第八关首脑,ff8057,43
+24=魔龙关红龙,ff8057,37
+25=最终关邪士,ff8057,48
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008

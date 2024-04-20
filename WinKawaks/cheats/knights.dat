@@ -1,0 +1,115 @@
+[0]
+Name=无限时间
+0=取消,0,0
+1=启动,FFE7DB,59
+Default=0
+[1]
+Name=P1 角色
+0=取消,0,0
+1=Lancelot,FFAC4D,00
+2=Arthur,FFAC4D,01
+3=Perceval,FFAC4D,02
+Default=0
+[2]
+Name=P2 角色
+0=取消,0,0
+1=Lancelot,FFAD6D,00
+2=Arthur,FFAD6D,01
+3=Perceval,FFAD6D,02
+Default=0
+[3]
+Name=P3 角色
+0=取消,0,0
+1=Lancelot,FFAE8D,00
+2=Arthur,FFAE8D,01
+3=Perceval,FFAE8D,02
+Default=0
+[4]
+Name=P1 体力值
+0=取消,0,0
+1=启动,FFABA4,50
+Default=0
+[5]
+Name=P1 生命数
+0=取消,0,0
+1=启动,FFAC77,09
+Default=0
+[6]
+Name=P1 升级完毕 Lv16
+0=取消,0,0
+1=启动,FFAC4F,0F,FFAC8D,99,FFAC8E,99,FFAC8F,99,FFAC90,99
+Default=0
+[7]
+Name=P1 无敌
+0=取消,0,0
+1=启动,FFAC7B,FE
+Default=0
+[8]
+Name=P2 体力值
+0=取消,0,0
+1=启动,FFACC4,50
+Default=0
+[9]
+Name=P2 生命数
+0=取消,0,0
+1=启动,FFAD97,09
+Default=0
+[10]
+Name=P2 升级完毕 Lv16
+0=取消,0,0
+1=启动,FFAD6F,0F,FFADAD,99,FFADAE,99,FFADAF,99,FFADB0,99
+Default=0
+[11]
+Name=P2 无敌
+0=取消,0,0
+1=启动,FFAD9B,FE
+Default=0
+[12]
+Name=P3 体力值
+0=取消,0,0
+1=启动,FFADE4,50
+Default=0
+[13]
+Name=P3 生命数
+0=取消,0,0
+1=启动,FFAEB7,09
+Default=0
+
+[14]
+Name=P3 升级完毕 Lv16
+0=取消,0,0
+1=启动,FFAE8F,0F,FFAECD,99,FFAECE,99,FFAECF,99,FFAED0,99
+Default=0
+
+[15]
+Name=P3 无敌
+0=取消,0,0
+1=启动,FFAEBB,FE
+Default=0
+
+[16]
+Name=选择关卡
+0=取消,0,0
+1=第一关,FFA4C5,00
+2=第二关,FFA4C5,01
+3=第三关,FFA4C5,02
+4=第四关,FFA4C5,03
+5=第五关,FFA4C5,04
+6=第六关,FFA4C5,05
+7=第七关,FFA4C5,06
+Default=0
+
+[DipConf]
+Dip1=0
+Dip2=0
+Dip3=0
+Dip4=0
+Dip5=0
+Dip6=0
+Dip7=0
+Dip8=0
+Dip9=0
+Dip10=0
+
+[Region]
+Default=0

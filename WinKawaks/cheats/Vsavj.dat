@@ -1,0 +1,86 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=Japan,FF8090,0
+2=USA,FF8090,2
+3=Hispanic,FF8090,4
+4=Oceania,FF8090,6
+5=Asia,FF8090,8
+6=Euro,FF8090,A
+7=Brazil,FF8090,C
+[1]
+Name=游戏标题
+0=取消,0,0
+1=日版标题,FF8088,0
+2=美版标题,FF8088,1
+[2]
+Name=P1 更换角色
+0=取消,0,0
+1=Demitri,FF8783,1
+2=Victor,FF8783,3
+3=Bulleta,FF8783,0
+4=Gallon,FF8783,2
+5=Zabel,FF8783,4
+6=Morrigan,FF8783,5
+7=Anakaris,FF8783,6
+8=Felicia,FF8783,7
+9=Bishamon,FF8783,8
+10=Aulbath,FF8783,9
+11=Sasquatch,FF8783,A
+12=Q-Bee,FF8783,C
+13=Lei-Lei,FF8783,D
+14=Lilith,FF8783,E
+15=Jedah,FF8783,F
+16=↓隐藏人物↓
+17=Dark Gallon,FF8783,12
+18=Oboro Bishamon,FF8783,18
+[3]
+Name=P2 更换角色
+0=取消,0,0
+1=Demitri,FF8B83,1
+2=Victor,FF8B83,3
+3=Bulleta,FF8B83,0
+4=Gallon,FF8B83,2
+5=Zabel,FF8B83,4
+6=Morrigan,FF8B83,5
+7=Anakaris,FF8B83,6
+8=Felicia,FF8B83,7
+9=Bishamon,FF8B83,8
+10=Aulbath,FF8B83,9
+11=Sasquatch,FF8B83,A
+12=Q-Bee,FF8B83,C
+13=Lei-Lei,FF8B83,D
+14=Lilith,FF8B83,E
+15=Jedah,FF8B83,F
+16=↓隐藏人物↓
+17=Dark Gallon,FF8B83,12
+18=Oboro Bishamon,FF8B83,18
+[4]
+Name=时间无限
+0=取消,0,0
+1=启动,FF8108,63
+[5]
+Name=P1 生命无限
+0=取消,0,0
+1=启动P1,FF8452,40
+2=启动P2,FF8852,40
+3=启动P1+P2,FF8452,40,FF8852,40
+[6]
+Name=P1 能源无限
+0=取消,0,0
+1=启动P1,FF8508,9
+2=启动P2,FF8908,9
+3=启动P1+P2,FF8508,9,FF8908,9
+[7]
+Name=控制方式
+0=取消,0,0
+1=P1控制方式
+2=由人手控制,FF87B5,0
+3=由电脑控制,FF87B5,1
+4=P2控制方式
+5=由人手控制,FF8BB5,0
+6=由电脑控制,FF8BB5,1
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

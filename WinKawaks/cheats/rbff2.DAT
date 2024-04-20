@@ -1,0 +1,104 @@
+[0]
+Name=电脑生命值为零
+0=取消,0,0
+1=P2-ON,ff058A,0
+2=P1-ON,ff048A,0
+[1]
+Name=模式选择
+0=取消,0,0
+1=超级模式,ffE001,01
+2=测试模式,ffE001,91
+[2]
+Name=无限时间
+0=取消,0,0
+1=启动,ff7C28,60
+[3]
+Name=P1更换角色
+0=取消,0,0
+1=Terry.B,ff7BA4,1
+2=Andy.B,ff7BA4,2
+3=Joe.H,ff7BA4,3
+4=Mai.S,ff7BA4,4
+5=Geese.H,ff7BA4,5
+6=Sokaku.M,ff7BA4,6
+7=Bob Wilson,ff7BA4,7
+8=Hon-Fu,ff7BA4,8
+10=Bule Mary,ff7BA4,9
+11=Franco Bash,ff7BA4,A
+12=R.Yamazaki,ff7BA4,B
+13=Jin Chonshu,ff7BA4,C
+14=Jin Chonrei,ff7BA4,D
+15=Duck King,ff7BA4,E
+16=Kim Kaphwan,ff7BA4,F
+17=Billy Kane,ff7BA4,10
+18=Cheng.S,ff7BA4,11
+19=Tung Fu Rue,ff7BA4,12
+20=Laurence.B,ff7BA4,13
+21=W.Krauser,ff7BA4,14
+22=Rick.S,ff7BA4,15
+23=Li Xiangfei,ff7BA4,16
+24=↓隐藏人物↓
+25=Alfred,ff7BA4,17
+[4]
+Name=P2更换角色
+0=取消,0,0
+1=Terry.B,ff7BA6,1
+2=Andy.B,ff7BA6,2
+3=Joe.H,ff7BA6,3
+4=Mai.S,ff7BA6,4
+5=Geese.H,ff7BA6,5
+6=Sokaku.M,ff7BA6,6
+7=Bob Wilson,ff7BA6,7
+8=Hon-Fu,ff7BA6,8
+10=Bule Mary,ff7BA6,9
+11=Franco Bash,ff7BA6,A
+12=R.Yamazaki,ff7BA6,B
+13=Jin Chonshu,ff7BA6,C
+14=Jin Chonrei,ff7BA6,D
+15=Duck King,ff7BA6,E
+16=Kim Kaphwan,ff7BA6,F
+17=Billy Kane,ff7BA6,10
+18=Cheng.S,ff7BA6,11
+19=Tung Fu Rue,ff7BA6,12
+20=Laurence.B,ff7BA6,13
+21=W.Krauser,ff7BA6,14
+22=Rick.S,ff7BA6,15
+23=Li Xiangfei,ff7BA6,16
+24=↓隐藏人物↓
+25=Alfred,ff7BA6,17
+[5]
+Name=P1生命无限
+0=取消,0,0
+1=体力不损,ff048A,C0
+2=体力见红,ff048A,60
+[6]
+Name=P2生命无限
+0=取消,0,0
+1=体力不损,ff058A,C0
+2=体力见红,ff058A,60
+[7]
+Name=能源无限
+0=取消,0,0
+1=启动P1,ff04BD,3C
+2=启动P2,ff05BD,3C
+3=启动P1+P2,ff04BD,3C,ff05BD,3C
+[8]
+Name=动作加速
+0=取消,0,0
+1=启动P1,10046E,00
+2=启动P2,10056E,00
+3=启动P1+P2,10046E,00,10056E,00
+[9]
+Name=无收招时间
+0=取消,0,0
+1=启动P1,10048C,01,1004B4,01
+2=启动P2,10058C,01,1005B4,01
+3=启动P1+P2,10048A,01,10058A,01,1004B4,01,1005B4,01
+[10]
+Name=观看结局 (选人后)
+0=取消,0,0
+1=启动,ffe000,04
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

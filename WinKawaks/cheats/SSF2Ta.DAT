@@ -1,0 +1,178 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=美国,FF82CE,2
+2=日本,FF82CE,0
+3=等等,FF82CE,4
+4=西班牙,FF82CE,6
+5=亚洲,FF82CE,8
+6=亚洲 TW,FF82CE,A
+[1]
+Name=P1 角色
+0=取消,0,0
+1=RYU,ff87DE,0
+2=E.HONDA,ff87DE,1
+3=BLANKA,ff87DE,2
+4=GUILE,ff87DE,3
+5=T.HAWK,ff87DE,D
+6=FEILONG,ff87DE,E
+7=BALROG,ff87DE,A
+8=SAGAT,ff87DE,9
+9=KEN,ff87DE,4
+10=CHUN LI,ff87DE,5
+11=ZANGIEF,ff87DE,6
+12=DHALSIM,ff87DE,7
+13=CAMMY,ff87DE,C
+14=DEE JAY,ff87DE,F
+15=VEGA,ff87DE,B
+16=M.BISON,ff87DE,8
+[2]
+Name=P2 角色
+0=取消,0,0
+1=RYU,ff8BDE,0
+2=E.HONDA,ff8BDE,1
+3=BLANKA,ff8BDE,2
+4=GUILE,ff8BDE,3
+5=T.HAWK,ff8BDE,D
+6=FEILONG,ff8BDE,E
+7=BALROG,ff8BDE,A
+8=SAGAT,ff8BDE,9
+9=KEN,ff8BDE,4
+10=CHUN LI,ff8BDE,5
+11=ZANGIEF,ff8BDE,6
+12=DHALSIM,ff8BDE,7
+13=CAMMY,ff8BDE,C
+14=DEE JAY,ff8BDE,F
+15=VEGA,ff8BDE,B
+16=M.BISON,ff8BDE,8
+[3]
+Name=P1出招简化
+0=Normal,0,0
+1=Akuma - Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Left,FF84DF,04,FF84E3,04,FF84E7,04,FF84ED,04,FF84F2,05
+2=Akuma - Fire Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Left,FF84DF,04,FF852F,08,FF84E7,04,FF84ED,04,FF84F2,05
+3=Akuma - Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Right,FF84DF,04,FF84E3,04,FF84E7,04,FF84ED,04,FF84F2,06
+4=Akuma - Fire Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Right,FF84DF,04,FF852F,08,FF84E7,04,FF84ED,04,FF84F2,06
+5=Balrog - Ground Straight & Ground Upper & Straight & Upper Dash & Buffalo Headbutt,FF84CF,06,FF84D7,06,FF850F,06,FF8525,06,FF852A,06
+6=Blanka - Back Step & Normal & Vertical Rolling,FF84CF,06,FF84FF,06,FF8506,06
+7=Cammy - Axel Spin Knuckle & Cannon Spike & Hooligan Combination & Spiral Arrow,FF84E1,04,FF84E5,04,FF84F1,04,FF84F6,06
+8=Chun Li - Kikouken & Tensyou Kyaku & Spinning Bird Kick,FF84CF,06,FF84FF,06,FF8509,06
+9=Dee Jay - Air Slasher & Double Rolling Sovat & Jackknife Maximum & Machinegun Upper,FF84E1,06,FF84E5,06,FF84F5,06,FF84F8,06
+10=Dhalsim - Yoga Blast & Yoga Fire & Yoga Teleport Left,FF84CF,04,FF84D7,04,FF84DA,05,FF84E9,08
+11=Dhalsim - Yoga Blast & Yoga Fire & Yoga Teleport Right,FF84CF,04,FF84D7,04,FF84DA,06,FF84E9,08
+12=Dhalsim - Yoga Blast & Yoga Flame & Yoga Teleport Left,FF84D3,08,FF84D7,04,FF84DA,05,FF84E9,08
+13=Dhalsim - Yoga Blast & Yoga Flame & Yoga Teleport Right,FF84D3,08,FF84D7,04,FF84DA,06,FF84E9,08
+14=E.Honda - Hyakkan Otoshi & Ooityou Nage & Super Zutsuki,FF84D7,06,FF84DF,06,FF84E5,08
+15=Fei Long - Rekkaken & Rekkuu Kyaku & Sien Kyaku,FF84DF,04,FF84EF,04,FF84E3,04,FF8503,06
+16=Guile - Somersault Kick & Sonic Boom,FF84CF,06,FF84D5,06
+17=Ken - Hadouken & Syouryuuken & Tatsumaki & Kamaharai & Nataotosi Keri,FF84DF,04,FF84E3,04,FF84E7,04,FF8535,04,FF8537,04
+18=Ken - Hadouken & Syouryuuken & Tatsumaki & Nataotosi Keri & Oosoto Mawasigeri,FF84DF,04,FF84E3,04,FF84E7,04,FF8537,04,FF8539,08
+19=M.Bison - Double Knee & Head Press & Devil Reverse & Psyco Crusher,FF84CF,06,FF84D7,06,FF84DE,06,FF84FB,06
+20=Ryu - Hadouken & Syouryuuken & Tatsumaki,FF84DF,04,FF84E3,04,FF84E7,04
+21=Ryu - Fire Hadouken & Syouryuuken & Tatsumaki,FF84DF,04,FF852F,08,FF84E7,04
+22=Sagat - Ground Tiger & Tiger Shot & Tiger Knee Crush & Tiger Uppercut,FF84CF,04,FF84D3,04,FF84D7,04,FF84DB,04
+23=T.Hawk - Mexican Typhoon & Tomahawk Buster,FF84DA,04,FF84E1,06,FF84E0,02
+24=Vega - Flying Barcelona & Rolling Crystal Flash & Sky High Claw,FF84D7,06,FF84DB,06,FF84DF,06
+25=Zangief - Atomic Suplex & Screw Pile Driver,FF84CF,06,FF84CE,02,FF84E8,06,FF84EB,02
+26=Zangief - Atomic Suplex & Bunising Flat,FF84E8,06,FF84EB,02,FF8500,04
+[4]
+Name=P2出招简化
+0=Normal,0,0
+1=Akuma - Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Left,FF88DF,04,FF88E3,04,FF88E7,04,FF88ED,04,FF88F2,05
+2=Akuma - Fire Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Left,FF88DF,04,FF892F,08,FF88E7,04,FF88ED,04,FF88F2,05
+3=Akuma - Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Right,FF88DF,04,FF88E3,04,FF88E7,04,FF88ED,04,FF88F2,06
+4=Akuma - Fire Hadouken & Syouryuuken & Tatsumaki & Asyura Senkuu Right,FF88DF,04,FF892F,08,FF88E7,04,FF88ED,04,FF88F2,06
+5=Balrog - Ground Straight & Ground Upper & Straight & Upper Dash & Buffalo Headbutt,FF88CF,06,FF88D7,06,FF890F,06,FF8925,06,FF892A,06
+6=Blanka - Back Step & Normal & Vertical Rolling,FF88CF,06,FF88FF,06,FF8906,06
+7=Cammy - Axel Spin Knuckle & Cannon Spike & Hooligan Combination & Spiral Arrow,FF88E1,04,FF88E5,04,FF88F1,04,FF88F6,06
+8=Chun Li - Kikouken & Tensyou Kyaku & Spinning Bird Kick,FF88CF,06,FF88FF,06,FF8909,06
+9=Dee Jay - Air Slasher & Double Rolling Sovat & Jackknife Maximum & Machinegun Upper,FF88E1,06,FF88E5,06,FF88F5,06,FF88F8,06
+10=Dhalsim - Yoga Blast & Yoga Fire & Yoga Teleport Left,FF88CF,04,FF88D7,04,FF88DA,05,FF88E9,08
+11=Dhalsim - Yoga Blast & Yoga Fire & Yoga Teleport Right,FF88CF,04,FF88D7,04,FF88DA,06,FF88E9,08
+12=Dhalsim - Yoga Blast & Yoga Flame & Yoga Teleport Left,FF88D3,08,FF88D7,04,FF88DA,05,FF88E9,08
+13=Dhalsim - Yoga Blast & Yoga Flame & Yoga Teleport Right,FF88D3,08,FF88D7,04,FF88DA,06,FF88E9,08
+14=E.Honda - Hyakkan Otoshi & Ooityou Nage & Super Zutsuki,FF88D7,06,FF88DF,06,FF88E5,08
+15=Fei Long - Rekkaken & Rekkuu Kyaku & Sien Kyaku,FF88DF,04,FF88EF,04,FF88E3,04,FF8903,06
+16=Guile - Somersault Kick & Sonic Boom,FF88CF,06,FF88D5,06
+17=Ken - Hadouken & Syouryuuken & Tatsumaki & Kamaharai & Nataotosi Keri,FF88DF,04,FF88E3,04,FF88E7,04,FF8935,04,FF8937,04
+18=Ken - Hadouken & Syouryuuken & Tatsumaki & Nataotosi Keri & Oosoto Mawasigeri,FF88DF,04,FF88E3,04,FF88E7,04,FF8937,04,FF8939,08
+19=M.Bison - Double Knee & Head Press & Devil Reverse & Psyco Crusher,FF88CF,06,FF88D7,06,FF88DE,06,FF88FB,06
+20=Ryu - Hadouken & Syouryuuken & Tatsumaki,FF88DF,04,FF88E3,04,FF88E7,04
+21=Ryu - Fire Hadouken & Syouryuuken & Tatsumaki,FF88DF,04,FF892F,08,FF88E7,04
+22=Sagat - Ground Tiger & Tiger Shot & Tiger Knee Crush & Tiger Uppercut,FF88CF,04,FF88D3,04,FF88D7,04,FF88DB,04
+23=T.Hawk - Mexican Typhoon & Tomahawk Buster,FF88DA,04,FF88E1,06,FF88E0,02
+24=Vega - Flying Barcelona & Rolling Crystal Flash & Sky High Claw,FF88D7,06,FF88DB,06,FF88DF,06
+25=Zangief - Atomic Suplex & Screw Pile Driver,FF88CF,06,FF88CE,02,FF88E8,06,FF88EB,02
+26=Zangief - Atomic Suplex & Bunising Flat,FF88E8,06,FF88EB,02,FF8900,04
+[5]
+Name=使用豪鬼
+0=取消,ff880a,00,ff8C0a,00
+1=启动P1,ff880a,01
+2=启动P2,ff8C0a,01
+3=启动P1+P2,ff880a,01,ff8C0a,01
+[6]
+Name=生命值
+0=取消,0,0
+1=启动P1,ff8478,90
+2=启动P2,ff8878,90
+3=启动P1+P2,ff8478,90,ff8878,90
+[7]
+Name=能源槽
+0=取消,0,0
+1=启动P1,ff8703,30
+2=启动P2,ff8B03,30
+3=启动P1+P2,ff8703,30,ff8B03,30
+[8]
+Name=无限时间
+0=取消,0,0
+1=启动,ff8DCF,99
+[9]
+Name=游戏速度
+0=取消,0,0
+1=Slow Speed,FF82F3,01
+2=SSF2 Speed,FF8CD2,FF
+3=Max Speed,FF8CD2,00
+4=Ultra Speed,FF82EC,01
+[10]
+Name=空中发招
+0=取消,0,0
+1=启动P1,FF85CE,00
+2=启动P2,FF89CE,00
+3=启动P1+P2,FF85CE,00,FF89CE,00
+[11]
+Name=背景锁定
+0=Normal,0,0
+1=Balrog,FFE18A,0A
+2=Blanka,FFE18A,02
+3=Cammy,FFE18A,0C
+4=Chun Li,FFE18A,05
+5=Dee Jay,FFE18A,0F
+6=Dhalsim,FFE18A,07
+7=E.Honda,FFE18A,01
+8=Fei Long,FFE18A,0E
+9=Guile,FFE18A,03
+10=Ken,FFE18A,04
+11=M.Bison,FFE18A,08
+12=Ryu,FFE18A,00
+13=Sagat,FFE18A,09
+14=T.Hawk,FFE18A,0D
+15=Vega,FFE18A,0B
+16=Zangief,FFE18A,06
+[12]
+Name=选关
+0=取消,0,0
+1=Stage 1,FF8C50,00
+2=Stage 2,FF8C50,01
+3=Stage 3,FF8C50,02
+4=Stage 4,FF8C50,03
+5=Stage 5,FF8C50,04
+6=Stage 6,FF8C50,05
+7=Stage 7,FF8C50,06
+8=Stage 8,FF8C50,07
+9=Stage 9,FF8C50,08
+10=Stage 10,FF8C50,09
+11=Stage 11,FF8C50,0A
+12=Stage 12,FF8C50,0B
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

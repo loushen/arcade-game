@@ -1,0 +1,57 @@
+[Region]
+Default=0
+
+[0]
+Name=Infinite Time
+0=OFF,0,0
+1=P1,101256,1E
+2=P2,1005F6,1E
+3=P1+P2,101256,1E,1005F6,1E
+Default=0
+
+[1]
+Name=Do not count strokes
+0=OFF,0,0
+1=P1,107007,01
+2=P2,10702D,01
+3=P1+P2,107007,01,10702D,01
+Default=0
+
+[2]
+Name=Maximum Power
+0=OFF,0,0
+1=ON,106FE6,7F
+Default=0
+
+[3]
+Name=Always No Wind
+0=OFF,0,0
+1=ON,106FE0,00
+Default=0
+
+[4]
+Name=Always Full Wind
+0=OFF,0,0
+1=ON,106FE0,13
+Default=0
+
+[5]
+Name=Wind Direction is
+0=OFF,0,0
+1=100% North,106FE2,00
+2=100% East,106FE2,04
+3=100% South,106FE2,08
+4=100% West,106FE2,0C
+5=NNE,106FE2,01
+6=NE,106FE2,02
+7=NEE,106FE2,03
+8=SEE,106FE2,05
+9=SE,106FE2,06
+10=SSE,106FE2,07
+11=SSW,106FE2,09
+12=SW,106FE2,0A
+13=SWW,106FE2,0B
+14=NWW,106FE2,0D
+15=NW,106FE2,0E
+16=NNW,106FE2,0F
+Default=0

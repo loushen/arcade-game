@@ -1,0 +1,47 @@
+[0]
+Name=Infinite Health
+0=Off,0,0
+1=On,10181E,08,101820,00
+Default=0
+
+[1]
+Name=Action Type
+0=Off,0,0
+1=Punch,1017F9,00
+2=Knife,1017F9,01
+3=Gun,1017F9,02
+4=Machine-Gun,1017F9,03
+5=Knuckle,1017F9,04
+Default=0
+
+[2]
+Name=Infinite Bullets
+0=Off,0,0
+1=Gun,1017F6,99,1017F7,09
+2=Machine-Gun,101854,99,101855,09
+3=Gun&Machine-Gun,1017F6,99,1017F7,09,101854,99,101855,09
+Default=0
+
+[3]
+Name=Equip Ultimate Knife
+0=Off,0,0
+1=On,101879,FF,10187A,FF
+Default=0
+
+[4]
+Name=Equip Status
+0=Off,0,0
+1=Default,101857,00
+2=Machine-Gun,101857,0F
+3=Knuckle,101857,F0
+4=Ultimate,101857,FF
+Default=0
+
+[5]
+Name=Max EXP
+0=Off,0,0
+1=On,10181A,FF,10181B,FF,101870,99,101871,00,101872,99,101873,99
+Default=0
+
+[Region]
+Default=0

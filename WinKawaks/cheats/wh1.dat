@@ -1,0 +1,45 @@
+[0]
+Name=电脑生命值为零
+0=取消,0,0
+1=P2-ON,ff610B,0,ff612F,0
+2=P1-ON,ff600B,0,ff602F,0
+[1]
+Name=无限时间
+0=取消,0,0
+1=启动,ffB009,99
+[2]
+Name=P1更换角色
+0=取消,0,0
+1=DRAGON=600d,1
+2=HANZO=600d,2
+3=MUSCLE POWER=600d,3
+4=J.CARN=600d,4
+5=JANNE=600d,5
+6=RASPUTIN=600d,6
+7=FUUMA=600d,7
+8=BROCKEN=600d,8
+9=↓隐藏人物↓
+10=GEEGUS=600d,9
+[3]
+Name=P2更换角色
+0=取消,0,0
+1=DRAGON=610d,1
+2=HANZO=610d,2
+3=MUSCLE POWER=610d,3
+4=J.CARN=610d,4
+5=JANNE=610d,5
+6=RASPUTIN=610d,6
+7=FUUMA=610d,7
+8=BROCKEN=610d,8
+9=↓隐藏人物↓
+10=GEEGUS=610d,9
+[4]
+Name=生命无限
+0=取消,0,0
+1=启动P1,ff600B,68,ff602F,68
+2=启动P2,ff610B,68,ff612F,68
+3=启动P1+P2,ff600B,68,ff602F,68,610B,68,ff612F,68
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

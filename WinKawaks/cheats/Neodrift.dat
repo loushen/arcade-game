@@ -1,0 +1,20 @@
+[Region]
+Default=0
+
+[0]
+Name=Infinite Time
+0=OFF,0,0
+1=ON,103334,99
+Default=0
+
+[1]
+Name=Stop Total Time
+0=OFF,0,0
+1=Practice,103378,BC
+2=Stage 1,10339A,00
+3=Stage 2,1033BC,00
+4=Stage 3,1033DE,00
+5=Stage 4,103400,00
+6=Stage 5,103422,00
+7=Stage 6,103444,00
+Default=0

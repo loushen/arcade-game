@@ -1,0 +1,109 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=美版,FF8190,02
+2=日版,FF8190,00
+3=亚洲,FF8190,06
+4=欧洲,FF8190,08
+5=西班牙,FF8190,04
+6=巴西,FF8190,0A
+[1]
+Name=电脑生命值为零
+0=取消,0,0
+1=启动P2,FF8840,00
+2=启动P1,FF8440,00
+[2]
+Name=无限时间
+0=取消,0,0
+1=启动,FFAE08,63
+[3]
+Name=P1 角色
+0=取消,0,0
+1=Ryu,FF84A3,00
+2=Chun-Li,FF84A3,04
+3=Charlie,FF84A3,03
+4=Ken,FF84A3,01
+5=Guile,FF84A3,07
+6=Birdie,FF84A3,08
+7=Sodom,FF84A3,06
+8=Adon,FF84A3,05
+9=Rose,FF84A3,09
+10=Sagat,FF84A3,0B
+11=↓隐藏人物↓
+12=*Akuma/Gouki,FF84A3,02
+13=*Bison/Vega,FF84A3,0A
+14=*Dan,FF84A3,0C
+[4]
+Name=P2 角色
+0=取消,0,0
+1=Ryu,FF88A3,00
+2=Chun-Li,FF88A3,04
+3=Charlie,FF88A3,03
+4=Ken,FF88A3,01
+5=Guile,FF88A3,07
+6=Birdie,FF88A3,08
+7=Sodom,FF88A3,06
+8=Adon,FF88A3,05
+9=Rose,FF88A3,09
+10=Sagat,FF88A3,0B
+11=↓隐藏人物↓
+12=*Akuma/Gouki,FF88A3,02
+13=*Bison/Vega,FF88A3,0A
+14=*Dan,FF88A3,0C
+[6]
+Name=生命无限
+0=取消,0,0
+1=启动P1,FF8440,90
+2=启动P2,FF8840,90
+3=启动P1+P2,FF8440,90,FF8840,90
+[7]
+Name=生命无限
+0=取消,0,0
+1=启动P1,FF84BE,90
+2=启动P2,FF88BE,90
+3=启动P1+P2,FF84BE,90,FF88BE,90
+[8]
+Name=P1 控制方式
+0=取消,0,0
+1=由人手控制,FF84C4,00
+2=由电脑控制,FF84C4,01
+[9]
+Name=P2 控制方式
+0=取消,0,0
+1=由人手控制,FF88C4,00
+2=由电脑控制,FF88C4,01
+[11]
+Name=全部角色
+0=取消,0,0
+1=启动,FF81CC,01
+[13]
+Name=挑战豪鬼
+0=取消,0,0
+1=启动,FFAE49,01
+[14]
+Name=选择背景
+0=取消,0,0
+1=Ryu Jap,FFAE00,00
+2=Ken U.S,FFAE00,02
+3=Bison Chi,FFAE00,04
+4=Charlie U.S,FFAE00,06
+5=Chun-li Chi,FFAE00,08
+6=Adon Thai,FFAE00,0A
+7=Sodom U.S,FFAE00,0C
+8=Guy Jap,FFAE00,0E
+9=Birdie Ita,FFAE00,10
+10=Rose Ita,FFAE00,12
+11=M.Bison U.S,FFAE00,14
+12=Sagat Thai,FFAE00,16
+13=Dan Thai,FFAE00,18
+[15]
+Name=选择关卡
+0=取消,0,0
+1=关卡一,FFAE12,00
+2=关卡二,FFAE12,01
+3=关卡三,FFAE12,02
+4=关卡四,FFAE12,03
+5=关卡五,FFAE12,04
+6=关卡六,FFAE12,05
+7=关卡七,FFAE12,06
+8=关卡八,FFAE12,07

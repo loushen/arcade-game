@@ -1,0 +1,74 @@
+[Region]
+Default=0
+
+[0]
+Name=Help line
+0=OFF,0,0
+1=ON,108286,01
+Default=0
+
+[1]
+Name=P1 Current ball is
+0=OFF,0,0
+1=Blue,10821E,00
+2=Red,10821E,01
+3=Yellow,10821E,02
+4=Green,10821E,03
+5=Purple,10821E,04
+6=Orange,10821E,05
+7=Black,10821E,06
+8=Grey,10821E,07
+Default=0
+
+[2]
+Name=P2 Current ball is
+0=OFF,0,0
+1=Blue,1082BA,00
+2=Red,1082BA,01
+3=Yellow,1082BA,02
+4=Green,1082BA,03
+5=Purple,1082BA,04
+6=Orange,1082BA,05
+7=Black,1082BA,06
+8=Grey,1082BA,07
+Default=0
+
+[3]
+Name=P1 Next ball is
+0=OFF,0,0
+1=Blue,10823C,00
+2=Red,10823C,01
+3=Yellow,10823C,02
+4=Green,10823C,03
+5=Purple,10823C,04
+6=Orange,10823C,05
+7=Black,10823C,06
+8=Grey,10823C,07
+Default=0
+
+[4]
+Name=P2 Next ball is
+0=OFF,0,0
+1=Blue,1082D8,00
+2=Red,1082D8,01
+3=Yellow,1082D8,02
+4=Green,1082D8,03
+5=Purple,1082D8,04
+6=Orange,1082D8,05
+7=Black,1082D8,06
+8=Grey,1082D8,07
+Default=0
+
+[5]
+Name=Stage Select
+0=OFF,0,0
+1=Round 4 Next,102270,02,102272,02
+2=Round 8 Next,102270,06,102272,06
+3=Round 12 Next,102270,0A,102272,0A
+4=Round 16 Next,102270,0E,102272,0E
+5=Round 20 Next,102270,12,102272,12
+6=Round 24 Next,102270,16,102272,16
+7=Round 28 Next,102270,1A,102272,1A
+8=Round 30 Next,102270,1C,102272,1C
+9=End Sequence Next,102270,20,102272,20
+Default=0

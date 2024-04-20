@@ -1,0 +1,30 @@
+[Region]
+Default=0
+
+[0]
+Name=Infinite Time
+0=OFF,0,0
+1=ON,1014D6,30,1014D5,01
+Default=0
+
+[1]
+Name=Finish Game Now!
+0=OFF,0,0
+1=ON,1014D6,01,1014D5,00
+Default=0
+
+[2]
+Name=P1 Score Always is
+0=OFF,0,0
+1=0,1014CE,00
+2=9,1014CE,09
+3=99,1014CE,99
+Default=0
+
+[3]
+Name=P2 Score Always is
+0=OFF,0,0
+1=0,1014D0,00
+2=9,1014D0,09
+3=99,1014D0,99
+Default=0

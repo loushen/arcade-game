@@ -1,0 +1,54 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On(9:99),107E27,09,107E24,99
+
+[1]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,10209C,99
+
+[2]
+Name=Invulnerabirity(Unperfect?)
+0=Off,0,0
+1=P1 On,102042,FF
+
+[3]
+Name=Ultimate Cyber Pod
+0=Off,0,0
+1=P1 On,102298,FF
+
+[4]
+Name=9999 AUTO
+0=Off,0,0
+1=P1 On,1020EC,99,1020ED,99
+
+[5]
+Name=9999 FIRE
+0=Off,0,0
+1=P1 On,1020EE,99,1020EF,99
+
+[6]
+Name=9999 WIDE
+0=Off,0,0
+1=P1 On,1020F0,99,1020F1,99
+
+[7]
+Name=9999 BAZOOKA
+0=Off,0,0
+1=P1 On,1020F2,99,1020F3,99
+
+[8]
+Name=9999 GRANADE
+0=Off,0,0
+1=P1 On,1020F4,99,1020F5,99
+
+[9]
+Name=P1 Weapon Type
+0=Off,0,0
+1=NORMAL,1020E4,00
+2=AUTO,1020E4,01
+3=FIRE,1020E4,02
+4=WIDE,1020E4,03
+5=BAZOOKA,1020E4,04
+6=GRANADE,1020E4,05

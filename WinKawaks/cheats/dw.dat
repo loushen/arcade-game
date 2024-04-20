@@ -1,0 +1,85 @@
+[0]
+Name=P1 Invincible
+0=No,0,0
+1=Yes,FF82E7,0E
+
+[1]
+Name=P1 Inf Energy
+0=No,0,0
+1=Yes,FF8288,99,FF8289,09
+
+[2]
+Name=P1 Maximum Char Level
+0=No,0,0
+1=Yes,FF82EF,07
+
+[3]
+Name=P1 Maximum Experience
+0=No,0,0
+1=Yes,FF82EA,99,FF82EB,99
+
+[4]
+Name=P1 Maximum Weapon Level
+0=No,0,0
+1=Yes,FF82E8,07
+
+[5]
+Name=P1 Maximum Weapon Power
+0=No,0,0
+1=Yes,FF82E3,0B,FF82EE,07
+
+[6]
+Name=P1 Maximum Blue Balls
+0=No,0,0
+1=Yes,FF82E0,02
+
+[7]
+Name=P1 Special Weapon
+0=Normal,0,0
+1=Stone,FF81D4,00
+2=Guardian,FF81D4,02
+3=Fire Arrow,FF81D4,04
+4=Explosion,FF81D4,06
+
+[8]
+Name=P2 Invincible
+0=No,0,0
+1=Yes,FF8387,0E
+
+[9]
+Name=P2 Inf Energy
+0=No,0,0
+1=Yes,FF8328,99,FF8329,09
+
+[10]
+Name=P2 Maximum Char Level
+0=No,0,0
+1=Yes,FF838F,07
+
+[11]
+Name=P2 Maximum Experience
+0=No,0,0
+1=Yes,FF838A,99,FF838B,99
+
+[12]
+Name=P2 Maximum Weapon Level
+0=No,0,0
+1=Yes,FF8388,07
+
+[13]
+Name=P2 Maximum Weapon Power
+0=No,0,0
+1=Yes,FF8383,0B,FF838E,07
+
+[14]
+Name=P2 Maximum Blue Balls
+0=No,0,0
+1=Yes,FF8380,02
+
+[15]
+Name=P2 Special Weapon
+0=Normal,0,0
+1=Stone,FF8274,00
+2=Guardian,FF8274,02
+3=Fire Arrow,FF8274,04
+4=Explosion,FF8274,06

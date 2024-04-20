@@ -1,0 +1,1477 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF8070,00
+2=USA,FF8070,02
+3=Hispanic,FF8070,04
+4=Asia,FF8070,06
+5=Euro,FF8070,08
+6=Brazil,FF8070,0A
+
+[1]
+Name=Infinite Time
+0=No,0,0
+1=Yes,FFCAB3,04,FFCB03,04
+
+[2]
+Name=Max Stage Clear Bonus (Rest Time)
+0=No,0,0
+1=Yes,FF803B,59
+
+[3]
+Name=Infinite Final Strike*
+0=No,0,0
+1=Yes,FF8640,9A,FF86ED,21,FF86EF,01,FF8840,9A,FF88EF,01,FF8A40,9A,FF8AEF,01,FF8C40,9A,FF8CEF,01
+
+[4]
+Name=Infinite Keys
+0=No,0,0
+1=Yes,FF8044,09,FF8244,09,FF8444,09,FF8644,09
+
+[5]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF8640,9A
+
+[6]
+Name=P1 Invincible
+0=No,0,0
+1=Yes,FF865D,03
+
+[7]
+Name=P1 Max Exp
+0=No,0,0
+1=Yes,FF86EE,99,FF86EF,9,FF86F0,99,FF86F1,99
+
+[8]
+Name=P1 Inf SP
+0=No,0,0
+1=Yes,FF86F2,9,FF86F4,99,FF86F5,99
+
+[9]
+Name=P1 Inf Spells
+0=No,0,0
+1=Yes,FF872E,9,FF8731,9,FF8730,9,FF8733,9,FF8732,9,FF8735,9,FF8734,9,FF8736,9
+
+[10]
+Name=P1 Inf Items
+0=No,0,0
+1=Yes,FF8726,9,FF8727,9,FF8728,9,FF8729,9,FF872A,9,FF872B,9
+
+[11]
+Name=P1 Inf Staffs
+0=No,0,0
+1=Yes,FF8768,14,FF876B,14,FF876A,14,FF876E,14
+
+[12]
+Name=P1 High Power
+0=No,0,0
+1=Yes,FF8656,1,FF8658,BE
+
+[13]
+Name=P1 Speed Move
+0=No,0,0
+1=Yes,FF8760,1,FF875F,3
+
+[14]
+Name=P1 Shadow
+0=No,0,0
+1=Yes,FF8775,1
+
+[15]
+Name=P1 Char Select
+0=Normal,0,0
+1=Crassus (Warrior 1),FF85E0,00
+2=Jarred (Warrior 2),FF85E0,01
+3=Greldon (Cleric 1),FF85E0,02
+4=Miles (Cleric 2),FF85E0,03
+5=Lucia (Elf 1),FF85E1,04
+6=Kayla (Elf 2),FF85E0,05
+7=Dimsdale (Dwarf 1),FF85E0,06
+8=Hendel (Dwarf 2),FF85E0,07
+9=Syous (Mage 1),FF85E0,08
+10=D'Raven (Mage 2),FF85E0,09
+11=Moriah (Theif 1),FF85E0,0A
+12=Shannon (Thief 2),FF85E0,0B
+
+[16]
+Name=P1 Item in Slot 1
+0=Normal,0,0
+1=Arrow (Infinite),FF871F,24
+2=Arrow,FF871F,23
+3=Bastard Sword 1,FF871F,37
+4=Bastard Sword 2,FF871F,38
+5=Battle Axe,FF871F,46
+6=Blade of Storms,FF871F,40
+7=Bless,FF871F,1D
+8=Bottled Efreet,FF871F,2A
+9=Burning Arrow,FF871F,26
+10=Burning Oil,FF871F,27
+11=Cloud Kill,FF871F,14
+12=Conjure Elemental,FF871F,0F
+13=Continual Light,FF871F,18
+14=Cure Crit. Wounds,FF871F,20
+15=Cure Serious Wounds,FF871F,1F
+16=Cursed Sword 1,FF871F,3C
+17=Cursed Sword 2,FF871F,3D
+18=Dagger,FF871F,21
+19=Djinn Summon,FF871F,07
+20=Dragon Slayer,FF871F,39
+21=Earthquake,FF871F,1C
+22=Egg of Wonder,FF871F,2B
+23=Fireball,FF871F,0C
+24=Flesh to Stone,FF871F,10
+25=Guard,FF871F,2D
+26=Hand Axe Level 1,FF871F,42
+27=Hand Axe Level 2,FF871F,43
+28=Hand Axe Level 3,FF871F,44
+29=Hand Axe Level 4,FF871F,45
+30=Haste,FF871F,09
+31=Hold Person,FF871F,17
+32=Holy Avenger,FF871F,3A
+33=Holy Word,FF871F,1B
+34=Ice Storm,FF871F,0E
+35=Insect Plague,FF871F,1A
+36=Invisibility,FF871F,08
+37=Large Burning Oil,FF871F,28
+38=Level 1 Normal Sword,FF871F,2E
+39=Level 1 Short Sword,FF871F,32
+40=Level 2 Normal Sword,FF871F,2F
+41=Level 2 Short Sword,FF871F,33
+42=Level 3 Normal Sword,FF871F,30
+43=Level 3 Short Sword,FF871F,34
+44=Level 4 Normal Sword,FF871F,31
+45=Level 4 Short Sword,FF871F,35
+46=Lighning Bolt,FF871F,0D
+47=Mace Level 1,FF871F,47
+48=Mace Level 2,FF871F,48
+49=Mace Level 3,FF871F,49
+50=Mace Level 4,FF871F,4A
+51=Magic Missile,FF871F,0B
+52=Meteor Swarm,FF871F,15
+53=Morning Star,FF871F,4C
+54=Nothing,FF871F,56
+55=Polymorph Others,FF871F,0A
+56=Power Word Kill,FF871F,16
+57=Projected Image,FF871F,12
+58=Reverse Gravity,FF871F,13
+59=Ring Cont. Light,FF871F,05
+60=Ring Cure S. Wounds,FF871F,06
+61=Ring Fire Ball,FF871F,01
+62=Ring Invisibility,FF871F,03
+63=Ring Lightning Bolt,FF871F,02
+64=Ring Magic Missile,FF871F,00
+65=Ring Polym. Others,FF871F,04
+66=Silver Arrow,FF871F,25
+67=Silver Dagger,FF871F,22
+68=Sling,FF871F,2C
+69=Staff of Elem.Power,FF871F,4D
+70=Staff of Magic,FF871F,4E
+71=Staff of Serpents,FF871F,51
+72=Staff of Striking,FF871F,50
+73=Staff of Wizardry,FF871F,4F
+74=Sticks to Snakes,FF871F,19
+75=Striking,FF871F,1E
+76=Sword of Fire,FF871F,3E
+77=Sword of Freezing,FF871F,3F
+78=Sword of Legends,FF871F,3B
+79=Sword of Wind (R?),FF871F,41
+80=Two-Handed Sword,FF871F,36
+81=Wall of Fire,FF871F,11
+82=Wand of Cold,FF871F,52
+83=Wand of Fire,FF871F,53
+84=Wand of Lightning,FF871F,54
+85=Wand of Paralisation,FF871F,55
+86=War Hammer,FF871F,4B
+
+[17]
+Name=P1 Right Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF86EA,09
+2=Bastard Sword 2,FF86EA,0A
+3=Battle Axe,FF86EA,18
+4=Blade of Storms,FF86EA,12
+5=Cursed Sword 1,FF86EA,0E
+6=Cursed Sword 2,FF86EA,0F
+7=Dragon Shield,FF86EA,2C
+8=Dragon Slayer,FF86EA,0B
+9=Fire Shield,FF86EA,2D
+10=Hand Axe Level 1,FF86EA,14
+11=Hand Axe Level 2,FF86EA,15
+12=Hand Axe Level 3,FF86EA,16
+13=Hand Axe Level 4,FF86EA,17
+14=Holy Avenger,FF86EA,0C
+15=Holy Shield,FF86EA,2F
+16=Ice Shield,FF86EA,2E
+17=Level 1 Normal Sword,FF86EA,00
+18=Level 1 Shield,FF86EA,28
+19=Level 1 Short Sword,FF86EA,04
+20=Level 2 Normal Sword,FF86EA,01
+21=Level 2 Shield,FF86EA,29
+22=Level 2 Short Sword,FF86EA,05
+23=Level 3 Normal Sword,FF86EA,02
+24=Level 3 Shield,FF86EA,2A
+25=Level 3 Short Sword,FF86EA,06
+26=Level 4 Normal Sword,FF86EA,03
+27=Level 4 Shield,FF86EA,2B
+28=Level 4 Short Sword,FF86EA,07
+29=Mace Level 1,FF86EA,19
+30=Mace Level 2,FF86EA,1A
+31=Mace Level 3,FF86EA,1B
+32=Mace Level 4,FF86EA,1C
+33=Morning Star,FF86EA,1E
+34=Nothing,FF86EA,FF
+35=Staff of Elem.Power,FF86EA,1F
+36=Staff of Magic,FF86EA,20
+37=Staff of Serpents,FF86EA,23
+38=Staff of Striking,FF86EA,22
+39=Staff of Wizardry,FF86EA,21
+40=Sword of Fire,FF86EA,10
+41=Sword of Freezing,FF86EA,11
+42=Sword of Legends,FF86EA,0D
+43=Sword of Wind (R?),FF86EA,13
+44=Two-Handed Sword,FF86EA,08
+45=Wand of Cold,FF86EA,24
+46=Wand of Fire,FF86EA,25
+47=Wand of Lightning,FF86EA,26
+48=Wand of Paralisation,FF86EA,27
+49=War Hammer,FF86EA,1D
+
+[18]
+Name=P1 Left Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF86ED,09
+2=Bastard Sword 2,FF86ED,0A
+3=Battle Axe,FF86ED,18
+4=Blade of Storms,FF86ED,12
+5=Cursed Sword 1,FF86ED,0E
+6=Cursed Sword 2,FF86ED,0F
+7=Dragon Shield,FF86ED,2C
+8=Dragon Slayer,FF86ED,0B
+9=Fire Shield,FF86ED,2D
+10=Hand Axe Level 1,FF86ED,14
+11=Hand Axe Level 2,FF86ED,15
+12=Hand Axe Level 3,FF86ED,16
+13=Hand Axe Level 4,FF86ED,17
+14=Holy Avenger,FF86ED,0C
+15=Holy Shield,FF86ED,2F
+16=Ice Shield,FF86ED,2E
+17=Level 1 Normal Sword,FF86EA,00
+18=Level 1 Shield,FF86ED,28
+19=Level 1 Short Sword,FF86ED,04
+20=Level 2 Normal Sword,FF86ED,01
+21=Level 2 Shield,FF86ED,29
+22=Level 2 Short Sword,FF86ED,05
+23=Level 3 Normal Sword,FF86ED,02
+24=Level 3 Shield,FF86ED,2A
+25=Level 3 Short Sword,FF86ED,06
+26=Level 4 Normal Sword,FF86ED,03
+27=Level 4 Shield,FF86ED,2B
+28=Level 4 Short Sword,FF86ED,07
+29=Mace Level 1,FF86ED,19
+30=Mace Level 2,FF86ED,1A
+31=Mace Level 3,FF86ED,1B
+32=Mace Level 4,FF86ED,1C
+33=Morning Star,FF86ED,1E
+34=Nothing,FF86ED,FF
+35=Staff of Elem.Power,FF86ED,1F
+36=Staff of Magic,FF86ED,20
+37=Staff of Serpents,FF86ED,23
+38=Staff of Striking,FF86ED,22
+39=Staff of Wizardry,FF86ED,21
+40=Sword of Fire,FF86ED,10
+41=Sword of Freezing,FF86ED,11
+42=Sword of Legends,FF86ED,0D
+43=Sword of Wind (R?),FF86ED,13
+44=Two-Handed Sword,FF86ED,08
+45=Wand of Cold,FF86ED,24
+46=Wand of Fire,FF86ED,25
+47=Wand of Lightning,FF86ED,26
+48=Wand of Paralisation,FF86ED,27
+49=War Hammer,FF86ED,1D
+
+[19]
+Name=P1 Bracelets
+0=Normal,0,0
+1=Gauntlets of Power,FF8740,00
+2=Nothing,FF8740,FF
+
+[20]
+Name=P1 Headwear
+0=Normal,0,0
+1=Elf Circlet,FF873F,03
+2=Fighter/Dwarf Helmet,FF873F,00
+3=Nothing,FF873F,FF
+4=Priest Hat,FF873F,04
+5=Thief Hood,FF873F,02
+6=Tiara,FF873F,05
+7=Wizard Hat,FF873F,01
+
+[21]
+Name=P1 Body Armour
+0=Normal,0,0
+1=Cleric Robe,FF873E,01
+2=Dwarf Armour,FF873E,03
+3=Elf Robe,FF873E,02
+4=Mage Robe,FF873E,04
+5=Nothing,FF873E,FF
+6=Thief Cape,FF873E,05
+7=Warrior Armour,FF873E,00
+
+[22]
+Name=P1 Boots
+0=Normal,0,0
+1=Boots of Levitation,FF8741,02
+2=Boots of Speed,FF8741,00
+3=Boots of Spring & Striding,FF8741,01
+4=Nothing,FF8741,FF
+
+[23]
+Name=P1 Hand Equipment
+0=Normal,0,0
+1=Fire Rod,FF8742,04
+2=Ice Rod,FF8742,05
+3=Nothing,FF8742,FF
+4=Ring of Protection,FF8742,00
+5=Ring of Prot. vs Evil,FF8742,03
+6=Ring of Prot. vs Fire,FF8742,01
+7=Ring of Sp. Turning,FF8742,02
+8=Thunder Rod,FF8742,06
+
+[24]
+Name=P1 Shield
+0=Normal,0,0
+1=Dragon Shield,FF8743,04
+2=Fire Shield,FF8743,05
+3=Holy Shield,FF8743,07
+4=Ice Shield,FF8743,06
+5=Level 1 Shield,FF8743,00
+6=Level 2 Shield,FF8743,01
+7=Level 3 Shield,FF8743,02
+8=Level 4 Shield,FF8743,03
+9=Nothing,FF8743,FF
+
+[25]
+Name=P1 Accessory
+0=Normal,0,0
+1=Anklet,FF8745,05
+2=Braclet,FF8745,02
+3=Broach,FF8745,03
+4=Ear Rings,FF8745,04
+5=Necklace,FF8745,00
+6=Nothing,FF8745,FF
+7=Orb,FF8745,01
+
+[26]
+Name=P1 Key Item
+0=Normal,0,0
+1=Bottles (R?),FF8744,06
+2=Displacer Cloak,FF8744,0A
+3=Dragon Horn,FF8744,08
+4=Dragon Scale,FF8744,03
+5=Egg of Owlbear,FF8744,05
+6=Eye of Beholder,FF8744,00
+7=Eye of Disp. Beast,FF8744,02
+8=Fang (R?),FF8744,07
+9=Manticore Skin,FF8744,04
+10=Medal,FF8744,09
+11=Nothing,FF8744,FF
+12=Skin of Disp. Beast,FF8744,01
+
+[27]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF8840,9A
+
+[28]
+Name=P2 Invincible
+0=No,0,0
+1=Yes,FF885D,03
+
+[29]
+Name=P2 Max Exp
+0=No,0,0
+1=Yes,FF88EE,99,FF88EF,9,FF88F0,99,FF88F1,99
+
+[30]
+Name=P2 Inf SP
+0=No,0,0
+1=Yes,FF88F2,9,FF88F4,99,FF88F5,99
+
+[31]
+Name=P2 Inf Spells
+0=No,0,0
+1=Yes,FF892E,9,FF8931,9,FF8930,9,FF8933,9,FF8932,9,FF8935,9,FF8934,9,FF8936,9
+
+[32]
+Name=P2 Inf Items
+0=No,0,0
+1=Yes,FF8926,9,FF8927,9,FF8928,9,FF8929,9,FF892A,9,FF892B,9
+
+[33]
+Name=P2 Inf Staffs
+0=No,0,0
+1=Yes,FF8968,14,FF896B,14,FF896A,14,FF896E,14
+
+[34]
+Name=P2 High Power
+0=No,0,0
+1=Yes,FF8856,1,FF8858,BE
+
+[35]
+Name=P2 Speed Move
+0=No,0,0
+1=Yes,FF8960,1,FF895F,3
+
+[36]
+Name=P2 Shadow
+0=No,0,0
+1=Yes,FF8975,1
+
+[37]
+Name=P2 Char Select
+0=Normal,0,0
+1=Crassus (Warrior 1),FF87E0,00
+2=Jarred (Warrior 2),FF87E0,01
+3=Greldon (Cleric 1),FF87E0,02
+4=Miles (Cleric 2),FF87E0,03
+5=Lucia (Elf 1),FF87E0,04
+6=Kayla (Elf 2),FF87E0,05
+7=Dimsdale (Dwarf 1),FF87E0,06
+8=Hendel (Dwarf 2),FF87E0,07
+9=Syous (Mage 1),FF87E0,08
+10=D'Raven (Mage 2),FF87E0,09
+11=Moriah (Theif 1),FF87E0,0A
+12=Shannon (Thief 2),FF87E0,0B
+
+[38]
+Name=P2 Item in Slot 1
+0=Normal,0,0
+1=Arrow (Infinite),FF891F,24
+2=Arrow,FF891F,23
+3=Bastard Sword 1,FF891F,37
+4=Bastard Sword 2,FF891F,38
+5=Battle Axe,FF891F,46
+6=Blade of Storms,FF891F,40
+7=Bless,FF891F,1D
+8=Bottled Efreet,FF891F,2A
+9=Burning Arrow,FF891F,26
+10=Burning Oil,FF891F,27
+11=Cloud Kill,FF891F,14
+12=Conjure Elemental,FF891F,0F
+13=Continual Light,FF891F,18
+14=Cure Crit. Wounds,FF891F,20
+15=Cure Serious Wounds,FF891F,1F
+16=Cursed Sword 1,FF891F,3C
+17=Cursed Sword 2,FF891F,3D
+18=Dagger,FF891F,21
+19=Djinn Summon,FF891F,07
+20=Dragon Slayer,FF891F,39
+21=Earthquake,FF891F,1C
+22=Egg of Wonder,FF891F,2B
+23=Fireball,FF891F,0C
+24=Flesh to Stone,FF891F,10
+25=Guard,FF891F,2D
+26=Hand Axe Level 1,FF891F,42
+27=Hand Axe Level 2,FF891F,43
+28=Hand Axe Level 3,FF891F,44
+29=Hand Axe Level 4,FF891F,45
+30=Haste,FF891F,09
+31=Hold Person,FF891F,17
+32=Holy Avenger,FF891F,3A
+33=Holy Word,FF891F,1B
+34=Ice Storm,FF891F,0E
+35=Insect Plague,FF891F,1A
+36=Invisibility,FF891F,08
+37=Large Burning Oil,FF891F,28
+38=Level 1 Normal Sword,FF891F,2E
+39=Level 1 Short Sword,FF891F,32
+40=Level 2 Normal Sword,FF891F,2F
+41=Level 2 Short Sword,FF891F,33
+42=Level 3 Normal Sword,FF891F,30
+43=Level 3 Short Sword,FF891F,34
+44=Level 4 Normal Sword,FF891F,31
+45=Level 4 Short Sword,FF891F,35
+46=Lighning Bolt,FF891F,0D
+47=Mace Level 1,FF891F,47
+48=Mace Level 2,FF891F,48
+49=Mace Level 3,FF891F,49
+50=Mace Level 4,FF891F,4A
+51=Magic Missile,FF891F,0B
+52=Meteor Swarm,FF891F,15
+53=Morning Star,FF891F,4C
+54=Nothing,FF891F,56
+55=Polymorph Others,FF891F,0A
+56=Power Word Kill,FF891F,16
+57=Projected Image,FF891F,12
+58=Reverse Gravity,FF891F,13
+59=Ring Cont. Light,FF891F,05
+60=Ring Cure S. Wounds,FF891F,06
+61=Ring Fire Ball,FF891F,01
+62=Ring Invisibility,FF891F,03
+63=Ring Lightning Bolt,FF891F,02
+64=Ring Magic Missile,FF891F,00
+65=Ring Polym. Others,FF891F,04
+66=Silver Arrow,FF891F,25
+67=Silver Dagger,FF891F,22
+68=Sling,FF891F,2C
+69=Staff of Elem.Power,FF871F,4D
+70=Staff of Magic,FF891F,4E
+71=Staff of Serpents,FF891F,51
+72=Staff of Striking,FF891F,50
+73=Staff of Wizardry,FF891F,4F
+74=Sticks to Snakes,FF891F,19
+75=Striking,FF891F,1E
+76=Sword of Fire,FF891F,3E
+77=Sword of Freezing,FF891F,3F
+78=Sword of Legends,FF891F,3B
+79=Sword of Wind (R?),FF891F,41
+80=Two-Handed Sword,FF891F,36
+81=Wall of Fire,FF891F,11
+82=Wand of Cold,FF891F,52
+83=Wand of Fire,FF891F,53
+84=Wand of Lightning,FF891F,54
+85=Wand of Paralisation,FF891F,55
+86=War Hammer,FF891F,4B
+
+[39]
+Name=P2 Right Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF88EA,09
+2=Bastard Sword 2,FF88EA,0A
+3=Battle Axe,FF88EA,18
+4=Blade of Storms,FF88EA,12
+5=Cursed Sword 1,FF88EA,0E
+6=Cursed Sword 2,FF88EA,0F
+7=Dragon Shield,FF88EA,2C
+8=Dragon Slayer,FF88EA,0B
+9=Fire Shield,FF88EA,2D
+10=Hand Axe Level 1,FF88EA,14
+11=Hand Axe Level 2,FF88EA,15
+12=Hand Axe Level 3,FF88EA,16
+13=Hand Axe Level 4,FF88EA,17
+14=Holy Avenger,FF88EA,0C
+15=Holy Shield,FF88EA,2F
+16=Ice Shield,FF88EA,2E
+17=Level 1 Normal Sword,FF88EA,00
+18=Level 1 Shield,FF88EA,28
+19=Level 1 Short Sword,FF88EA,04
+20=Level 2 Normal Sword,FF88EA,01
+21=Level 2 Shield,FF88EA,29
+22=Level 2 Short Sword,FF88EA,05
+23=Level 3 Normal Sword,FF88EA,02
+24=Level 3 Shield,FF88EA,2A
+25=Level 3 Short Sword,FF88EA,06
+26=Level 4 Normal Sword,FF88EA,03
+27=Level 4 Shield,FF88EA,2B
+28=Level 4 Short Sword,FF88EA,07
+29=Mace Level 1,FF88EA,19
+30=Mace Level 2,FF88EA,1A
+31=Mace Level 3,FF88EA,1B
+32=Mace Level 4,FF88EA,1C
+33=Morning Star,FF88EA,1E
+34=Nothing,FF88EA,FF
+35=Staff of Elem.Power,FF88EA,1F
+36=Staff of Magic,FF88EA,20
+37=Staff of Serpents,FF88EA,23
+38=Staff of Striking,FF88EA,22
+39=Staff of Wizardry,FF88EA,21
+40=Sword of Fire,FF88EA,10
+41=Sword of Freezing,FF88EA,11
+42=Sword of Legends,FF88EA,0D
+43=Sword of Wind (R?),FF88EA,13
+44=Two-Handed Sword,FF88EA,08
+45=Wand of Cold,FF88EA,24
+46=Wand of Fire,FF88EA,25
+47=Wand of Lightning,FF88EA,26
+48=Wand of Paralisation,FF88EA,27
+49=War Hammer,FF88EA,1D
+
+[40]
+Name=P2 Left Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF88ED,09
+2=Bastard Sword 2,FF88ED,0A
+3=Battle Axe,FF88ED,18
+4=Blade of Storms,FF88ED,12
+5=Cursed Sword 1,FF88ED,0E
+6=Cursed Sword 2,FF88ED,0F
+7=Dragon Shield,FF88ED,2C
+8=Dragon Slayer,FF88ED,0B
+9=Fire Shield,FF88ED,2D
+10=Hand Axe Level 1,FF88ED,14
+11=Hand Axe Level 2,FF88ED,15
+12=Hand Axe Level 3,FF88ED,16
+13=Hand Axe Level 4,FF88ED,17
+14=Holy Avenger,FF88ED,0C
+15=Holy Shield,FF88ED,2F
+16=Ice Shield,FF88ED,2E
+17=Level 1 Normal Sword,FF88EA,00
+18=Level 1 Shield,FF88ED,28
+19=Level 1 Short Sword,FF88ED,04
+20=Level 2 Normal Sword,FF88ED,01
+21=Level 2 Shield,FF88ED,29
+22=Level 2 Short Sword,FF88ED,05
+23=Level 3 Normal Sword,FF88ED,02
+24=Level 3 Shield,FF88ED,2A
+25=Level 3 Short Sword,FF88ED,06
+26=Level 4 Normal Sword,FF88ED,03
+27=Level 4 Shield,FF88ED,2B
+28=Level 4 Short Sword,FF88ED,07
+29=Mace Level 1,FF88ED,19
+30=Mace Level 2,FF88ED,1A
+31=Mace Level 3,FF88ED,1B
+32=Mace Level 4,FF88ED,1C
+33=Morning Star,FF88ED,1E
+34=Nothing,FF88ED,FF
+35=Staff of Elem.Power,FF88ED,1F
+36=Staff of Magic,FF88ED,20
+37=Staff of Serpents,FF88ED,23
+38=Staff of Striking,FF88ED,22
+39=Staff of Wizardry,FF88ED,21
+40=Sword of Fire,FF88ED,10
+41=Sword of Freezing,FF88ED,11
+42=Sword of Legends,FF88ED,0D
+43=Sword of Wind (R?),FF88ED,13
+44=Two-Handed Sword,FF88ED,08
+45=Wand of Cold,FF88ED,24
+46=Wand of Fire,FF88ED,25
+47=Wand of Lightning,FF88ED,26
+48=Wand of Paralisation,FF88ED,27
+49=War Hammer,FF88ED,1D
+
+[41]
+Name=P2 Bracelets
+0=Normal,0,0
+1=Gauntlets of Power,FF8940,00
+2=Nothing,FF8940,FF
+
+[42]
+Name=P2 Headwear
+0=Normal,0,0
+1=Elf Circlet,FF893F,03
+2=Fighter/Dwarf Helmet,FF893F,00
+3=Nothing,FF893F,FF
+4=Priest Hat,FF893F,04
+5=Thief Hood,FF893F,02
+6=Tiara,FF893F,05
+7=Wizard Hat,FF893F,01
+
+[43]
+Name=P2 Body Armour
+0=Normal,0,0
+1=Cleric Robe,FF893E,01
+2=Dwarf Armour,FF893E,03
+3=Elf Robe,FF893E,02
+4=Mage Robe,FF893E,04
+5=Nothing,FF893E,FF
+6=Thief Cape,FF893E,05
+7=Warrior Armour,FF893E,00
+
+[44]
+Name=P2 Boots
+0=Normal,0,0
+1=Boots of Levitation,FF8941,02
+2=Boots of Speed,FF8941,00
+3=Boots of Spring & Striding,FF8941,01
+4=Nothing,FF8941,FF
+
+[45]
+Name=P2 Hand Equipment
+0=Normal,0,0
+1=Fire Rod,FF8942,04
+2=Ice Rod,FF8942,05
+3=Nothing,FF8942,FF
+4=Ring of Protection,FF8942,00
+5=Ring of Prot. vs Evil,FF8942,03
+6=Ring of Prot. vs Fire,FF8942,01
+7=Ring of Sp. Turning,FF8942,02
+8=Thunder Rod,FF8942,06
+
+[46]
+Name=P2 Shield
+0=Normal,0,0
+1=Dragon Shield,FF8943,04
+2=Fire Shield,FF8943,05
+3=Holy Shield,FF8943,07
+4=Ice Shield,FF8943,06
+5=Level 1 Shield,FF8943,00
+6=Level 2 Shield,FF8943,01
+7=Level 3 Shield,FF8943,02
+8=Level 4 Shield,FF8943,03
+9=Nothing,FF8943,FF
+
+[47]
+Name=P2 Accessory
+0=Normal,0,0
+1=Anklet,FF8945,05
+2=Braclet,FF8945,02
+3=Broach,FF8945,03
+4=Ear Rings,FF8945,04
+5=Necklace,FF8945,00
+6=Nothing,FF8945,FF
+7=Orb,FF8945,01
+
+[48]
+Name=P2 Key Item
+0=Normal,0,0
+1=Bottles (R?),FF8944,06
+2=Displacer Cloak,FF8944,0A
+3=Dragon Horn,FF8944,08
+4=Dragon Scale,FF8944,03
+5=Egg of Owlbear,FF8944,05
+6=Eye of Beholder,FF8944,00
+7=Eye of Disp. Beast,FF8944,02
+8=Fang (R?),FF8944,07
+9=Manticore Skin,FF8944,04
+10=Medal,FF8944,09
+11=Nothing,FF8944,FF
+12=Skin of Disp. Beast,FF8944,01
+
+[49]
+Name=P3 Inf Health
+0=No,0,0
+1=Yes,FF8A40,9A
+
+[50]
+Name=P3 Invincible
+0=No,0,0
+1=Yes,FF8A5D,03
+
+[51]
+Name=P3 Max Exp
+0=No,0,0
+1=Yes,FF8AEE,99,FF8AEF,9,FF8AF0,99,FF8AF1,99
+
+[52]
+Name=P3 Inf SP
+0=No,0,0
+1=Yes,FF8AF2,9,FF8AF4,99,FF8AF5,99
+
+[53]
+Name=P3 Inf Spells
+0=No,0,0
+1=Yes,FF8B2E,9,FF8B31,9,FF8B30,9,FF8B33,9,FF8B32,9,FF8B35,9,FF8B34,9,FF8B36,9
+
+[54]
+Name=P3 Inf Items
+0=No,0,0
+1=Yes,FF8B26,9,FF8B27,9,FF8B28,9,FF8B29,9,FF8B2A,9,FF8B2B,9
+
+[55]
+Name=P3 Inf Staffs
+0=No,0,0
+1=Yes,FF8B68,14,FF8B6B,14,FF8B6A,14,FF8B6E,14
+
+[56]
+Name=P3 High Power
+0=No,0,0
+1=Yes,FF8A56,1,FF8A58,BE
+
+[57]
+Name=P3 Speed Move
+0=No,0,0
+1=Yes,FF8B60,1,FF8B5F,3
+
+[58]
+Name=P3 Shadow
+0=No,0,0
+1=Yes,FF8B75,1
+
+[59]
+Name=P3 Char Select
+0=Normal,0,0
+1=Crassus (Warrior 1),FF89E0,00
+2=Jarred (Warrior 2),FF89E0,01
+3=Greldon (Cleric 1),FF89E0,02
+4=Miles (Cleric 2),FF89E0,03
+5=Lucia (Elf 1),FF89E0,04
+6=Kayla (Elf 2),FF89E0,05
+7=Dimsdale (Dwarf 1),FF89E0,06
+8=Hendel (Dwarf 2),FF89E0,07
+9=Syous (Mage 1),FF89E0,08
+10=D'Raven (Mage 2),FF89E0,09
+11=Moriah (Theif 1),FF89E0,0A
+12=Shannon (Thief 2),FF89E0,0B
+
+[60]
+Name=P3 Item in Slot 1
+0=Normal,0,0
+1=Arrow (Infinite),FF8B1F,24
+2=Arrow,FF8B1F,23
+3=Bastard Sword 1,FF8B1F,37
+4=Bastard Sword 2,FF8B1F,38
+5=Battle Axe,FF8B1F,46
+6=Blade of Storms,FF8B1F,40
+7=Bless,FF8B1F,1D
+8=Bottled Efreet,FF8B1F,2A
+9=Burning Arrow,FF8B1F,26
+10=Burning Oil,FF8B1F,27
+11=Cloud Kill,FF8B1F,14
+12=Conjure Elemental,FF8B1F,0F
+13=Continual Light,FF8B1F,18
+14=Cure Crit. Wounds,FF8B1F,20
+15=Cure Serious Wounds,FF8B1F,1F
+16=Cursed Sword 1,FF8B1F,3C
+17=Cursed Sword 2,FF8B1F,3D
+18=Dagger,FF8B1F,21
+19=Djinn Summon,FF8B1F,07
+20=Dragon Slayer,FF8B1F,39
+21=Earthquake,FF8B1F,1C
+22=Egg of Wonder,FF8B1F,2B
+23=Fireball,FF8B1F,0C
+24=Flesh to Stone,FF8B1F,10
+25=Guard,FF8B1F,2D
+26=Hand Axe Level 1,FF8B1F,42
+27=Hand Axe Level 2,FF8B1F,43
+28=Hand Axe Level 3,FF8B1F,44
+29=Hand Axe Level 4,FF8B1F,45
+30=Haste,FF8B1F,09
+31=Hold Person,FF8B1F,17
+32=Holy Avenger,FF8B1F,3A
+33=Holy Word,FF8B1F,1B
+34=Ice Storm,FF8B1F,0E
+35=Insect Plague,FF8B1F,1A
+36=Invisibility,FF8B1F,08
+37=Large Burning Oil,FF8B1F,28
+38=Level 1 Normal Sword,FF8B1F,2E
+39=Level 1 Short Sword,FF8B1F,32
+40=Level 2 Normal Sword,FF8B1F,2F
+41=Level 2 Short Sword,FF8B1F,33
+42=Level 3 Normal Sword,FF8B1F,30
+43=Level 3 Short Sword,FF8B1F,34
+44=Level 4 Normal Sword,FF8B1F,31
+45=Level 4 Short Sword,FF8B1F,35
+46=Lighning Bolt,FF8B1F,0D
+47=Mace Level 1,FF8B1F,47
+48=Mace Level 2,FF8B1F,48
+49=Mace Level 3,FF8B1F,49
+50=Mace Level 4,FF8B1F,4A
+51=Magic Missile,FF8B1F,0B
+52=Meteor Swarm,FF8B1F,15
+53=Morning Star,FF8B1F,4C
+54=Nothing,FF8B1F,56
+55=Polymorph Others,FF8B1F,0A
+56=Power Word Kill,FF8B1F,16
+57=Projected Image,FF8B1F,12
+58=Reverse Gravity,FF8B1F,13
+59=Ring Cont. Light,FF8B1F,05
+60=Ring Cure S. Wounds,FF8B1F,06
+61=Ring Fire Ball,FF8B1F,01
+62=Ring Invisibility,FF8B1F,03
+63=Ring Lightning Bolt,FF8B1F,02
+64=Ring Magic Missile,FF8B1F,00
+65=Ring Polym. Others,FF8B1F,04
+66=Silver Arrow,FF8B1F,25
+67=Silver Dagger,FF8B1F,22
+68=Sling,FF8B1F,2C
+69=Staff of Elem.Power,FF871F,4D
+70=Staff of Magic,FF8B1F,4E
+71=Staff of Serpents,FF8B1F,51
+72=Staff of Striking,FF8B1F,50
+73=Staff of Wizardry,FF8B1F,4F
+74=Sticks to Snakes,FF8B1F,19
+75=Striking,FF8B1F,1E
+76=Sword of Fire,FF8B1F,3E
+77=Sword of Freezing,FF8B1F,3F
+78=Sword of Legends,FF8B1F,3B
+79=Sword of Wind (R?),FF8B1F,41
+80=Two-Handed Sword,FF8B1F,36
+81=Wall of Fire,FF8B1F,11
+82=Wand of Cold,FF8B1F,52
+83=Wand of Fire,FF8B1F,53
+84=Wand of Lightning,FF8B1F,54
+85=Wand of Paralisation,FF8B1F,55
+86=War Hammer,FF8B1F,4B
+
+[61]
+Name=P3 Right Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF8AEA,09
+2=Bastard Sword 2,FF8AEA,0A
+3=Battle Axe,FF8AEA,18
+4=Blade of Storms,FF8AEA,12
+5=Cursed Sword 1,FF8AEA,0E
+6=Cursed Sword 2,FF8AEA,0F
+7=Dragon Shield,FF8AEA,2C
+8=Dragon Slayer,FF8AEA,0B
+9=Fire Shield,FF8AEA,2D
+10=Hand Axe Level 1,FF8AEA,14
+11=Hand Axe Level 2,FF8AEA,15
+12=Hand Axe Level 3,FF8AEA,16
+13=Hand Axe Level 4,FF8AEA,17
+14=Holy Avenger,FF8AEA,0C
+15=Holy Shield,FF8AEA,2F
+16=Ice Shield,FF8AEA,2E
+17=Level 1 Normal Sword,FF8AEA,00
+18=Level 1 Shield,FF8AEA,28
+19=Level 1 Short Sword,FF8AEA,04
+20=Level 2 Normal Sword,FF8AEA,01
+21=Level 2 Shield,FF8AEA,29
+22=Level 2 Short Sword,FF8AEA,05
+23=Level 3 Normal Sword,FF8AEA,02
+24=Level 3 Shield,FF8AEA,2A
+25=Level 3 Short Sword,FF8AEA,06
+26=Level 4 Normal Sword,FF8AEA,03
+27=Level 4 Shield,FF8AEA,2B
+28=Level 4 Short Sword,FF8AEA,07
+29=Mace Level 1,FF8AEA,19
+30=Mace Level 2,FF8AEA,1A
+31=Mace Level 3,FF8AEA,1B
+32=Mace Level 4,FF8AEA,1C
+33=Morning Star,FF8AEA,1E
+34=Nothing,FF8AEA,FF
+35=Staff of Elem.Power,FF8AEA,1F
+36=Staff of Magic,FF8AEA,20
+37=Staff of Serpents,FF8AEA,23
+38=Staff of Striking,FF8AEA,22
+39=Staff of Wizardry,FF8AEA,21
+40=Sword of Fire,FF8AEA,10
+41=Sword of Freezing,FF8AEA,11
+42=Sword of Legends,FF8AEA,0D
+43=Sword of Wind (R?),FF8AEA,13
+44=Two-Handed Sword,FF8AEA,08
+45=Wand of Cold,FF8AEA,24
+46=Wand of Fire,FF8AEA,25
+47=Wand of Lightning,FF8AEA,26
+48=Wand of Paralisation,FF8AEA,27
+49=War Hammer,FF8AEA,1D
+
+[62]
+Name=P3 Left Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF8AED,09
+2=Bastard Sword 2,FF8AED,0A
+3=Battle Axe,FF8AED,18
+4=Blade of Storms,FF8AED,12
+5=Cursed Sword 1,FF8AED,0E
+6=Cursed Sword 2,FF8AED,0F
+7=Dragon Shield,FF8AED,2C
+8=Dragon Slayer,FF8AED,0B
+9=Fire Shield,FF8AED,2D
+10=Hand Axe Level 1,FF8AED,14
+11=Hand Axe Level 2,FF8AED,15
+12=Hand Axe Level 3,FF8AED,16
+13=Hand Axe Level 4,FF8AED,17
+14=Holy Avenger,FF8AED,0C
+15=Holy Shield,FF8AED,2F
+16=Ice Shield,FF8AED,2E
+17=Level 1 Normal Sword,FF8AEA,00
+18=Level 1 Shield,FF8AED,28
+19=Level 1 Short Sword,FF8AED,04
+20=Level 2 Normal Sword,FF8AED,01
+21=Level 2 Shield,FF8AED,29
+22=Level 2 Short Sword,FF8AED,05
+23=Level 3 Normal Sword,FF8AED,02
+24=Level 3 Shield,FF8AED,2A
+25=Level 3 Short Sword,FF8AED,06
+26=Level 4 Normal Sword,FF8AED,03
+27=Level 4 Shield,FF8AED,2B
+28=Level 4 Short Sword,FF8AED,07
+29=Mace Level 1,FF8AED,19
+30=Mace Level 2,FF8AED,1A
+31=Mace Level 3,FF8AED,1B
+32=Mace Level 4,FF8AED,1C
+33=Morning Star,FF8AED,1E
+34=Nothing,FF8AED,FF
+35=Staff of Elem.Power,FF8AED,1F
+36=Staff of Magic,FF8AED,20
+37=Staff of Serpents,FF8AED,23
+38=Staff of Striking,FF8AED,22
+39=Staff of Wizardry,FF8AED,21
+40=Sword of Fire,FF8AED,10
+41=Sword of Freezing,FF8AED,11
+42=Sword of Legends,FF8AED,0D
+43=Sword of Wind (R?),FF8AED,13
+44=Two-Handed Sword,FF8AED,08
+45=Wand of Cold,FF8AED,24
+46=Wand of Fire,FF8AED,25
+47=Wand of Lightning,FF8AED,26
+48=Wand of Paralisation,FF8AED,27
+49=War Hammer,FF8AED,1D
+
+[63]
+Name=P3 Bracelets
+0=Normal,0,0
+1=Gauntlets of Power,FF8B40,00
+2=Nothing,FF8B40,FF
+
+[64]
+Name=P3 Headwear
+0=Normal,0,0
+1=Elf Circlet,FF8B3F,03
+2=Fighter/Dwarf Helmet,FF8B3F,00
+3=Nothing,FF8B3F,FF
+4=Priest Hat,FF8B3F,04
+5=Thief Hood,FF8B3F,02
+6=Tiara,FF8B3F,05
+7=Wizard Hat,FF8B3F,01
+
+[65]
+Name=P3 Body Armour
+0=Normal,0,0
+1=Cleric Robe,FF8B3E,01
+2=Dwarf Armour,FF8B3E,03
+3=Elf Robe,FF8B3E,02
+4=Mage Robe,FF8B3E,04
+5=Nothing,FF8B3E,FF
+6=Thief Cape,FF8B3E,05
+7=Warrior Armour,FF8B3E,00
+
+[66]
+Name=P3 Boots
+0=Normal,0,0
+1=Boots of Levitation,FF8B41,02
+2=Boots of Speed,FF8B41,00
+3=Boots of Spring & Striding,FF8B41,01
+4=Nothing,FF8B41,FF
+
+[67]
+Name=P3 Hand Equipment
+0=Normal,0,0
+1=Fire Rod,FF8B42,04
+2=Ice Rod,FF8B42,05
+3=Nothing,FF8B42,FF
+4=Ring of Protection,FF8B42,00
+5=Ring of Prot. vs Evil,FF8B42,03
+6=Ring of Prot. vs Fire,FF8B42,01
+7=Ring of Sp. Turning,FF8B42,02
+8=Thunder Rod,FF8B42,06
+
+[68]
+Name=P3 Shield
+0=Normal,0,0
+1=Dragon Shield,FF8B43,04
+2=Fire Shield,FF8B43,05
+3=Holy Shield,FF8B43,07
+4=Ice Shield,FF8B43,06
+5=Level 1 Shield,FF8B43,00
+6=Level 2 Shield,FF8B43,01
+7=Level 3 Shield,FF8B43,02
+8=Level 4 Shield,FF8B43,03
+9=Nothing,FF8B43,FF
+
+[69]
+Name=P3 Accessory
+0=Normal,0,0
+1=Anklet,FF8B45,05
+2=Braclet,FF8B45,02
+3=Broach,FF8B45,03
+4=Ear Rings,FF8B45,04
+5=Necklace,FF8B45,00
+6=Nothing,FF8B45,FF
+7=Orb,FF8B45,01
+
+[70]
+Name=P3 Key Item
+0=Normal,0,0
+1=Bottles (R?),FF8B44,06
+2=Displacer Cloak,FF8B44,0A
+3=Dragon Horn,FF8B44,08
+4=Dragon Scale,FF8B44,03
+5=Egg of Owlbear,FF8B44,05
+6=Eye of Beholder,FF8B44,00
+7=Eye of Disp. Beast,FF8B44,02
+8=Fang (R?),FF8B44,07
+9=Manticore Skin,FF8B44,04
+10=Medal,FF8B44,09
+11=Nothing,FF8B44,FF
+12=Skin of Disp. Beast,FF8B44,01
+
+[71]
+Name=P4 Inf Health
+0=No,0,0
+1=Yes,FF8C40,9A
+
+[72]
+Name=P4 Invincible
+0=No,0,0
+1=Yes,FF8C5D,03
+
+[73]
+Name=P4 Max Exp
+0=No,0,0
+1=Yes,FF8CEE,99,FF8CEF,9,FF8CF0,99,FF8CF1,99
+
+[74]
+Name=P4 Inf SP
+0=No,0,0
+1=Yes,FF8CF2,9,FF8CF4,99,FF8CF5,99
+
+[75]
+Name=P4 Inf Spells
+0=No,0,0
+1=Yes,FF8D2E,9,FF8D31,9,FF8D30,9,FF8D33,9,FF8D32,9,FF8D35,9,FF8D34,9,FF8D36,9
+
+[76]
+Name=P4 Inf Items
+0=No,0,0
+1=Yes,FF8D26,9,FF8D27,9,FF8D28,9,FF8D29,9,FF8D2A,9,FF8D2B,9
+
+[77]
+Name=P4 Inf Staffs
+0=No,0,0
+1=Yes,FF8D68,14,FF8D6B,14,FF8D6A,14,FF8D6E,14
+
+[78]
+Name=P4 High Power
+0=No,0,0
+1=Yes,FF8C56,1,FF8C58,BE
+
+[79]
+Name=P4 Speed Move
+0=No,0,0
+1=Yes,FF8D60,1,FF8D5F,3
+
+[80]
+Name=P4 Shadow
+0=No,0,0
+1=Yes,FF8D75,1
+
+[81]
+Name=P4 Char Select
+0=Normal,0,0
+1=Crassus (Warrior 1),FF8BE0,00
+2=Jarred (Warrior 2),FF8BE0,01
+3=Greldon (Cleric 1),FF8BE0,02
+4=Miles (Cleric 2),FF8BE0,03
+5=Lucia (Elf 1),FF8BE0,04
+6=Kayla (Elf 2),FF8BE0,05
+7=Dimsdale (Dwarf 1),FF8BE0,06
+8=Hendel (Dwarf 2),FF8BE0,07
+9=Syous (Mage 1),FF8BE0,08
+10=D'Raven (Mage 2),FF8BE0,09
+11=Moriah (Theif 1),FF8BE0,0A
+12=Shannon (Thief 2),FF8BE0,0B
+
+[82]
+Name=P4 Item in Slot 1
+0=Normal,0,0
+1=Arrow (Infinite),FF8D1F,24
+2=Arrow,FF8D1F,23
+3=Bastard Sword 1,FF8D1F,37
+4=Bastard Sword 2,FF8D1F,38
+5=Battle Axe,FF8D1F,46
+6=Blade of Storms,FF8D1F,40
+7=Bless,FF8D1F,1D
+8=Bottled Efreet,FF8D1F,2A
+9=Burning Arrow,FF8D1F,26
+10=Burning Oil,FF8D1F,27
+11=Cloud Kill,FF8D1F,14
+12=Conjure Elemental,FF8D1F,0F
+13=Continual Light,FF8D1F,18
+14=Cure Crit. Wounds,FF8D1F,20
+15=Cure Serious Wounds,FF8D1F,1F
+16=Cursed Sword 1,FF8D1F,3C
+17=Cursed Sword 2,FF8D1F,3D
+18=Dagger,FF8D1F,21
+19=Djinn Summon,FF8D1F,07
+20=Dragon Slayer,FF8D1F,39
+21=Earthquake,FF8D1F,1C
+22=Egg of Wonder,FF8D1F,2B
+23=Fireball,FF8D1F,0C
+24=Flesh to Stone,FF8D1F,10
+25=Guard,FF8D1F,2D
+26=Hand Axe Level 1,FF8D1F,42
+27=Hand Axe Level 2,FF8D1F,43
+28=Hand Axe Level 3,FF8D1F,44
+29=Hand Axe Level 4,FF8D1F,45
+30=Haste,FF8D1F,09
+31=Hold Person,FF8D1F,17
+32=Holy Avenger,FF8D1F,3A
+33=Holy Word,FF8D1F,1B
+34=Ice Storm,FF8D1F,0E
+35=Insect Plague,FF8D1F,1A
+36=Invisibility,FF8D1F,08
+37=Large Burning Oil,FF8D1F,28
+38=Level 1 Normal Sword,FF8D1F,2E
+39=Level 1 Short Sword,FF8D1F,32
+40=Level 2 Normal Sword,FF8D1F,2F
+41=Level 2 Short Sword,FF8D1F,33
+42=Level 3 Normal Sword,FF8D1F,30
+43=Level 3 Short Sword,FF8D1F,34
+44=Level 4 Normal Sword,FF8D1F,31
+45=Level 4 Short Sword,FF8D1F,35
+46=Lighning Bolt,FF8D1F,0D
+47=Mace Level 1,FF8D1F,47
+48=Mace Level 2,FF8D1F,48
+49=Mace Level 3,FF8D1F,49
+50=Mace Level 4,FF8D1F,4A
+51=Magic Missile,FF8D1F,0B
+52=Meteor Swarm,FF8D1F,15
+53=Morning Star,FF8D1F,4C
+54=Nothing,FF8D1F,56
+55=Polymorph Others,FF8D1F,0A
+56=Power Word Kill,FF8D1F,16
+57=Projected Image,FF8D1F,12
+58=Reverse Gravity,FF8D1F,13
+59=Ring Cont. Light,FF8D1F,05
+60=Ring Cure S. Wounds,FF8D1F,06
+61=Ring Fire Ball,FF8D1F,01
+62=Ring Invisibility,FF8D1F,03
+63=Ring Lightning Bolt,FF8D1F,02
+64=Ring Magic Missile,FF8D1F,00
+65=Ring Polym. Others,FF8D1F,04
+66=Silver Arrow,FF8D1F,25
+67=Silver Dagger,FF8D1F,22
+68=Sling,FF8D1F,2C
+69=Staff of Elem.Power,FF871F,4D
+70=Staff of Magic,FF8D1F,4E
+71=Staff of Serpents,FF8D1F,51
+72=Staff of Striking,FF8D1F,50
+73=Staff of Wizardry,FF8D1F,4F
+74=Sticks to Snakes,FF8D1F,19
+75=Striking,FF8D1F,1E
+76=Sword of Fire,FF8D1F,3E
+77=Sword of Freezing,FF8D1F,3F
+78=Sword of Legends,FF8D1F,3B
+79=Sword of Wind (R?),FF8D1F,41
+80=Two-Handed Sword,FF8D1F,36
+81=Wall of Fire,FF8D1F,11
+82=Wand of Cold,FF8D1F,52
+83=Wand of Fire,FF8D1F,53
+84=Wand of Lightning,FF8D1F,54
+85=Wand of Paralisation,FF8D1F,55
+86=War Hammer,FF8D1F,4B
+
+[83]
+Name=P4 Right Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF8CEA,09
+2=Bastard Sword 2,FF8CEA,0A
+3=Battle Axe,FF8CEA,18
+4=Blade of Storms,FF8CEA,12
+5=Cursed Sword 1,FF8CEA,0E
+6=Cursed Sword 2,FF8CEA,0F
+7=Dragon Shield,FF8CEA,2C
+8=Dragon Slayer,FF8CEA,0B
+9=Fire Shield,FF8CEA,2D
+10=Hand Axe Level 1,FF8CEA,14
+11=Hand Axe Level 2,FF8CEA,15
+12=Hand Axe Level 3,FF8CEA,16
+13=Hand Axe Level 4,FF8CEA,17
+14=Holy Avenger,FF8CEA,0C
+15=Holy Shield,FF8CEA,2F
+16=Ice Shield,FF8CEA,2E
+17=Level 1 Normal Sword,FF8CEA,00
+18=Level 1 Shield,FF8CEA,28
+19=Level 1 Short Sword,FF8CEA,04
+20=Level 2 Normal Sword,FF8CEA,01
+21=Level 2 Shield,FF8CEA,29
+22=Level 2 Short Sword,FF8CEA,05
+23=Level 3 Normal Sword,FF8CEA,02
+24=Level 3 Shield,FF8CEA,2A
+25=Level 3 Short Sword,FF8CEA,06
+26=Level 4 Normal Sword,FF8CEA,03
+27=Level 4 Shield,FF8CEA,2B
+28=Level 4 Short Sword,FF8CEA,07
+29=Mace Level 1,FF8CEA,19
+30=Mace Level 2,FF8CEA,1A
+31=Mace Level 3,FF8CEA,1B
+32=Mace Level 4,FF8CEA,1C
+33=Morning Star,FF8CEA,1E
+34=Nothing,FF8CEA,FF
+35=Staff of Elem.Power,FF8CEA,1F
+36=Staff of Magic,FF8CEA,20
+37=Staff of Serpents,FF8CEA,23
+38=Staff of Striking,FF8CEA,22
+39=Staff of Wizardry,FF8CEA,21
+40=Sword of Fire,FF8CEA,10
+41=Sword of Freezing,FF8CEA,11
+42=Sword of Legends,FF8CEA,0D
+43=Sword of Wind (R?),FF8CEA,13
+44=Two-Handed Sword,FF8CEA,08
+45=Wand of Cold,FF8CEA,24
+46=Wand of Fire,FF8CEA,25
+47=Wand of Lightning,FF8CEA,26
+48=Wand of Paralisation,FF8CEA,27
+49=War Hammer,FF8CEA,1D
+
+[84]
+Name=P4 Left Hand Weapon
+0=Normal,0,0
+1=Bastard Sword 1,FF8CED,09
+2=Bastard Sword 2,FF8CED,0A
+3=Battle Axe,FF8CED,18
+4=Blade of Storms,FF8CED,12
+5=Cursed Sword 1,FF8CED,0E
+6=Cursed Sword 2,FF8CED,0F
+7=Dragon Shield,FF8CED,2C
+8=Dragon Slayer,FF8CED,0B
+9=Fire Shield,FF8CED,2D
+10=Hand Axe Level 1,FF8CED,14
+11=Hand Axe Level 2,FF8CED,15
+12=Hand Axe Level 3,FF8CED,16
+13=Hand Axe Level 4,FF8CED,17
+14=Holy Avenger,FF8CED,0C
+15=Holy Shield,FF8CED,2F
+16=Ice Shield,FF8CED,2E
+17=Level 1 Normal Sword,FF8CEA,00
+18=Level 1 Shield,FF8CED,28
+19=Level 1 Short Sword,FF8CED,04
+20=Level 2 Normal Sword,FF8CED,01
+21=Level 2 Shield,FF8CED,29
+22=Level 2 Short Sword,FF8CED,05
+23=Level 3 Normal Sword,FF8CED,02
+24=Level 3 Shield,FF8CED,2A
+25=Level 3 Short Sword,FF8CED,06
+26=Level 4 Normal Sword,FF8CED,03
+27=Level 4 Shield,FF8CED,2B
+28=Level 4 Short Sword,FF8CED,07
+29=Mace Level 1,FF8CED,19
+30=Mace Level 2,FF8CED,1A
+31=Mace Level 3,FF8CED,1B
+32=Mace Level 4,FF8CED,1C
+33=Morning Star,FF8CED,1E
+34=Nothing,FF8CED,FF
+35=Staff of Elem.Power,FF8CED,1F
+36=Staff of Magic,FF8CED,20
+37=Staff of Serpents,FF8CED,23
+38=Staff of Striking,FF8CED,22
+39=Staff of Wizardry,FF8CED,21
+40=Sword of Fire,FF8CED,10
+41=Sword of Freezing,FF8CED,11
+42=Sword of Legends,FF8CED,0D
+43=Sword of Wind (R?),FF8CED,13
+44=Two-Handed Sword,FF8CED,08
+45=Wand of Cold,FF8CED,24
+46=Wand of Fire,FF8CED,25
+47=Wand of Lightning,FF8CED,26
+48=Wand of Paralisation,FF8CED,27
+49=War Hammer,FF8CED,1D
+
+[85]
+Name=P4 Bracelets
+0=Normal,0,0
+1=Gauntlets of Power,FF8D40,00
+2=Nothing,FF8D40,FF
+
+[86]
+Name=P4 Headwear
+0=Normal,0,0
+1=Elf Circlet,FF8D3F,03
+2=Fighter/Dwarf Helmet,FF8D3F,00
+3=Nothing,FF8D3F,FF
+4=Priest Hat,FF8D3F,04
+5=Thief Hood,FF8D3F,02
+6=Tiara,FF8D3F,05
+7=Wizard Hat,FF8D3F,01
+
+[87]
+Name=P4 Body Armour
+0=Normal,0,0
+1=Cleric Robe,FF8D3E,01
+2=Dwarf Armour,FF8D3E,03
+3=Elf Robe,FF8D3E,02
+4=Mage Robe,FF8D3E,04
+5=Nothing,FF8D3E,FF
+6=Thief Cape,FF8D3E,05
+7=Warrior Armour,FF8D3E,00
+
+[88]
+Name=P4 Boots
+0=Normal,0,0
+1=Boots of Levitation,FF8D41,02
+2=Boots of Speed,FF8D41,00
+3=Boots of Spring & Striding,FF8D41,01
+4=Nothing,FF8D41,FF
+
+[89]
+Name=P4 Hand Equipment
+0=Normal,0,0
+1=Fire Rod,FF8D42,04
+2=Ice Rod,FF8D42,05
+3=Nothing,FF8D42,FF
+4=Ring of Protection,FF8D42,00
+5=Ring of Prot. vs Evil,FF8D42,03
+6=Ring of Prot. vs Fire,FF8D42,01
+7=Ring of Sp. Turning,FF8D42,02
+8=Thunder Rod,FF8D42,06
+
+[90]
+Name=P4 Shield
+0=Normal,0,0
+1=Dragon Shield,FF8D43,04
+2=Fire Shield,FF8D43,05
+3=Holy Shield,FF8D43,07
+4=Ice Shield,FF8D43,06
+5=Level 1 Shield,FF8D43,00
+6=Level 2 Shield,FF8D43,01
+7=Level 3 Shield,FF8D43,02
+8=Level 4 Shield,FF8D43,03
+9=Nothing,FF8D43,FF
+
+[91]
+Name=P4 Accessory
+0=Normal,0,0
+1=Anklet,FF8D45,05
+2=Braclet,FF8D45,02
+3=Broach,FF8D45,03
+4=Ear Rings,FF8D45,04
+5=Necklace,FF8D45,00
+6=Nothing,FF8D45,FF
+7=Orb,FF8D45,01
+
+[92]
+Name=P4 Key Item
+0=Normal,0,0
+1=Bottles (R?),FF8D44,06
+2=Displacer Cloak,FF8D44,0A
+3=Dragon Horn,FF8D44,08
+4=Dragon Scale,FF8D44,03
+5=Egg of Owlbear,FF8D44,05
+6=Eye of Beholder,FF8D44,00
+7=Eye of Disp. Beast,FF8D44,02
+8=Fang (R?),FF8D44,07
+9=Manticore Skin,FF8D44,04
+10=Medal,FF8D44,09
+11=Nothing,FF8D44,FF
+12=Skin of Disp. Beast,FF8D44,01
+
+[93]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FF8035,01
+2=Stage 2,FF8035,02
+3=Stage 3a,FF8035,04
+4=Stage 3b,FF8035,07
+5=Stage 4,FF8035,0B
+6=Stage 4 Boss,FF8035,0D
+7=Stage 5a,FF8035,0E
+8=Stage 5b,FF8035,14
+9=Stage 5c,FF8035,05
+10=Stage 6,FF8035,18
+11=Stage 7,FF8035,1B
+12=Stage 8a,FF8035,1C
+13=Stage 8b,FF8035,23
+14=Village 1,FF8035,22
+15=Village 2,FF8035,6E
+16=Penalty Stage,FF8035,20
+17=Cave of Rafael - The Immortal,FF8035,43
+18=Hidden Area - Pathway to Red Dragon,FF8035,2D
+19=The Red Dragon,FF8035,2E
+20=Stage 9a,FF8035,27
+21=Stage 9b,FF8035,2B
+22=Stage 9c,FF8035,29
+23=Stage 10a,FF8035,2F
+24=Stage 10b,FF8035,36
+25=Stage 10c,FF8035,3A
+26=Stage 10d,FF8035,3B
+27=Stage 10e,FF8035,40
+28=Stage 10f,FF8035,41
+29=Last Stage,FF8035,69
+
+[94]
+Name=Scenario Mission
+0=Normal,0,0
+1=Fighting Shadow Ghoul,FF8035,5B
+2=Last Battle Vs Lich,FF8035,5D
+3=Wrong Arena,FF8035,62
+4=Remains of Forest,FF8035,6D
+5=Village in Ruins,FF8035,6E
+6=Tel Arin & Tel Eron,FF8035,6F
+7=Dark World,FF8035,70
+8=The Green Dragon,FF8035,67
+9=Chimera on Dark World,FF8035,68
+10=The Secret Passage,FF8035,72
+11=Red Dragon Attacks Again,FF8035,71

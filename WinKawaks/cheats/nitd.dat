@@ -1,0 +1,58 @@
+[0]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,100002,05,100003,3C
+
+[1]
+Name=Infinite Lives
+0=Off,0,0
+1=P1 On,100054,03
+2=P2 On,10028A,03
+3=P1&P2 On,100054,03,10028A,03
+
+[2]
+Name=Get Power - Fire Up
+0=Off,0,0
+1=P1 On,100053,FF
+2=P2 On,100289,FF
+3=P1&P2 On,100053,FF,100289,FF
+
+[3]
+Name=Get Power - Move Up
+0=Off,0,0
+1=P1 On,100050,FF
+2=P2 On,100286,FF
+3=P1&P2 On,100050,FF,100286,FF
+
+[4]
+Name=Get Power - Range Up
+0=Off,0,0
+1=P1 Up,100052,FF
+2=P2 On,100288,FF
+3=P1&P2 Up,100052,FF,100288,FF
+
+[5]
+Name=Invulnerabirity(Stage 1 only)
+0=Off,0,0
+1=P1 On,102C1A,FF,102C80,FF
+
+[6]
+Name=Bonus Ratio
+0=Off,0,0
+1=x1,100283,00
+2=x2,100283,01
+3=x4,100283,02
+4=x8,100283,03
+5=x16,100283,04
+6=x32,100283,05
+7=x64,100283,06
+
+[7]
+Name=100% Appear Huge Diamond
+0=Off,0,0
+1=On,10000A,01
+
+[8]
+Name=Destroy Boss with 1 shot
+0=Off,0,0
+1=On,1029B6,00

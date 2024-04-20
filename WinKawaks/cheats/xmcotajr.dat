@@ -1,0 +1,87 @@
+[0]
+Name=区域码
+0=还原,0,0
+1=美国,FF4BF6,2
+2=日本,FF4BF6,0
+3=欧洲,FF4BF6,4
+4=亚洲,FF4BF6,6
+5=西班牙,FF4BF6,8
+6=巴西,FF4BF6,A
+[1]
+Name=P1 更换角色
+0=取消,0,0
+1=Storm,0xff4901,0
+2=Cyclops,0xff4901,1
+3=Wolverine,0xff4901,2
+4=Omega Red,0xff4901,3
+5=Sentinel,0xff4901,4
+6=Iceman,0xff4901,5
+7=Colossus,0xff4901,6
+8=Psylocke,0xff4901,7
+9=Silver Samurai,0xff4901,8
+10=Spiral,0xff4901,9
+11=↓隐藏人物↓
+12=Juggernaut,0xff4901,a
+13=Magneto,0xff4901,b
+14=Akuma,0xff4901,c
+[2]
+Name=P2 更换角色
+0=取消,0,0
+1=Storm,0xff4903,0
+2=Cyclops,0xff4903,1
+3=Wolverine,0xff4903,2
+4=Omega Red,0xff4903,3
+5=Sentinel,0xff4903,4
+6=Iceman,0xff4903,5
+7=Colossus,0xff4903,6
+8=Psylocke,0xff4903,7
+9=Silver Samurai,0xff4903,8
+10=Spiral,0xff4903,9
+11=↓隐藏人物↓
+12=Juggernaut,0xff4903,a
+13=Magneto,0xff4903,b
+14=Akuma,0xff4903,c
+[3]
+Name=无限时间
+0=取消,0,0
+1=启动,ff4809,99
+[4]
+Name=无限生命
+0=取消,0,0
+1=启动P1,FF4190,90
+2=启动P2,FF4590,90
+3=启动P1+P2,FF4190,90,FF4590,90
+[5]
+Name=无限能源
+0=取消,0,0
+1=启动P1,FF4194,8E
+2=启动P2,FF4594,8E
+3=启动P1+P2,FF4194,8E,FF4594,8E
+[6]
+Name=控制方式
+0=取消,0,0
+1=P1控制方式
+2=由人手控制,ff4002,1
+3=由电脑控制,ff4002,0
+4=P2控制方式
+5=由人手控制,ff4402,1
+6=由电脑控制,ff4402,0
+[7]
+Name=更换背景
+0=取消,0,0
+1=Storm,FF488E,4
+2=Cyclops,FF488E,3
+3=Wolverine,FF488E,0
+4=Omega Red,FF488E,8
+5=Sentinel,FF488E,9
+6=Iceman,FF488E,5
+7=Colossus,FF488E,2
+8=Psylocke,FF488E,1
+9=Silver Samurai,FF488E,7
+10=Spiral,FF488E,6
+11=Juggernaut,FF488E,a
+12=Magneto,FF488E,b
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

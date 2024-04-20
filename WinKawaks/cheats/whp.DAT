@@ -1,0 +1,26 @@
+[0]
+Name=无限时间
+0=取消,0,0
+1=启动,ffC108,9A
+Default=0
+[1]
+Name=体力无限
+0=取消,0,0
+1=启动P1,ff600D,C0
+2=启动P2,ff610D,C0
+3=启动P1+P2,ff600D,C0,ff610D,C0
+Default=0
+[2]
+Name=能量无限
+0=取消,0,0
+1=启动P1,ff6A16,DF
+2=启动P2,ff6B16,DF
+3=启动P1+P2,ff6A16,DF,ff6B16,DF
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008
+Default=0
+
+[Region]
+Default=0

@@ -1,0 +1,251 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=日本,ff8090,0
+2=美国,ff8090,2
+3=西班牙,ff8090,4
+4=大洋洲,ff8090,6
+5=亚洲,ff8090,8
+6=欧洲,ff8090,A
+7=巴西,ff8090,C
+[1]
+Name=无限时间
+0=取消,0,0
+1=启动,FF8108,63,FF810B,2F,FF8108,63
+[2]
+Name=无限生命
+0=取消,0,0
+1=启动P1,FF8450,90,FF8451,00,FF8452,90,FF8453,00
+2=启动P2,FF8850,90,FF8851,00,FF8852,90,FF8853,00
+3=启动P3,FF8C50,90,FF8C51,00,FF8C52,90,FF8C53,00
+4=启动P1&P2,FF8450,90,FF8451,00,FF8452,90,FF8453,00,FF8850,90,FF8851,00,FF8852,90,FF8853,00
+5=启动P1&P2&P3,FF8450,90,FF8451,00,FF8452,90,FF8453,00,FF8850,90,FF8851,00,FF8852,90,FF8853,00,FF8C50,90,FF8C51,00,FF8C52,90,FF8C53,00
+[3]
+Name=无限能源
+0=取消,0,0
+1=启动P1,FF849E,90
+2=启动P2,FF889E,90
+3=启动P3,FF8C9E,90
+4=启动P1&P2,FF849E,90,FF889E,90
+5=启动P1&P2&P3,FF849E,90,FF889E,90,FF8C9E,90
+[4]
+Name=腾空发招
+0=取消,0,0
+1=启动P1,FF8430,00
+2=启动P2,FF8830,00
+3=启动P3,FF8C30,00
+4=启动P1&P2,FF8430,00,FF8830,00
+5=启动P1&P3,FF8430,00,FF8C30,00
+6=启动P2&P3,FF8830,00,FF8C30,00
+7=启动P1&P2&P3,FF8430,00,FF8830,00,FF8C30,00
+[5]
+Name=连续发波
+0=取消,0,0
+1=启动P1,ff8639,0
+2=启动P2,ff8a39,0
+3=启动P1+P2,ff8639,0,ff8a39,0
+[6]
+Name=绝无僵硬时间
+0=取消,0,0
+1=启动P1,ff8432,1
+2=启动P2,ff8832,1
+3=启动P1+P2,ff8432,1,ff8832,1
+[7]
+Name=提前比赛
+0=取消,0,0
+1=启动,FF810F,00
+[8]
+Name=O,C时间无限
+0=取消,0,0
+1=启动P1,FF8698,90,FF869B,90
+2=启动P2,FF8A98,90,FFA69B,90
+3=启动P3,FF8E98,90,FFE69B,90
+4=启动P1&P2,FF8698,90,FF869B,90,FF8A98,90,FFA69B,90
+5=启动P1&P2&P3,FF8698,90,FF869B,90,FF8A98,90,FFA69B,90,FF8E98,90,FFE69B,90
+[9]
+Name=P1更换角色
+0=取消,0,0
+1=Ryu,FF8483,0
+2=Adon,FF8483,5
+3=Chun-Li,FF8483,4
+4=Guy,FF8483,7
+5=Ken,FF8483,1
+6=Dhalsim,FF8483,f
+7=Gen,FF8483,11
+8=Sakura,FF8483,d
+9=Rolento,FF8483,e
+10=Zangief,FF8483,10
+11=Nash,FF8483,3
+12=Birdie,FF8483,8
+13=Rose,FF8483,9
+14=Sodom,FF8483,6
+15=Sagat,FF8483,b
+16=Gouki,FF8483,2
+17=Vega,FF8483,a
+18=Dan,FF8483,c
+19=↓隐藏人物↓
+20=Original Chun-Li,FF8483,12
+21=Shin Gouki,FF8483,14
+22=Evil Ryu,FF8483,17
+23=Sakura (Alt Color),FF8483,1d
+24=Ryu (no super bar),FF8483,1e
+25=Blue Ryu,FF8483,1f
+26=Gen 2,FF8483,13
+27=Zangief (SF2CE),FF8483,15
+28=Dhalsim (SF2CE),FF8483,16
+29=M.Bison (SF2CE),FF8483,18
+30=Sagat   (SF2CE),FF8483,19
+31=Ken     (SF2CE),FF8483,1a
+32=Ryu     (SF2CE),FF8483,1b
+33=Chun-Li (SF2CE),FF8483,1c
+[10]
+Name=P2更换角色
+0=取消,0,0
+1=Ryu,ff8883,0
+2=Adon,ff8883,5
+3=Chun-Li,ff8883,4
+4=Guy,ff8883,7
+5=Ken,ff8883,1
+6=Dhalsim,ff8883,f
+7=Gen,ff8883,11
+8=Sakura,ff8883,d
+9=Rolento,ff8883,e
+10=Zangief,ff8883,10
+11=Nash,ff8883,3
+12=Birdie,ff8883,8
+13=Rose,ff8883,9
+14=Sodom,ff8883,6
+15=Sagat,ff8883,b
+16=Gouki,ff8883,2
+17=Vega,ff8883,a
+18=Dan,ff8883,c
+19=↓隐藏人物↓
+20=Original Chun-Li,ff8883,12
+21=Shin Gouki,ff8883,14
+22=Evil Ryu,ff8883,17
+23=Sakura (Alt Color),ff8883,1d
+24=Ryu (no super bar),ff8883,1e
+25=Blue Ryu,ff8883,1f
+26=Gen,ff8883,13
+27=Zangief (SF2CE),ff8883,15
+28=Dhalsim (SF2CE),ff8883,16
+29=M.Bison (SF2CE),ff8883,18
+30=Sagat   (SF2CE),ff8883,19
+31=Ken     (SF2CE),ff8883,1a
+32=Ryu     (SF2CE),ff8883,1b
+33=Chun-Li (SF2CE),ff8883,1c
+[11]
+Name=P3更换角色
+0=取消,0,0
+1=Ryu,FF8C83,00
+2=Ken,FF8C83,01
+3=Akuma,FF8C83,02
+4=Charlie,FF8C83,03
+5=Chun-Li,FF8C83,04
+6=Adon,FF8C83,05
+7=Sodom,FF8C83,06
+8=Guy,FF8C83,07
+9=Birdie,FF8C83,08
+10=Rose,FF8C83,09
+11=Bison,FF8C83,0A
+12=Sagat,FF8C83,0B
+13=Dan,FF8C83,0C
+14=Sakura,FF8C83,0D
+15=Rolent,FF8C83,0E
+16=Dhalsim,FF8C83,0F
+17=Zangief,FF8C83,10
+18=Gen,FF8C83,11
+19=↓隐藏人物↓
+20=SF2 Chun-Li,FF8C83,12
+21=Ex Ryu,FF8C83,1B
+22=Ex Ken,FF8C83,1A
+23=Ex Chun-Li,FF8C83,1C
+24=Ex Sakura,FF8C83,1D
+25=Ex Zangief,FF8C83,15
+26=Ex Dhalsim,FF8C83,16
+27=Ex Gen,FF8C83,13
+28=Ex Sagat,FF8C83,19
+29=Ex Bison(VEGA),FF8C83,18
+30=Dark Akuma,FF8C83,14
+31=Black Ryu,FF8C83,17
+[12]
+Name=P1 角色颜色
+0=取消,0,0
+1=颜色 1,ff84A9,00
+2=颜色 2,ff84A9,01
+3=颜色 3,ff84A9,02
+4=颜色 4,ff84A9,03
+5=颜色 5,ff84A9,04
+6=颜色 6,ff84A9,05
+[13]
+Name=P2 角色颜色
+0=取消,0,0
+1=颜色 1,88A9,00
+2=颜色 2,88A9,01
+3=颜色 3,88A9,02
+4=颜色 4,88A9,03
+5=颜色 5,88A9,04
+6=颜色 6,88A9,05
+[14]
+Name=控制方式
+0=取消,0,0
+1=P1 控制方式
+2=由人手控制,ff84a4,0
+3=由电脑控制,ff84a4,1
+4=P2 控制方式
+5=由人手控制,ff88a4,0
+6=由电脑控制,ff88a4,1
+[15]
+Name=一局模式
+0=取消,0,0
+1=启动,ff84CA,1
+[16]
+Name=二挑一模式
+0=取消,0,0
+1=启动,ff816d,1
+[17]
+Name=选择背景
+0=取消,0,0
+1=Ryu Japan背景,ff8100,0
+2=Ken U.S.A背景,ff8100,2
+3=Akuma Japan背景,ff8100,4
+4=Charlie U.S.A背景,ff8100,6
+5=Chun-Li China背景,ff8100,8
+6=Adon Thailand背景,ff8100,A
+7=Sodom U.S.A背景,ff8100,C
+8=Guy U.S.A背景,ff8100,E
+9=Birdie England背景,ff8100,10
+10=Rose Italy背景,ff8100,12
+11=M.Bison Brazil背景,ff8100,14
+12=Sagat Thailand背景,ff8100,16
+13=Dan HongKong背景,ff8100,18
+14=Sakura Japan背景,ff8100,1A
+15=Rolento U.S.A背景,ff8100,1C
+16=Dhalsim India背景,ff8100,1E
+17=Zangief U.S.S.R背景,ff8100,20
+18=Gen China背景,ff8100,22
+19=Sagat Australia背景,ff8100,24
+20=M.Bison Venezuela背景,ff8100,26
+[18]
+Name=选择关卡
+0=取消,0,0
+1=跳到第一关,ff8114,0
+2=跳到第二关,ff8114,1
+3=跳到第三关,ff8114,2
+4=跳到第四关,ff8114,3
+5=跳到第五关,ff8114,4
+6=跳到第六关,ff8114,5
+7=跳到第七关,ff8114,6
+8=跳到第八关,ff8114,7
+[19]
+Name=无攻击限制
+0=Off,0,0
+1=P1,FF8533,00
+2=P2,FF8933,00
+3=P3,FF8D33,00
+4=P1&P2,FF8533,00,FF8933,00
+5=P1&P2&P3,FF8533,00,FF8933,00,FF8D33,00
+
+制作人：王伟鉴
+地  质：沈阳人
+QQ号码：78919008

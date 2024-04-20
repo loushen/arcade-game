@@ -1,0 +1,161 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+
+[1]
+Name=Infinite Credits
+0=No,0,0
+1=Yes,FF8077,09
+
+[2]
+Name=Sound Test Timer Stop
+0=No,0,0
+1=Yes,FF800A,FF
+
+[3]
+Name=P1 Inf Taunt
+0=No,0,0
+1=Yes,FF8BDB,0
+
+[4]
+Name=P1 Square
+0=Normal,0,0
+1=None,FFABD1,0,FFABD2,0,FFABD3,0,FFABD4,0,FFABD5,0,FFABD6,0,FFABD7,0,FFABD8,0,FFABD9,0,FFABDA,0,FFABDB,0,FFABDC,0,FFABDD,0
+2=Blue,FF8452,1,FF8454,1
+3=Yellow,FF8452,2,FF8454,2
+4=Green,FF8452,3,FF8454,3
+5=Red,FF8452,4,FF8454,4
+6=Gold,FF8452,5,FF8454,5
+7=Blue Jade,FF8452,9,FF8454,9
+8=Yellow Jade,FF8452,A,FF8454,A
+9=Green Jade,FF8452,B,FF8454,B
+10=Red Jade,FF8452,C,FF8454,C
+
+[5]
+Name=P1 Send Gems
+0=Normal,0,0
+1=P1 Never Send Gems,FF849F,00
+2=P1 Send 20 Gems,FF849F,14
+3=P1 Send 40 Gems,FF849F,28
+4=P1 Send 60 Gems,FF849F,3C
+5=P1 Max Power,FF849F,99
+
+[6]
+Name=P1 Controller Mode
+0=Normal,0,0
+1=User Play,FF839F,0
+2=Computer Play,FF839F,1
+
+[7]
+Name=P1 Char Select
+0=Normal,0,0
+1=Akuma,FF0C83,09,FF8B83,09
+2=Chun-Li,FF0C83,01,FF8B83,01
+3=Dan,FF0C83,0A,FF8B83,0A
+4=Devilot,FF0C83,08,FF8B83,08
+5=Donovan,FF0C83,05,FF8B83,05
+6=Felicia,FF0C83,06,FF8B83,06
+7=Hsien-Ko,FF0C83,04,FF8B83,04
+8=Ken,FF0C83,03,FF8B83,03
+9=Morrigan,FF0C83,00,FF8B83,00
+10=Ryu,FF0C83,02,FF8B83,02
+11=Sakura,FF0C83,07,FF8B83,07
+
+[8]
+Name=P1 Get Diamonds*
+0=Normal,0,0
+1=Diamond 1,FF84F4,18
+2=Diamond 2,FF84F4,31
+3=Diamond 3,FF84F4,4A
+4=Diamond 4,FF84F4,63
+5=Diamond 5,FF84F4,7C
+6=Diamond 6,FF84F4,95
+7=Diamond 7,FF84F4,AE
+8=Diamond 8,FF84F4,C7
+9=Diamond 9,FF84F4,E0
+10=Diamond 10,FF84F4,F9
+
+[9]
+Name=P2 Inf Taunt
+0=No,0,0
+1=Yes,FF8CDB,0
+
+[10]
+Name=P2 Square
+0=Normal,0,0
+1=None,FFADD1,0,FFADD2,0,FFADD3,0,FFADD4,0,FFADD5,0,FFADD6,0,FFADD7,0,FFADD8,0,FFADD9,0,FFADDA,0,FFADDB,0,FFADDC,0,FFADDD,0
+2=Blue,FF8852,1,FF8854,1
+3=Yellow,FF8852,2,FF8854,2
+4=Green,FF8852,3,FF8854,3
+5=Red,FF8852,4,FF8854,4
+6=Gold,FF8852,5,FF8854,5
+7=Blue Jade,FF8852,9,FF8854,9
+8=Yellow Jade,FF8852,A,FF8854,A
+9=Green Jade,FF8852,B,FF8854,B
+10=Red Jade,FF8852,C,FF8854,C
+
+[11]
+Name=P2 Send Gems
+0=Normal,0,0
+1=P2 Never Send Gems,FF889F,00
+2=P2 Send 20 Gems,FF889F,14
+3=P2 Send 40 Gems,FF889F,28
+4=P2 Send 60 Gems,FF889F,3C
+5=P2 Max Power,FF889F,99
+
+[12]
+Name=P2 Controller Mode
+0=Normal,0,0
+1=User Play,FF879F,0
+2=Computer Play,FF879F,1
+
+[13]
+Name=P2 Char Select
+0=Normal,0,0
+1=Akuma,FF0C87,09,FF8C83,09
+2=Chun-Li,FF0C87,01,FF8C83,01
+3=Dan,FF0C87,0A,FF8C83,0A
+4=Devilot,FF0C87,08,FF8C83,08
+5=Donovan,FF0C87,05,FF8C83,05
+6=Felicia,FF0C87,06,FF8C83,06
+7=Hsien-Ko,FF0C87,04,FF8C83,04
+8=Ken,FF0C87,03,FF8C83,03
+9=Morrigan,FF0C87,00,FF8C83,00
+10=Ryu,FF0C87,02,FF8C83,02
+11=Sakura,FF0C87,07,FF8C83,07
+
+[14]
+Name=P2 Get Diamonds*
+0=Normal,0,0
+1=Diamond 1,FF88F4,18
+2=Diamond 2,FF88F4,31
+3=Diamond 3,FF88F4,4A
+4=Diamond 4,FF88F4,63
+5=Diamond 5,FF88F4,7C
+6=Diamond 6,FF88F4,95
+7=Diamond 7,FF88F4,AE
+8=Diamond 8,FF88F4,C7
+9=Diamond 9,FF88F4,E0
+10=Diamond 10,FF88F4,F9
+
+[15]
+Name=BackGround Select
+0=Normal,0,0
+1=Akuma,FF8100,12
+2=Chun-Li,FF8100,02
+3=Dan,FF8100,14
+4=Devilot,FF8100,10
+5=Donovan,FF8100,0A
+6=Felicia,FF8100,0C
+7=Hsien-Ko,FF8100,08
+8=Ken,FF8100,06
+9=Morrigan,FF8100,00
+10=Ryu,FF8100,04
+11=Sakura,FF8100,0E

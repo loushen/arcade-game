@@ -1,0 +1,256 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF4BF6,00
+2=USA,FF4BF6,02
+3=Euro,FF4BF6,04
+4=Asia,FF4BF6,06
+5=Hispanic,FF4BF6,08
+6=Brazil,FF4BF6,0A
+
+[1]
+Name=Infinite Battle Time
+0=No,0,0
+1=Yes,FF4808,63
+
+[2]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF4190,8F
+
+[3]
+Name=P1 Inf Power
+0=No,0,0
+1=Yes,FF4194,8E
+
+[4]
+Name=P1 Action Speed Up
+0=No,0,0
+1=Yes,FF403E,01
+
+[5]
+Name=P1 Controller Mode
+0=Normal,0,0
+1=User Play,FF4002,1
+2=Computer Play,FF4002,0
+
+[6]
+Name=P1 Char Select
+0=Normal,0,0
+1=Akuma,FF4901,0C
+2=Colossus,FF4901,06
+3=Cyclops,FF4901,01
+4=Iceman,FF4901,05
+5=Juggernaut,FF4901,0A
+6=Magneto,FF4901,0B
+7=Omega Red,FF4901,03
+8=Psylocke,FF4901,07
+9=Sentinel,FF4901,04
+10=Silver Samurai,FF4901,08
+11=Spiral,FF4901,09
+12=Storm,FF4901,00
+13=Wolverine,FF4901,02
+
+[7]
+Name=P1 Colossus Super Armour
+0=Normal,0,0
+1=Always,FF4323,01,FF4320,A0,FF4321,01
+2=Never,FF4323,00,FF4320,01,FF4321,00
+
+[8]
+Name=P1 Cyclops & Psylocke Infinite Double Jump
+0=No,0,0
+1=Yes,FF4307,00
+
+[9]
+Name=P1 Magneto, Sentinel & Storm Flying
+0=Normal,0,0
+1=Infinite Time,FF40DA,85,FF40DB,03
+2=Quick Finish,FF40DA,01,FF40DB,00
+
+[10]
+Name=P1 Sentinel Plasma Storm Level
+0=Normal,0,0
+1=Level 1,FF4309,00
+2=Level 2,FF4309,01
+3=Level 3,FF4309,02
+4=Level 4,FF4309,03
+5=Level Max,FF4309,04
+
+[11]
+Name=P1 Sentinel Endless Plasma Storm Time
+0=No,0,0
+1=Yes,FF400A,00
+
+[12]
+Name=P1 Silver Samurai Shadow
+0=Normal,0,0
+1=Infinite Time,FF4304,FF,FF4305,01
+2=Force End,FF4304,01,FF4305,00,FF4303,00
+
+[13]
+Name=P1 Silver Samurai Sword
+0=Normal,0,0
+1=Normal Sword,FF430A,00,FF4308,00,FF4309,00
+2=Thunder Sword,FF430A,01,FF4308,FF,FF4309,02
+3=Ice Sword,FF430A,02,FF4308,FF,FF4309,02
+4=Flame Sword,FF430A,03,FF4308,FF,FF4309,02
+
+[14]
+Name=P1 Spiral Power Dance
+0=Normal,0,0
+1=Always,FF4108,06,FF4109,0A
+2=Never,FF4108,00,FF4109,00
+
+[15]
+Name=P1 Spiral Speed Dance
+0=Normal,0,0
+1=Always,FF40D9,01,FF431A,52,FF431B,02
+2=Never,FF40D9,00
+
+[16]
+Name=P1 Spiral Dimensional Dance
+0=Normal,0,0
+1=Always,FF4047,00
+2=Never,FF4047,C0
+
+[17]
+Name=P1 Spiral Metamorphosis
+0=Normal,0,0
+1=Always,FF4308,01,FF430A,58,FF430B,02
+2=Never,FF4308,00,FF4300,58,FF430B,00
+
+[18]
+Name=P1 Wolverine Berserker Charge
+0=Normal,0,0
+1=Always,FF40D9,01,FF4300,57,FF4301,02
+2=Never,FF40D9,00,FF4300,01,FF4301,00
+
+[19]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF4590,8F
+
+[20]
+Name=P2 Inf Power
+0=No,0,0
+1=Yes,FF4594,8E
+
+[21]
+Name=P2 Action Speed Up
+0=No,0,0
+1=Yes,FF443E,01
+
+[22]
+Name=P2 Controller Mode
+0=Normal,0,0
+1=User Play,FF4402,1
+2=Computer Play,FF4402,0
+
+[23]
+Name=P2 Char Select
+0=Normal,0,0
+1=Akuma,FF4903,0C
+2=Colossus,FF4903,06
+3=Cyclops,FF4903,01
+4=Iceman,FF4903,05
+5=Juggernaut,FF4903,0A
+6=Magneto,FF4903,0B
+7=Omega Red,FF4903,03
+8=Psylocke,FF4903,07
+9=Sentinel,FF4903,04
+10=Silver Samurai,FF4903,08
+11=Spiral,FF4903,09
+12=Storm,FF4903,00
+13=Wolverine,FF4903,02
+
+[24]
+Name=P2 Colossus Super Armour
+0=Normal,0,0
+1=Always,FF4723,01,FF4720,A0,FF4721,01
+2=Never,FF4723,00,FF4720,01,FF4721,00
+
+[25]
+Name=P2 Cyclops & Psylocke Infinite Double Jump
+0=No,0,0
+1=Yes,FF4707,00
+
+[26]
+Name=P2 Magneto, Sentinel & Storm Flying
+0=Normal,0,0
+1=Infinite Time,FF44DA,85,FF44DB,03
+2=Quick Finish,FF44DA,01,FF44DB,00
+
+[27]
+Name=P2 Sentinel Plasma Storm Level
+0=Normal,0,0
+1=Level 1,FF4709,00
+2=Level 2,FF4709,01
+3=Level 3,FF4709,02
+4=Level 4,FF4709,03
+5=Level Max,FF4709,04
+
+[28]
+Name=P2 Sentinel Endless Plasma Storm Time
+0=No,0,0
+1=Yes,FF440A,00
+
+[29]
+Name=P2 Silver Samurai Shadow
+0=Normal,0,0
+1=Infinite Time,FF4704,FF,FF4705,01
+2=Force End,FF4704,01,FF4705,00,FF4703,00
+
+[30]
+Name=P2 Silver Samurai Sword
+0=Normal,0,0
+1=Normal Sword,FF470A,00,FF4708,00,FF4709,00
+2=Thunder Sword,FF470A,01,FF4708,FF,FF4709,02
+3=Ice Sword,FF470A,02,FF4708,FF,FF4709,02
+4=Flame Sword,FF470A,03,FF4708,FF,FF4709,02
+
+[31]
+Name=P2 Spiral Power Dance
+0=Normal,0,0
+1=Always,FF4508,06,FF4509,0A
+2=Never,FF4508,00,FF4509,00
+
+[32]
+Name=P2 Spiral Speed Dance
+0=Normal,0,0
+1=Always,FF44D9,01,FF471A,52,FF471B,02
+2=Never,FF44D9,00
+
+[33]
+Name=P2 Spiral Dimensional Dance
+0=Normal,0,0
+1=Always,FF4447,00
+2=Never,FF4447,C0
+
+[34]
+Name=P2 Spiral Metamorphosis
+0=Normal,0,0
+1=Always,FF4708,01,FF470A,58,FF470B,02
+2=Never,FF4708,00,FF4700,58,FF470B,00
+
+[35]
+Name=P2 Wolverine Berserker Charge
+0=Normal,0,0
+1=Always,FF44D9,01,FF4700,57,FF4701,02
+2=Never,FF44D9,00,FF4700,01,FF4701,00
+
+[36]
+Name=BackGround Select
+0=Normal,0,0
+1=Colossus,FF488E,02
+2=Cyclops,FF488E,03
+3=Iceman,FF488E,05
+4=Juggernaut,FF488E,0A
+5=Magneto,FF488E,0B
+6=Omega Red,FF488E,08
+7=Psylocke,FF488E,01
+8=Sentinel,FF488E,09
+9=Silver Samurai,FF488E,07
+10=Spiral,FF488E,06
+11=Storm,FF488E,04
+12=Wolverine,FF488E,00

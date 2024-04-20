@@ -1,0 +1,879 @@
+[0]
+Name=Region*
+0=Normal,0,0
+1=Japan,FF8090,00
+2=USA,FF8090,02
+3=Hispanic,FF8090,04
+4=Oceania,FF8090,06
+5=Asia,FF8090,08
+6=Euro,FF8090,0A
+7=Brazil,FF8090,0C
+
+[1]
+Name=Title
+0=Normal,0,0
+1=Zero,FF8088,00
+2=Alpha,FF8088,01
+
+[2]
+Name=Time Release
+0=Normal,0,0
+1=Cream,FF80EF,00
+2=Red,FF80EF,01
+3=Green,FF80EF,02
+4=Blue,FF80EF,03
+5=Light Blue,FF80EF,04
+
+[3]
+Name=Infinite Battle Time
+0=No,0,0
+1=Yes,FF8108,63
+
+[4]
+Name=Dramatic Battle
+0=No,0,0
+1=Yes,FF8169,1
+
+[5]
+Name=Survival Mode
+0=No,0,0
+1=Yes,FF854A,FF,FF894A,FF
+
+[6]
+Name=L.O. Mode
+0=No,0,0
+1=Yes,FF855B,1
+
+[7]
+Name=Juli & Juni Battle
+0=No,0,0
+1=Yes,FF8138,2
+
+[8]
+Name=Juli & Juni Intro
+0=No,0,0
+1=Yes,FF813E,2
+
+[9]
+Name=Sound Test Timer Stop
+0=No,0,0
+1=Yes,FF800A,FF
+
+[10]
+Name=Battle Speed
+0=Normal,0,0
+1=Normal Speed,FF80A2,00
+2=Turbo 1,FF80A2,01
+3=Turbo 2,FF80A2,02
+4=Free Select 1,FF80A2,03
+5=Free Select 2,FF80A2,04
+6=Free Select 3,FF80A2,05
+
+[11]
+Name=Skip Bio/Storyline
+0=No,0,0
+1=Yes,FF8548,FF,FF8948,FF
+
+[12]
+Name=Skip Map Screen
+0=No,0,0
+1=Yes,FF8110,FF
+
+[13]
+Name=Super Finish Effect Type
+0=Normal,0,0
+1=Spreads Outside From Center,FF812A,0
+2=Flows From UR to DL,FF812A,1
+3=Flows From UL to DR,FF812A,2
+4=Flows From Up to Down,FF812A,3
+5=Frows From Left to Right,FF812A,5
+6=Spreads Down From Up,FF812A,6
+7=Spreads Center From Outside,FF812A,7
+8=Psycho Field Finish,FF812A,8
+9=Flash Only,FF812A,B
+10=Nothing,FF812A,F
+
+[14]
+Name=Super Finish Effect Flag
+0=Normal,0,0
+1=No Effect,FF8125,0
+2=Endless,FF8125,FF
+
+[15]
+Name=Move Round Announce
+0=No,0,0
+1=Yes,FF810F,0
+
+[16]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF8450,90
+
+[17]
+Name=P1 Inf Power
+0=No,0,0
+1=Yes,FF851E,90
+
+[18]
+Name=P1 Air Moves
+0=No,0,0
+1=Yes,FF8430,0
+
+[19]
+Name=P1 No Ground Attacks
+0=No,0,0
+1=Yes,FF8430,1
+
+[20]
+Name=P1 Inf Taunt
+0=No,0,0
+1=Yes,FF84BD,1
+
+[21]
+Name=P1 Inf Fireball
+0=No,0,0
+1=Yes,FF8639,0
+
+[22]
+Name=P1 Inf Guard
+0=No,0,0
+1=Yes,FF864C,0
+
+[23]
+Name=P1 Inf V-ISM Combo
+0=No,0,0
+1=Yes,FF84B8,1
+
+[24]
+Name=P1 No Hit Stop
+0=No,0,0
+1=Yes,FF845E,0
+
+[25]
+Name=P1 Shadow Fighter
+0=No,0,0
+1=Yes,FF854C,FF
+
+[26]
+Name=P1 Force Counter Damage
+0=No,0,0
+1=Yes,FF84A8,1
+
+[27]
+Name=P1 Projectiles
+0=Normal,0,0
+1=Inf Projectiles,FF8639,0
+2=Disable Projectiles,FF8639,1
+
+[28]
+Name=P1 Fast Recovery
+0=No,0,0
+1=Yes,FF86CD,0,FF86CC,28
+
+[29]
+Name=P1 Hardest Mode
+0=No,0,0
+1=Yes,FF845E,0,FF8A5B,0
+
+[30]
+Name=P1 Classic Mode
+0=No,0,0
+1=Yes,FF855F,1
+
+[31]
+Name=P1 Mazi/Serious Mode
+0=No,0,0
+1=Yes,FF855B,1
+
+[32]
+Name=P1 Saikyou/Strong Mode
+0=No,0,0
+1=Yes,FF8530,1
+
+[33]
+Name=P1 Action Speed Up
+0=No,0,0
+1=Yes,FF8433,1
+
+[34]
+Name=P1 Motion Speed Up
+0=No,0,0
+1=Yes,FF8434,1
+
+[35]
+Name=P1 No Jump Attack Limit (Incomplete)
+0=No,0,0
+1=Yes,FF8406,1
+
+[36]
+Name=P1 Combo Count and Adjustment
+0=Normal,0,0
+1=P1 0 Hit(No Adjust),FF885F,0
+2=P1 99 Hit(Too Heavy Adjust),FF885F,63
+
+[37]
+Name=P1 Force Level 3 Combo
+0=No,0,0
+1=Yes,FF8483,4
+
+[38]
+Name=P1 Level 3 Custom Combo
+0=No,0,0
+1=Yes,FF84B8,1,FF84BA,FF,FF84B8,1,FF84BA,0,FF86A6,51,FF86A8,1B
+
+[39]
+Name=P1 Boss ISM
+0=No,0,0
+1=Yes,FF8522,2
+
+[40]
+Name=P1 ISM Select
+0=Normal,0,0
+1=X-ISM,FF8533,FF
+2=Z-ISM,FF8533,00
+3=V-ISM,FF8533,01
+
+[41]
+Name=P1 Damage Level
+0=Normal,0,0
+1=P1 Weak,FF84CD,8F
+2=P1 Ultimate,FF84CD,7F
+3=P1 Super Hyper Excellent,FF84CD,FF
+
+[42]
+Name=P1 Mode
+0=Normal,0,0
+1=P1 Enable,FF8401,1
+2=P1 Disable,FF8401,0
+
+[43]
+Name=P1 Slot
+0=Normal,0,0
+1=Slot 1,FF8500,0
+2=Slot 2,FF8500,1
+3=Slot 3,FF8500,2
+4=Slot 4,FF8500,3
+
+[44]
+Name=P1 Controller Mode
+0=Normal,0,0
+1=User Play,FF8524,00
+2=Computer Play,FF8524,01
+3=Hard Computer Play,FF8524,01,FF8439,84
+
+[45]
+Name=P1 Char Select
+0=Normal,0,0
+1=Adon,FF8503,05
+2=Akuma,FF8503,02
+3=Balrog,FF8503,15
+4=Birdie,FF8503,08
+5=Blanka,FF8503,19
+6=Cammy,FF8503,16
+7=Charlie,FF8503,03
+8=Chun-Li,FF8503,04
+9=Cody,FF8503,1B
+10=Dan,FF8503,0C
+11=Dhalsim,FF8503,0F
+12=E.Honda,FF8503,18
+13=Gen,FF8503,11
+14=Guy,FF8503,07
+15=Juli,FF8503,1E
+16=Juni,FF8503,1F
+17=Karin,FF8503,1D
+18=Ken,FF8503,01
+19=M.Bison,FF8503,0A
+20=R.Mika,FF8503,1A
+21=Rolento,FF8503,0E
+22=Rose,FF8503,09
+23=Ryu,FF8503,00
+24=Sagat,FF8503,0B
+25=Sakura,FF8503,0D
+26=Shin M.Bison,FF8503,0A,FF855C,01
+27=Sodom,FF8503,06
+28=Vega,FF8503,1C
+29=Zangief,FF8503,10
+
+[46]
+Name=P1 Colour
+0=Normal,0,0
+1=Primary,FF8529,00
+2=Secondary,FF8529,01
+
+[47]
+Name=P1 Char Special Arts
+0=Normal,0,0
+1=Rose - Infinite Shadow Limit,FF9F6A,FF,FF9F6B,2,FF9E6A,FF,FF9E6B,2
+2=Ryu - Force ShinSyoryu,FF84CD,30
+3=Sagat - Always Angry Charge,FF072F,6C
+4=Vega - Claw Off,FF846B,00
+5=Vega - Claw On,FF846B,01
+
+[48]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF8850,90
+
+[49]
+Name=P2 Inf Power
+0=No,0,0
+1=Yes,FF891E,90
+
+[50]
+Name=P2 Air Moves
+0=No,0,0
+1=Yes,FF8830,0
+
+[51]
+Name=P2 No Ground Attacks
+0=No,0,0
+1=Yes,FF8830,1
+
+[52]
+Name=P2 Inf Taunt
+0=No,0,0
+1=Yes,FF88BD,1
+
+[53]
+Name=P2 Inf Fireball
+0=No,0,0
+1=Yes,FF9039,0
+
+[54]
+Name=P2 Inf Guard
+0=No,0,0
+1=Yes,FF8A4C,0
+
+[55]
+Name=P2 Inf V-ISM Combo
+0=No,0,0
+1=Yes,FF88B8,1
+
+[56]
+Name=P2 No Hit Stop
+0=No,0,0
+1=Yes,FF885E,0
+
+[57]
+Name=P2 Shadow Fighter
+0=No,0,0
+1=Yes,FF894C,FF
+
+[58]
+Name=P2 Force Counter Damage
+0=No,0,0
+1=Yes,FF88A8,1
+
+[59]
+Name=P2 Projectiles
+0=Normal,0,0
+1=Inf Projectiles,FF8A39,0
+2=Disable Projectiles,FF8A39,1
+
+[60]
+Name=P2 Fast Recovery
+0=No,0,0
+1=Yes,FF8ACD,0,FF8ACC,28
+
+[61]
+Name=P2 Hardest Mode
+0=No,0,0
+1=Yes,FF885E,0,FF865B,0
+
+[62]
+Name=P2 Classic Mode
+0=No,0,0
+1=Yes,FF895F,1
+
+[63]
+Name=P2 Mazi/Serious Mode
+0=No,0,0
+1=Yes,FF895B,1
+
+[64]
+Name=P2 Saikyou/Strong Mode
+0=No,0,0
+1=Yes,FF8930,1
+
+[65]
+Name=P2 Action Speed Up
+0=No,0,0
+1=Yes,FF8833,1
+
+[66]
+Name=P2 Motion Speed Up
+0=No,0,0
+1=Yes,FF8834,1
+
+[67]
+Name=P2 No Jump Attack Limit (Incomplete)
+0=No,0,0
+1=Yes,FF8806,1
+
+[68]
+Name=P2 Combo Count and Adjustment
+0=Normal,0,0
+1=P2 0 Hit(No Adjust),FF845F,0
+2=P2 99 Hit(Too Heavy Adjust),FF845F,63
+
+[69]
+Name=P2 Force Level 3 Combo
+0=No,0,0
+1=Yes,FF8883,4
+
+[70]
+Name=P2 Level 3 Custom Combo
+0=No,0,0
+1=Yes,FF88B8,1,FF88BA,FF,FF88B8,1,FF88BA,0,FF8AA6,51,FF8AA8,1B
+
+[71]
+Name=P2 Boss ISM
+0=No,0,0
+1=Yes,FF8922,2
+
+[72]
+Name=P2 ISM Select
+0=Normal,0,0
+1=X-ISM,FF8933,FF
+2=Z-ISM,FF8933,00
+3=V-ISM,FF8933,01
+
+[73]
+Name=P2 Damage Level
+0=Normal,0,0
+1=P2 Weak,FF88CD,8F
+2=P2 Ultimate,FF88CD,7F
+3=P2 Super Hyper Excellent,FF88CD,FF
+
+[74]
+Name=P2 Mode
+0=Normal,0,0
+1=P2 Enable,FF8801,1
+2=P2 Disable,FF8801,0
+
+[75]
+Name=P2 Slot
+0=Normal,0,0
+1=Slot 1,FF8900,0
+2=Slot 2,FF8900,1
+3=Slot 3,FF8900,2
+4=Slot 4,FF8900,3
+
+[76]
+Name=P2 Controller Mode
+0=Normal,0,0
+1=User Play,FF8924,00
+2=Computer Play,FF8924,01
+3=Hard Computer Play,FF8924,01,FF8839,84
+
+[77]
+Name=P2 Char Select
+0=Normal,0,0
+1=Adon,FF8903,05
+2=Akuma,FF8903,02
+3=Balrog,FF8903,15
+4=Birdie,FF8903,08
+5=Blanka,FF8903,19
+6=Cammy,FF8903,16
+7=Charlie,FF8903,03
+8=Chun-Li,FF8903,04
+9=Cody,FF8903,1B
+10=Dan,FF8903,0C
+11=Dhalsim,FF8903,0F
+12=E.Honda,FF8903,18
+13=Gen,FF8903,11
+14=Guy,FF8903,07
+15=Juli,FF8903,1E
+16=Juni,FF8903,1F
+17=Karin,FF8903,1D
+18=Ken,FF8903,01
+19=M.Bison,FF8903,0A
+20=R.Mika,FF8903,1A
+21=Rolento,FF8903,0E
+22=Rose,FF8903,09
+23=Ryu,FF8903,00
+24=Sagat,FF8903,0B
+25=Sakura,FF8903,0D
+26=Shin M.Bison,FF8903,0A,FF895C,01
+27=Sodom,FF8903,06
+28=Vega,FF8903,1C
+29=Zangief,FF8903,10
+
+[78]
+Name=P2 Colour
+0=Normal,0,0
+1=Primary,FF8929,00
+2=Secondary,FF8929,01
+
+[79]
+Name=P2 Char Special Arts
+0=Normal,0,0
+1=Rose - Infinite Shadow Limit,FF9F6A,FF,FF9F6B,2,FF9E6A,FF,FF9E6B,2
+2=Ryu - Force ShinSyoryu,FF88CD,30
+3=Sagat - Always Angry Charge,FF072F,6C
+4=Vega - Claw Off,FF886B,00
+5=Vega - Claw On,FF886B,01
+
+[80]
+Name=P3 Inf Health
+0=No,0,0
+1=Yes,FF8C50,90
+
+[81]
+Name=P3 Inf Power
+0=No,0,0
+1=Yes,FF8D1E,90
+
+[82]
+Name=P3 Air Moves
+0=No,0,0
+1=Yes,FF8C30,0
+
+[83]
+Name=P3 Inf Guard
+0=No,0,0
+1=Yes,FF8E4C,0
+
+[84]
+Name=P3 Inf V-ISM Combo
+0=No,0,0
+1=Yes,FF8CB8,1
+
+[85]
+Name=P3 Shadow Fighter
+0=No,0,0
+1=Yes,FF8D4C,FF
+
+[86]
+Name=P3 Force Counter Damage
+0=No,0,0
+1=Yes,FF8CA8,1
+
+[87]
+Name=P3 Projectiles
+0=Normal,0,0
+1=Inf Projectiles,FF8E39,0
+2=Disable Projectiles,FF8E39,1
+
+[88]
+Name=P3 Fast Recovery
+0=No,0,0
+1=Yes,FF8ECD,0,FF8ECC,28
+
+[89]
+Name=P3 Hardest Mode
+0=No,0,0
+1=Yes,FF8C5E,0,FF8C5B,0
+
+[90]
+Name=P3 Classic Mode
+0=No,0,0
+1=Yes,FF8D5F,1
+
+[91]
+Name=P3 Mazi/Serious Mode
+0=No,0,0
+1=Yes,FF8D5B,1
+
+[92]
+Name=P3 Saikyou/Strong Mode
+0=No,0,0
+1=Yes,FF8D30,1
+
+[93]
+Name=P3 Action Speed Up
+0=No,0,0
+1=Yes,FF8C33,1
+
+[94]
+Name=P3 Motion Speed Up
+0=No,0,0
+1=Yes,FF8C33,1
+
+[95]
+Name=P3 No Jump Attack Limit (Incomplete)
+0=No,0,0
+1=Yes,FF8C06,1
+
+[96]
+Name=P3 Force Level 3 Combo
+0=No,0,0
+1=Yes,FF8C83,4
+
+[97]
+Name=P3 Level 3 Custom Combo
+0=No,0,0
+1=Yes,FF8CB8,1,FF8CBA,FF,FF8CB8,1,FF8CBA,0,FF8EA6,51,FF8EA8,1B
+
+[98]
+Name=P3 Boss ISM
+0=No,0,0
+1=Yes,FF8D22,2
+
+[99]
+Name=P3 ISM Select
+0=Normal,0,0
+1=X-ISM,FF8D33,FF
+2=Z-ISM,FF8D33,00
+3=V-ISM,FF8D33,01
+
+[100]
+Name=P3 Damage Level
+0=Normal,0,0
+1=P3 Weak,FF8CCD,8F
+2=P3 Ultimate,FF8CCD,7F
+3=P3 Super Hyper Excellent,FF8CCD,FF
+
+[101]
+Name=P3 Mode
+0=Normal,0,0
+1=P3 Enable,FF8C01,1
+2=P3 Disable,FF8C01,0
+
+[102]
+Name=P3 Slot
+0=Normal,0,0
+1=Slot 1,FF8D00,0
+2=Slot 2,FF8D00,1
+3=Slot 3,FF8D00,2
+4=Slot 4,FF8D00,3
+
+[103]
+Name=P3 Controller Mode
+0=Normal,0,0
+1=User Play,FF8D24,00
+2=Computer Play,FF8D24,01
+3=Hard Computer Play,FF8D24,01,FF8C39,84
+
+[104]
+Name=P3 Char Select
+0=Normal,0,0
+1=Adon,FF8D03,05
+2=Akuma,FF8D03,02
+3=Balrog,FF8D03,15
+4=Birdie,FF8D03,08
+5=Blanka,FF8D03,19
+6=Cammy,FF8D03,16
+7=Charlie,FF8D03,03
+8=Chun-Li,FF8D03,04
+9=Cody,FF8D03,1B
+10=Dan,FF8D03,0C
+11=Dhalsim,FF8D03,0F
+12=E.Honda,FF8D03,18
+13=Gen,FF8D03,11
+14=Guy,FF8D03,07
+15=Juli,FF8D03,1E
+16=Juni,FF8D03,1F
+17=Karin,FF8D03,1D
+18=Ken,FF8D03,01
+19=M.Bison,FF8D03,0A
+20=R.Mika,FF8D03,1A
+21=Rolento,FF8D03,0E
+22=Rose,FF8D03,09
+23=Ryu,FF8D03,00
+24=Sagat,FF8D03,0B
+25=Sakura,FF8D03,0D
+26=Shin M.Bison,FF8D03,0A,FF8D5C,01
+27=Sodom,FF8D03,06
+28=Vega,FF8D03,1C
+29=Zangief,FF8D03,10
+
+[105]
+Name=P3 Colour
+0=Normal,0,0
+1=Primary,FF8D29,00
+2=Secondary,FF8D29,01
+
+[106]
+Name=P4 Inf Health
+0=No,0,0
+1=Yes,FF9050,90
+
+[107]
+Name=P4 Inf Power
+0=No,0,0
+1=Yes,FF911E,90
+
+[108]
+Name=P4 Air Moves
+0=No,0,0
+1=Yes,FF9030,0
+
+[109]
+Name=P4 Inf Guard
+0=No,0,0
+1=Yes,FF924C,0
+
+[110]
+Name=P4 Inf V-ISM Combo
+0=No,0,0
+1=Yes,FF90B8,1
+
+[111]
+Name=P4 Shadow Fighter
+0=No,0,0
+1=Yes,FF914C,FF
+
+[112]
+Name=P4 Force Counter Damage
+0=No,0,0
+1=Yes,FF90A8,1
+
+[113]
+Name=P4 Projectiles
+0=Normal,0,0
+1=Inf Projectiles,FF9239,0
+2=Disable Projectiles,FF9239,1
+
+[114]
+Name=P4 Fast Recovery
+0=No,0,0
+1=Yes,FF91CD,0,FF91CC,28
+
+[115]
+Name=P4 Hardest Mode
+0=No,0,0
+1=Yes,FF905E,0,FF905B,0
+
+[116]
+Name=P4 Classic Mode
+0=No,0,0
+1=Yes,FF915F,1
+
+[117]
+Name=P4 Mazi/Serious Mode
+0=No,0,0
+1=Yes,FF915B,1
+
+[118]
+Name=P4 Saikyou/Strong Mode
+0=No,0,0
+1=Yes,FF9130,1
+
+[119]
+Name=P4 Force Level 3 Combo
+0=No,0,0
+1=Yes,FF9083,4
+
+[120]
+Name=P4 Level 3 Custom Combo
+0=No,0,0
+1=Yes,FF90B8,1,FF90BA,FF,FF90B8,1,FF90BA,0,FF92A6,51,FF92A8,1B
+
+[121]
+Name=P4 Boss ISM
+0=No,0,0
+1=Yes,FF9122,2
+
+[122]
+Name=P4 ISM Select
+0=Normal,0,0
+1=X-ISM,FF9133,FF
+2=Z-ISM,FF9133,00
+3=V-ISM,FF9133,01
+
+[123]
+Name=P4 Mode
+0=Normal,0,0
+1=P4 Enable,FF9001,1
+2=P4 Disable,FF9001,0
+
+[124]
+Name=P4 Slot
+0=Normal,0,0
+1=Slot 1,FF9100,0
+2=Slot 2,FF9100,1
+3=Slot 3,FF9100,2
+4=Slot 4,FF9100,3
+
+[125]
+Name=P4 Controller Mode
+0=Normal,0,0
+1=User Play,FF9124,00
+2=Computer Play,FF9124,01
+3=Hard Computer Play,FF9124,01,FF9039,84
+
+[126]
+Name=P4 Char Select
+0=Normal,0,0
+1=Adon,FF9103,05
+2=Akuma,FF9103,02
+3=Balrog,FF9103,15
+4=Birdie,FF9103,08
+5=Blanka,FF9103,19
+6=Cammy,FF9103,16
+7=Charlie,FF9103,03
+8=Chun-Li,FF9103,04
+9=Cody,FF9103,1B
+10=Dan,FF9103,0C
+11=Dhalsim,FF9103,0F
+12=E.Honda,FF9103,18
+13=Gen,FF9103,11
+14=Guy,FF9103,07
+15=Juli,FF9103,1E
+16=Juni,FF9103,1F
+17=Karin,FF9103,1D
+18=Ken,FF9103,01
+19=M.Bison,FF9103,0A
+20=R.Mika,FF9103,1A
+21=Rolento,FF9103,0E
+22=Rose,FF9103,09
+23=Ryu,FF9103,00
+24=Sagat,FF9103,0B
+25=Sakura,FF9103,0D
+26=Shin M.Bison,FF9103,0A,FF915C,01
+27=Sodom,FF9103,06
+28=Vega,FF9103,1C
+29=Zangief,FF9103,10
+
+[127]
+Name=P4 Colour
+0=Normal,0,0
+1=Primary,FF9129,00
+2=Secondary,FF9129,01
+
+[128]
+Name=BackGround Select
+0=Normal,0,0
+1=Adon,FF8100,0A
+2=Akuma,FF8100,04
+3=Balrog,FF8100,2A
+4=Birdie,FF8100,10
+5=Blanka,FF8100,32
+6=Cammy,FF8100,2C
+7=Charlie,FF8100,06
+8=Chun-Li,FF8100,08
+9=Cody,FF8100,36
+10=Dan,FF8100,18
+11=Dhalsim,FF8100,1E
+12=E.Honda,FF8100,30
+13=Gen,FF8100,22
+14=Guy,FF8100,0E
+15=Juli,FF8100,3C
+16=Juni,FF8100,3E
+17=Karin,FF8100,3A
+18=Ken,FF8100,02
+19=M.Bison,FF8100,14
+20=R.Mika,FF8100,34
+21=Rolento,FF8100,1C
+22=Rose,FF8100,12
+23=Ryu,FF8100,00
+24=Sagat,FF8100,16
+25=Sakura,FF8100,1A
+26=Sodom,FF8100,0C
+27=Vega,FF8100,38
+28=Zangief,FF8100,20
+
+[129]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FF8114,00
+2=Stage 2,FF8114,01
+3=Stage 3,FF8114,02
+4=Stage 4,FF8114,03
+5=Stage 5,FF8114,04
+6=Stage 6,FF8114,05
+7=Stage 7,FF8114,06
+8=Stage 8,FF8114,07
+9=Stage 9,FF8114,08
+10=Stage 10,FF8114,09

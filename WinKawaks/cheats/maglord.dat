@@ -1,0 +1,49 @@
+[0]
+Name=Infinite Lives
+0=Off,0,0
+1=On,103B01,09
+
+[1]
+Name=Infinite Health
+0=Off,0,0
+1=On,103B06,04
+
+[2]
+Name=Invulnerabirity
+0=Off,0,0
+1=On,103B08,FF
+
+[3]
+Name=Power Level
+0=Off,0,0
+1=Level 1,103B05,00
+2=Level 2,103B05,01
+3=Level 3,103B05,02
+
+[4]
+Name=Character
+0=Off,0,0
+1=Magician,103B04,00
+2=Dragon,103B04,05
+3=Thunder Man,103B04,0F
+4=Ninja,103B04,07
+5=Samurai,103B04,08
+6=Knight,103B04,0A
+7=WaterMan,103B04,09
+
+[5]
+Name=Shot Type
+0=Off,0,0
+1=Shot (Magician),103B00,00
+2=Fire (Dragon),103B00,01
+3=Spark (Thunder Man),103B00,02
+4=Fire Shot (Ninja),103B00,03
+5=Wave (Samurai),103B00,04
+6=Ice (Knight),103B00,05
+7=Water Poll(WaterMan),103B00,06
+
+[6]
+Name=Shot Limit
+0=On,0,0
+1=Off,104F3B,03
+

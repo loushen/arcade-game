@@ -1,0 +1,34 @@
+[0]
+Name=P1 Infinite Lives
+0=Off,0,0
+1=On,10109F,99
+
+[1]
+Name=P1 Invulnerabirity
+0=Off,0,0
+1=On,1010F1,02,1010F0,35
+
+[2]
+Name=P1 Infinite Granade
+0=Off,0,0
+1=On,1010EC,99
+
+[3]
+Name=P1 Weapon Select
+0=Off,0,0
+1=Missile,1010E7,c0
+2=Machingun,1010E7,c1
+3=Fire Burner,1010E7,c2
+4=Granade 2,1010E7,83
+5=Granade 3,1010E7,84
+
+[4]
+Name=P1 Infinite Weapon
+0=Off,0,0
+1=On,1010E6,99
+
+[5]
+Name=P1 Aiming
+0=Off,0,0
+1=Default(x1),101167,01
+2=PowerUp(x2),101167,02

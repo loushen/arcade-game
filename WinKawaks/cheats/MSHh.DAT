@@ -1,0 +1,70 @@
+[0]
+Name=区域码
+0=取消,0,0
+1=美版,ff4C22,2
+2=日版,ff4C22,0
+3=亚洲,ff4C22,6
+4=欧洲,ff4C22,8
+5=西班牙,ff4C22,4
+6=巴西,ff4C22,A
+[1]
+Name=电脑生命值为零
+0=取消,0,0
+1=P2-ON,ff4590,0
+2=P1-ON,ff4190,0
+[2]
+Name=无限时间
+0=取消,0,0
+1=开启,ff4809,99
+[3]
+Name=P1更换角色
+0=取消,0,0
+1=*Dr Doom,ff4050,14
+2=*Thanos,ff4050,16
+3=*Anita,ff4050,18
+4=Hulk,ff4050,4
+5=Wolverine,ff4050,8
+6=Spiderman,ff4050,0
+7=Magneto,ff4050,12
+8=Juggernaut,ff4050,10
+9=IronMan,ff4050,6
+10=Psylocke,ff4050,a
+11=Capt. America,ff4050,2
+12=Shuma Gorath,ff4050,e
+13=BlackHeart,ff4050,c
+[4]
+Name=P2更换角色
+0=取消,0,0
+1=*Dr Doom,ff4450,14
+1=*Thanos,ff4450,16
+2=*Anita,ff4450,18
+3=Hulk,ff4450,4
+4=Wolverine,ff4450,8
+5=Spiderman,ff4450,0
+6=Magneto,ff4450,12
+7=Juggernaut,ff4450,10
+8=IronMan,ff4450,6
+10=Psylocke,ff4450,a
+11=Capt. America,ff4450,2
+12=Shuma Gorath,ff4450,e
+13=BlackHeart,ff4450,c
+[4]
+Name=P1无限生命
+0=取消,0,0
+1=开启,ff4190,99
+[5]
+Name=P2无限生命
+0=取消,0,0
+1=开启,ff4590,99
+[6]
+Name=P1能源槽
+0=取消,0,0
+1=开启,ff4199,9
+[7]
+Name=P2能源槽
+0=取消,0,0
+1=开启,ff4599,9
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008

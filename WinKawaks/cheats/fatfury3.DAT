@@ -1,0 +1,68 @@
+[0]
+Name=电脑生命为零
+0=取消,0,0
+1=启动P2,ff0588,0
+2=启动P1,ff0488,0
+[1]
+Name=模式选择
+0=取消,0,0
+1=超级模式,ffE000,01
+2=隐藏模式,ffE000,91
+[2]
+Name=无限时间
+0=取消,0,0
+1=启动,ff5681,61
+[3]
+Name=P1角色更换
+0=取消,0,0
+1=TERRY BOGARD,ff0410,1,ff561C,1
+2=ANDY BOGARD,ff0410,2,ff561C,2
+3=JOE WIGASHI,ff0410,3,ff561C,3
+4=MAI SHIRANUI,ff0410,4,ff561C,4
+5=GEESE WOWARD,ff0410,5,ff561C,5
+6=SOKAKU,ff0410,6,ff561C,6
+7=BOB WILSON,ff0410,7,ff561C,7
+8=HON FU,ff0410,8,ff561C,8
+9=BLUE-MARY,ff0410,9,ff561C,9
+10=FRANCO BASH,ff0410,a,ff561C,a
+11=↓隐藏人物↓
+12=YAMAZAKI,ff0410,b,ff561C,b
+13=JIN CHONSHU,ff0410,c,ff561C,c
+14=JIN CHONREI,ff0410,d,ff561C,d
+[4]
+Name=P2角色更换
+0=取消,0,0
+1=TERRY BOGARD,ff0510,1,ff561e,1
+2=ANDY BOGARD,ff0510,2,ff561e,2
+3=JOE WIGASHI,ff0510,3,ff561e,3
+4=MAI SHIRANUI,ff0510,4,ff561e,4
+5=GEESE WOWARD,ff0510,5,ff561e,5
+6=SOKAKU,ff0510,6,ff561e,6
+7=BOB WILSON,ff0510,7,ff561e,7
+8=HON FU,ff0510,8,ff561e,8
+9=BLUE-MARY,ff0510,9,ff561e,9
+10=FRANCO BASH,ff0510,a,ff561e,a
+11=↓隐藏人物↓
+12=YAMAZAKI,ff0510,b,ff561e,b
+13=JIN CHONSHU,ff0510,c,ff561e,c
+14=JIN CHONREI,ff0510,d,ff561e,d
+[5]
+Name=P1生命值
+0=取消,0,0
+1=体力不损,ff0488,60
+2=体力见红,ff0488,18
+[6]
+Name=P2生命值
+0=取消,0,0
+1=体力不损,ff0588,60
+2=体力见红,ff0588,18
+[7]
+Name=动作加速
+0=取消,0,0
+1=启动P1,10046E,00
+2=启动P2,10056E,00
+3=启动P1+P2,10046E,00,10056E,00
+
+制作人：王伟鉴
+地  址：沈阳人
+QQ号码：78919008

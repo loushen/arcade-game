@@ -1,0 +1,263 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF82CE,00
+2=USA,FF82CE,02
+3=ETC,FF82CE,04
+4=Hispanic,FF82CE,06
+5=Asia,FF82CE,08
+6=Asia TW,FF82CE,0A
+
+[1]
+Name=Infinite Time
+0=No,0,0
+1=Yes,FF8CCF,99
+
+[2]
+Name=Turbo Mode
+0=No,0,0
+1=Yes,FF82EC,01
+
+[3]
+Name=Bonus Stage Flag
+0=Normal,0,0
+1=Perfect Clear,FF8CD3,01,FF8CE7,01
+2=Incomplete Clear,FF8CD3,01,FF8CE7,00
+
+[4]
+Name=Bonus Stage
+0=Normal,0,0
+1=No Bonus Stages,FF8C00,00
+2=Break the Car!,FF8C00,03
+3=Hit Any Barrels You Can!!,FF8C00,03,FF8BCE,11
+4=Destroy The Fire Barrels!!!,FF8C00,03,FF8BCE,12
+
+[5]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF83F9,01,FF858B,01
+
+[6]
+Name=P1 Die Hard
+0=No,0,0
+1=Yes,FF83F8,90
+
+[7]
+Name=P1 Invincible
+0=No,0,0
+1=Yes,FF858C,01
+
+[8]
+Name=P1 1 Win Match
+0=No,0,0
+1=Yes,FF875F,01
+
+[9]
+Name=P1 Air Moves
+0=No,0,0
+1=Yes,FF854E,00
+
+[10]
+Name=P1 Inf Fireball
+0=No,0,0
+1=Yes,FF85A3,00,FF85A2,00
+
+[11]
+Name=P1 No Hit Stop
+0=No,0,0
+1=Yes,FF8414,00
+
+[12]
+Name=P1 Auto Combo
+0=No,0,0
+1=Yes,FF8819,00
+
+[13]
+Name=P1 Never Faint
+0=No,0,0
+1=Yes,FF842E,01
+
+[14]
+Name=P1 Action Speed Up
+0=No,0,0
+1=Yes,FF83E6,01
+
+[15]
+Name=P1 Quick Shot*
+0=No,0,0
+1=Yes,FF83ED,01
+
+[16]
+Name=P1 All Cancel
+0=No,0,0
+1=Yes,FF8561,01,FF8562,01
+
+[17]
+Name=P1 Char Select
+0=Normal,0,0
+1=Balrog,FF875E,0A
+2=Balrog (Max Turnpunch),FF875E,0A,FF8484,5F,FF8485,0B,FF8486,5F,FF8487,0B
+3=Blanka,FF875E,02
+4=Cammy,FF875E,0C
+5=Chun-Li,FF875E,05
+6=Dee Jay,FF875E,0F
+7=Dhalsim,FF875E,07
+8=E.Honda,FF875E,01
+9=Fei Long,FF875E,0E
+10=Guile,FF875E,03
+11=Ken,FF875E,04
+12=M.Bison,FF875E,08
+13=Ryu,FF875E,00
+14=Sagat,FF875E,09
+15=T.Hawk,FF875E,0D
+16=Vega,FF875E,0B
+17=Zangief,FF875E,06
+
+[18]
+Name=P1 Easy Moves
+0=Normal,0,0
+1=Balrog - Dash Straight & Upper & Buffalo Headbutt,FF844F,06,FF8457,06,FF848F,06
+2=Blanka - Normal & Vertical & Backstep Rolling,FF844F,06,FF847F,06,FF8486,06
+3=Cammy - Axel Spin Knuckle & Cannon Spike & Spiral Arrow,FF8461,04,FF8465,04,FF8471,04
+4=Chun Li - Kikouken & Spinning Bird Kick,FF844F,06,FF847F,06
+5=Dee Jay - Air Slasher & Double Rolling & Machinegun Upper,FF8461,06,FF8465,06,FF8475,06
+6=Dhalsim - Yoga Fire & Yoga Teleport Left,FF844F,04,FF8457,04,FF845A,05
+7=Dhalsim - Yoga Fire & Yoga Teleport Right,FF844F,04,FF8457,04,FF845A,06
+8=Dhalsim - Yoga Flame & Yoga Teleport Left,FF8453,08,FF8457,04,FF845A,05
+9=Dhalsim - Yoga Flame & Yoga Teleport Right,FF8453,08,FF8457,04,FF845A,06
+10=E.Honda - Super Zutsuki & Hyakkan Otoshi,FF844F,06,FF8479,06
+11=Fei Long - Rekkaken & Sien Kyaku,FF8463,04,FF845F,04,FF846F,04
+12=Guile - Sonic Boom & Somersault Kick,FF844F,06,FF8455,06
+13=Ken - Hadouken & Syouryuuken & Tatsumaki,FF845F,04,FF8463,04,FF8467,04
+14=M.Bison - Devil Reverse & Double Knee & Head Press,FF8457,06,FF845E,06,FF847B,06
+15=Ryu - Hadouken & Syouryuuken & Tatsumaki,FF845F,04,FF8463,04,FF8467,04
+16=Ryu - Fire Hadouken & Syouryuuken & Tatsumaki,FF845F,04,FF8467,04,FF84AF,08
+17=Sagat - Ground Tiger & Tiger Shot & Tiger Uppercut & Knee Crush,FF844F,04,FF8453,04,FF8457,04,FF845B,04
+18=T.Hawk - Mexican Typhoon & Tomahawk Buster,FF8461,04,FF8469,06,FF8468,02
+19=Vega - Flying Barcelona & Rolling Crystal Flash & Sky High Claw,FF8457,06,FF845B,06,FF845F,06
+20=Zangief - Atomic Suplex & Screw Pile Driver,FF844F,06,FF844E,02,FF8468,06,FF846B,02
+
+[19]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF87F9,01,FF898B,01
+
+[20]
+Name=P2 Die Hard
+0=No,0,0
+1=Yes,FF87F8,90
+
+[21]
+Name=P2 Invincible
+0=No,0,0
+1=Yes,FF898C,01
+
+[22]
+Name=P2 1 Win Match
+0=No,0,0
+1=Yes,FF8B5F,01
+
+[23]
+Name=P2 Air Moves
+0=No,0,0
+1=Yes,FF894E,00
+
+[24]
+Name=P2 Inf Fireball
+0=No,0,0
+1=Yes,FF89A3,00,FF89A2,00
+
+[25]
+Name=P2 No Hit Stop
+0=No,0,0
+1=Yes,FF8814,00
+
+[26]
+Name=P2 Auto Combo
+0=No,0,0
+1=Yes,FF8419,00
+
+[27]
+Name=P2 Never Faint
+0=No,0,0
+1=Yes,FF882E,01
+
+[28]
+Name=P2 Action Speed Up
+0=No,0,0
+1=Yes,FF87E6,01
+
+[29]
+Name=P2 Quick Shot*
+0=No,0,0
+1=Yes,FF87ED,01
+
+[30]
+Name=P2 All Cancel
+0=No,0,0
+1=Yes,FF8961,01,FF8962,01
+
+[31]
+Name=P2 Char Select
+0=Normal,0,0
+1=Balrog,FF8B5E,0A
+2=Balrog (Max Turnpunch),FF8B5E,0A,FF8884,5F,FF8885,0B,FF8886,5F,FF8887,0B
+3=Blanka,FF8B5E,02
+4=Cammy,FF8B5E,0C
+5=Chun-Li,FF8B5E,05
+6=Dee Jay,FF8B5E,0F
+7=Dhalsim,FF8B5E,07
+8=E.Honda,FF8B5E,01
+9=Fei Long,FF8B5E,0E
+10=Guile,FF8B5E,03
+11=Ken,FF8B5E,04
+12=M.Bison,FF8B5E,08
+13=Ryu,FF8B5E,00
+14=Sagat,FF8B5E,09
+15=T.Hawk,FF8B5E,0D
+16=Vega,FF8B5E,0B
+17=Zangief,FF8B5E,06
+
+[32]
+Name=P2 Easy Moves
+0=Normal,0,0
+1=Balrog - Dash Straight & Upper & Buffalo Headbutt,FF884F,06,FF8857,06,FF888F,06
+2=Blanka - Normal & Vertical & Backstep Rolling,FF884F,06,FF887F,06,FF8886,06
+3=Cammy - Axel Spin Knuckle & Cannon Spike & Spiral Arrow,FF8861,04,FF8865,04,FF8871,04
+4=Chun Li - Kikouken & Spinning Bird Kick,FF884F,06,FF887F,06
+5=Dee Jay - Air Slasher & Double Rolling & Machinegun Upper,FF8861,06,FF8865,06,FF8875,06
+6=Dhalsim - Yoga Fire & Yoga Teleport Left,FF884F,04,FF8857,04,FF885A,05
+7=Dhalsim - Yoga Fire & Yoga Teleport Right,FF884F,04,FF8857,04,FF885A,06
+8=Dhalsim - Yoga Flame & Yoga Teleport Left,FF8853,08,FF8857,04,FF885A,05
+9=Dhalsim - Yoga Flame & Yoga Teleport Right,FF8853,08,FF8857,04,FF885A,06
+10=E.Honda - Super Zutsuki & Hyakkan Otoshi,FF884F,06,FF8879,06
+11=Fei Long - Rekkaken & Sien Kyaku,FF8863,04,FF885F,04,FF886F,04
+12=Guile - Sonic Boom & Somersault Kick,FF884F,06,FF8855,06
+13=Ken - Hadouken & Syouryuuken & Tatsumaki,FF885F,04,FF8863,04,FF8867,04
+14=M.Bison - Devil Reverse & Double Knee & Head Press,FF8857,06,FF885E,06,FF887B,06
+15=Ryu - Hadouken & Syouryuuken & Tatsumaki,FF885F,04,FF8863,04,FF8867,04
+16=Ryu - Fire Hadouken & Syouryuuken & Tatsumaki,FF885F,04,FF8867,04,FF88AF,08
+17=Sagat - Ground Tiger & Tiger Shot & Tiger Uppercut & Knee Crush,FF884F,04,FF8853,04,FF8857,04,FF885B,04
+18=T.Hawk - Mexican Typhoon & Tomahawk Buster,FF8861,04,FF8869,06,FF8868,02
+19=Vega - Flying Barcelona & Rolling Crystal Flash & Sky High Claw,FF8857,06,FF885B,06,FF885F,06
+20=Zangief - Atomic Suplex & Screw Pile Driver,FF884F,06,FF884E,02,FF8868,06,FF886B,02
+
+[33]
+Name=BackGround Select
+0=Normal,0,0
+1=Balrog,FFE08A,0A
+2=Blanka,FFE08A,02
+3=Cammy,FFE08A,0C
+4=Chun Li,FFE08A,05
+5=Dee Jay,FFE08A,0F
+6=Dhalsim,FFE08A,07
+7=E.Honda,FFE08A,01
+8=Fei Long,FFE08A,0E
+9=Guile,FFE08A,03
+10=Ken,FFE08A,04
+11=M.Bison,FFE08A,08
+12=Ryu,FFE08A,00
+13=Sagat,FFE08A,09
+14=T.Hawk,FFE08A,0D
+15=Vega,FFE08A,0B
+16=Zangief,FFE08A,06

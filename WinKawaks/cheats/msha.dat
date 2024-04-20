@@ -1,0 +1,320 @@
+[0]
+Name=Region
+0=Normal,0,0
+1=Japan,FF4C22,00
+2=USA,FF4C22,02
+3=Hispanic,FF4C22,04
+4=Asia,FF4C22,06
+5=Euro,FF4C22,08
+6=Brazil,FF4C22,0A
+
+[1]
+Name=Infinite Battle Time
+0=No,0,0
+1=Yes,FF4809,99
+
+[2]
+Name=P1 Inf Health
+0=No,0,0
+1=Yes,FF4190,99
+
+[3]
+Name=P1 Inf Power Level
+0=No,0,0
+1=Yes,FF4199,3
+
+[4]
+Name=P1 Inf Power Bar
+0=No,0,0
+1=Yes,FF4194,90
+
+[5]
+Name=P1 Inf Gem Time
+0=No,0,0
+1=Yes,FF4151,70
+
+[6]
+Name=P1 Inf Double Jump
+0=No,0,0
+1=Yes,FF4145,00
+
+[7]
+Name=P1 Keep Power Up
+0=No,0,0
+1=Yes,FF40D9,01
+
+[8]
+Name=P1 Keep Speed Up
+0=No,0,0
+1=Yes,FF4148,01
+
+[9]
+Name=P1 No Hit Stop*
+0=No,0,0
+1=Yes,FF4088,01
+
+[10]
+Name=P1 No Ground Attacks
+0=No,0,0
+1=Yes,FF406B,80
+
+[11]
+Name=P1 No Chain Combo Limit
+0=No,0,0
+1=Yes,FF414B,00
+
+[12]
+Name=P1 Char Select
+0=Normal,0,0
+1=Anita,FF4050,18
+2=BlackHeart,FF4050,0C
+3=Captain America,FF4050,02
+4=Dr.Doom,FF4050,14
+5=Hulk,FF4050,04
+6=Iron Man,FF4050,06
+7=Juggernaut,FF4050,10
+8=Magneto,FF4050,12
+9=Psylocke,FF4050,0A
+10=Shuma-Gorath,FF4050,0E
+11=Spider-Man,FF4050,00
+12=Thanos,FF4050,16
+13=Wolverine,FF4050,08
+
+[13]
+Name=P1 Gem Slot 1
+0=Normal,0,0
+1=Mind Gem,FF41B7,0A
+2=No Gem,FF41B7,FF
+3=Power Gem,FF41B7,00
+4=Reality Gem,FF41B7,08
+5=Soul Gem,FF41B7,06
+6=Space Gem,FF41B7,04
+7=Time Gem,FF41B7,02
+
+[14]
+Name=P1 Gem Slot 2
+0=Normal,0,0
+1=Mind Gem,FF41B6,0A
+2=No Gem,FF41B6,FF
+3=Power Gem,FF41B6,00
+4=Reality Gem,FF41B6,08
+5=Soul Gem,FF41B6,06
+6=Space Gem,FF41B6,04
+7=Time Gem,FF41B6,02
+
+[15]
+Name=P1 Gem Slot 3
+0=Normal,0,0
+1=Mind Gem,FF41B9,0A
+2=No Gem,FF41B9,FF
+3=Power Gem,FF41B9,00
+4=Reality Gem,FF41B9,08
+5=Soul Gem,FF41B9,06
+6=Space Gem,FF41B9,04
+7=Time Gem,FF41B9,02
+
+[16]
+Name=P1 Gem Slot 4
+0=Normal,0,0
+1=Mind Gem,FF41B8,0A
+2=No Gem,FF41B8,FF
+3=Power Gem,FF41B8,00
+4=Reality Gem,FF41B8,08
+5=Soul Gem,FF41B8,06
+6=Space Gem,FF41B8,04
+7=Time Gem,FF41B8,02
+
+[17]
+Name=P1 Gem Slot 5
+0=Normal,0,0
+1=Mind Gem,FF41BB,0A
+2=No Gem,FF41BB,FF
+3=Power Gem,FF41BB,00
+4=Reality Gem,FF41BB,08
+5=Soul Gem,FF41BB,06
+6=Space Gem,FF41BB,04
+7=Time Gem,FF41BB,02
+
+[18]
+Name=P1 Gem Slot 6
+0=Normal,0,0
+1=Mind Gem,FF41BA,0A
+2=No Gem,FF41BA,FF
+3=Power Gem,FF41BA,00
+4=Reality Gem,FF41BA,08
+5=Soul Gem,FF41BA,06
+6=Space Gem,FF41BA,04
+7=Time Gem,FF41BA,02
+
+[19]
+Name=P1 Captain America Shield
+0=Normal,0,0
+1=Equip,FF4305,00
+2=No Shield,FF4305,01
+
+[20]
+Name=P2 Inf Health
+0=No,0,0
+1=Yes,FF4590,99
+
+[21]
+Name=P2 Inf Power Level
+0=No,0,0
+1=Yes,FF4599,3
+
+[22]
+Name=P2 Inf Power Bar
+0=No,0,0
+1=Yes,FF4594,90
+
+[23]
+Name=P2 Inf Gem Time
+0=No,0,0
+1=Yes,FF4551,70
+
+[24]
+Name=P2 Inf Double Jump
+0=No,0,0
+1=Yes,FF4545,00
+
+[25]
+Name=P2 Keep Power Up
+0=No,0,0
+1=Yes,FF44D9,01
+
+[26]
+Name=P2 Keep Speed Up
+0=No,0,0
+1=Yes,FF4548,01
+
+[27]
+Name=P2 No Hit Stop*
+0=No,0,0
+1=Yes,FF4488,01
+
+[28]
+Name=P2 No Ground Attacks
+0=No,0,0
+1=Yes,FF446B,80
+
+[29]
+Name=P2 No Chain Combo Limit
+0=No,0,0
+1=Yes,FF454B,00
+
+[30]
+Name=P2 Char Select
+0=Normal,0,0
+1=Anita,FF4450,18
+2=BlackHeart,FF4450,0C
+3=Captain America,FF4450,02
+4=Dr.Doom,FF4450,14
+5=Hulk,FF4450,04
+6=Iron Man,FF4450,06
+7=Juggernaut,FF4450,10
+8=Magneto,FF4450,12
+9=Psylocke,FF4450,0A
+10=Shuma-Gorath,FF4450,0E
+11=Spider-Man,FF4450,00
+12=Thanos,FF4450,16
+13=Wolverine,FF4450,08
+
+[31]
+Name=P2 Gem Slot 1
+0=Normal,0,0
+1=Mind Gem,FF45B7,0A
+2=No Gem,FF45B7,FF
+3=Power Gem,FF45B7,00
+4=Reality Gem,FF45B7,08
+5=Soul Gem,FF45B7,06
+6=Space Gem,FF45B7,04
+7=Time Gem,FF45B7,02
+
+[32]
+Name=P2 Gem Slot 2
+0=Normal,0,0
+1=Mind Gem,FF45B6,0A
+2=No Gem,FF45B6,FF
+3=Power Gem,FF45B6,00
+4=Reality Gem,FF45B6,08
+5=Soul Gem,FF45B6,06
+6=Space Gem,FF45B6,04
+7=Time Gem,FF45B6,02
+
+[33]
+Name=P2 Gem Slot 3
+0=Normal,0,0
+1=Mind Gem,FF45B9,0A
+2=No Gem,FF45B9,FF
+3=Power Gem,FF45B9,00
+4=Reality Gem,FF45B9,08
+5=Soul Gem,FF45B9,06
+6=Space Gem,FF45B9,04
+7=Time Gem,FF45B9,02
+
+[34]
+Name=P2 Gem Slot 4
+0=Normal,0,0
+1=Mind Gem,FF45B8,0A
+2=No Gem,FF45B8,FF
+3=Power Gem,FF45B8,00
+4=Reality Gem,FF45B8,08
+5=Soul Gem,FF45B8,06
+6=Space Gem,FF45B8,04
+7=Time Gem,FF45B8,02
+
+[35]
+Name=P2 Gem Slot 5
+0=Normal,0,0
+1=Mind Gem,FF45BB,0A
+2=No Gem,FF45BB,FF
+3=Power Gem,FF45BB,00
+4=Reality Gem,FF45BB,08
+5=Soul Gem,FF45BB,06
+6=Space Gem,FF45BB,04
+7=Time Gem,FF45BB,02
+
+[36]
+Name=P2 Gem Slot 6
+0=Normal,0,0
+1=Mind Gem,FF45BA,0A
+2=No Gem,FF45BA,FF
+3=Power Gem,FF45BA,00
+4=Reality Gem,FF45BA,08
+5=Soul Gem,FF45BA,06
+6=Space Gem,FF45BA,04
+7=Time Gem,FF45BA,02
+
+[37]
+Name=P2 Captain America Shield
+0=Normal,0,0
+1=Equip,FF4705,00
+2=No Shield,FF4705,01
+
+[38]
+Name=BackGround Select
+0=Normal,0,0
+1=BlackHeart,FF4892,06
+2=Captain America,FF4892,01
+3=Dr.Doom,FF4892,0A
+4=Hulk,FF4892,02
+5=Iron Man,FF4892,03
+6=Juggernaut,FF4892,08
+7=Magneto,FF4892,09
+8=Psylocke,FF4892,05
+9=Shuma-Gorath,FF4892,07
+10=Spider-Man,FF4892,00
+11=Thanos,FF4892,0B
+12=Wolverine,FF4892,04
+
+[39]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FF4851,00
+2=Stage 2,FF4851,01
+3=Stage 3,FF4851,02
+4=Stage 4,FF4851,03
+5=Stage 5,FF4851,04
+6=Stage 6,FF4851,05
+7=Stage 7,FF4851,06
+8=Stage 8,FF4851,07

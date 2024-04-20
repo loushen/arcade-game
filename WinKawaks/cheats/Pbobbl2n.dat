@@ -1,0 +1,23 @@
+[Region]
+Default=0
+
+[0]
+Name=Help line
+0=OFF,0,0
+1=ON,105835,FF
+Default=1
+
+[1]
+Name=Note
+0=Using "Help line",0,0
+Default=0
+
+[2]
+Name=Note
+0=cheat only during,0,0
+Default=0
+
+[3]
+Name=Note
+0=Puzzle Mode,0,0
+Default=0

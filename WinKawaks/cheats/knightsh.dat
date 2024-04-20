@@ -1,0 +1,116 @@
+[0]
+Name=Infinite Continues
+0=No,0,0
+1=Yes,FFE84C,00,FFAC89,00,FFADA9,00,FFAEC9,00
+
+[1]
+Name=Infinite Time
+0=No,0,0
+1=Yes,FFE7DB,59
+
+[2]
+Name=P1 Inf Lives
+0=No,0,0
+1=Yes,FFAC77,03
+
+[3]
+Name=P1 Inf Energy
+0=No,0,0
+1=Yes,FFABA4,50
+
+[4]
+Name=P1 Invincible
+0=No,0,0
+1=Yes,FFAC7B,78
+
+[5]
+Name=P1 Quick Attack
+0=No,0,0
+1=Yes,FFE832,01
+
+[6]
+Name=P1 Max Character Level
+0=No,0,0
+1=Yes,FFAC4F,0F,FFAC8D,99,FFAC8C,99,FFAC8F,99,FFAC8E,99
+
+[7]
+Name=P1 Char Select
+0=Normal,0,0
+1=Arthur,FFAC4D,01
+2=Lancelot,FFAC4D,00
+3=Perceval,FFAC4D,02
+
+[8]
+Name=P2 Inf Lives
+0=No,0,0
+1=Yes,FFAD97,03
+
+[9]
+Name=P2 Inf Energy
+0=No,0,0
+1=Yes,FFACC4,50
+
+[10]
+Name=P2 Invincible
+0=No,0,0
+1=Yes,FFAD9B,78
+
+[11]
+Name=P2 Quick Attack
+0=No,0,0
+1=Yes,FFE952,01
+
+[12]
+Name=P2 Max Character Level
+0=No,0,0
+1=Yes,FFAD6F,0F,FFADAD,99,FFADAC,99,FFADAF,99,FFADAE,99
+
+[13]
+Name=P2 Char Select
+0=Normal,0,0
+1=Arthur,FFAD6D,01
+2=Lancelot,FFAD6D,00
+3=Perceval,FFAD6D,02
+
+[14]
+Name=P3 Inf Lives
+0=No,0,0
+1=Yes,FFAEB7,03
+
+[15]
+Name=P3 Inf Energy
+0=No,0,0
+1=Yes,FFADE4,50
+
+[16]
+Name=P3 Invincible
+0=No,0,0
+1=Yes,FFAEBB,78
+
+[17]
+Name=P3 Quick Attack
+0=No,0,0
+1=Yes,FFEA72,01
+
+[18]
+Name=P3 Max Character Level
+0=No,0,0
+1=Yes,FFAD8F,0F,FFAECD,99,FFAECC,99,FFAECF,99,FFAECE,99
+
+[19]
+Name=P3 Char Select
+0=Normal,0,0
+1=Arthur,FFAE8D,01
+2=Lancelot,FFAE8D,00
+3=Perceval,FFAE8D,02
+
+[20]
+Name=Stage Select
+0=Normal,0,0
+1=Stage 1,FFA4C5,00
+2=Stage 2,FFA4C5,01
+3=Stage 3,FFA4C5,02
+4=Stage 4,FFA4C5,03
+5=Stage 5,FFA4C5,04
+6=Stage 6,FFA4C5,05
+7=Final Stage,FFA4C5,06

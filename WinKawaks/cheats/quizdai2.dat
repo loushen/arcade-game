@@ -1,0 +1,59 @@
+[]
+Name=Infinite Time Limit
+0=Off,0,0
+1=On,10093F,05
+
+[]
+Name=Infinite Chance
+0=Off,0,0
+1=P1,101AC5,0E
+2=P2,101FC5,0E
+3=P1&P2,101AC5,0E,101FC5,0E
+
+[]
+Name=Questions
+0=Off,0,0
+1=4 Questions,100991,00
+2=3 Questions,100991,01
+3=2 Questions,100991,02
+4=1 Question,100991,03
+
+[]
+Name=0 Norm
+0=Off,0,0
+1=On,10097A,00
+
+[]
+Name=Attack Mode
+0=Off,0,0
+1=1 Answer 1 Norm(Default),100993,00
+2=1 Answer 2 Norm(PowerUp),100993,01
+
+[]
+Name=Genre Select
+0=Off,0,0
+1=Random (ランダム),10098E,01
+2=Anime or Comic (アニメ・漫画),10098E,02
+3=Car or Bicycle (車・バイク),10098E,03
+4=Cinema (映画),10098E,04
+5=Entertainment or Music (芸能・音楽),10098E,05
+6=Literature or History (文学・歴史),10098E,06
+7=Sports (スポーツ),10098E,07
+8=Adult (アダルト),10098E,08
+9=Game (ゲーム),10098E,09
+10=Government or Economy (政治・経済),10098E,0A
+11=General Knowledge (雑学),10098E,0B
+
+[]
+Name=Cheat of Answer Number
+0=Off,0,0
+1=A,100976,00
+2=B,100976,01
+3=C,100976,02
+4=D,100976,03
+
+[]
+Name=Question Display
+0=Off,0,0
+1=??? On,100991,FF
+
