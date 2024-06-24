@@ -15,20 +15,13 @@ WinKawaks街机游戏模拟器
 
 #### 使用说明
 
-1.  不限速度下载，不用像百度云开会员；只需要注册账号
+1.  不限速度下载，不用像百度云开会员；不需要注册账号，下载即可
 2.  没有长期存在的网站，链接容易失效，所以自己上传文件，只要本人账号还在就不会失效
 3.  由于100M上传限制，上传的文件不能超过100M，所以本人删除了几个里面超过100M的游戏；望谅解
-4.  【街机模拟器下载 添加游戏 设置 教程】 https://www.bilibili.com/video/BV1qy4y1p7fV/?share_source=copy_web&vd_source=334233c17cbdb462a5be8cd24af9dfcd
-
-以下是简单打开游戏简单图解
-1.打开游戏  
-![打开游戏](https://foruda.gitee.com/images/1713035108195181475/a7c09d69_12963730.png "屏幕截图")  
-2.按键设置  
-![按键设置](https://foruda.gitee.com/images/1713035152037061728/1ef74263_12963730.png "屏幕截图")  
-3.退出  
-![退出](https://foruda.gitee.com/images/1713035718864194182/f6e371db_12963730.png "屏幕截图")  
-~~4.游戏声音（这个资源文件，不知道为啥把背景音关闭了。无需更改，已改正）~~  
-![bgm](WinKawaksall/sshots/image.png)
+4.  【街机模拟器下载 添加游戏 设置 教程】 https://www.bilibili.com/video/BV1qy4y1p7fV/?share_source=copy_web&vd_source=334233c17cbdb462a5be8cd24af9dfcd  
+下载  
+![下载](./img/download%20zip.gif)  
+![图解](./img/Quicker_20240624_143547.png)
 
 #### 参与贡献
 
